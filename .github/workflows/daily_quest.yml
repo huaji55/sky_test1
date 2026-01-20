@@ -28,7 +28,7 @@ jobs:
       - name: Run Hidden Script
         env:
           # 這是核心代碼
-          HIDDEN_SCRIPT: ${{ secrets.SCRIPT }}
+          SCRIPT: ${{ secrets.SCRIPT }}
           # 這是翻譯文本
           QUEST_DESC_MAPPING: ${{ secrets.QUEST_DESC_MAPPING }}
         run: python main.py
