@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sky 光遇 - 每日任務預報</title>
+    <style>
+        :root {
+            --primary: #5dade2;
+            --secondary: #2e86c1;
+            --accent: #f1c40f;
+            --bg: #ebf5fb;
+            --card-bg: #ffffff;
+            --text: #34495e;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        .container {
+            width: 100%;
+            max-width: 600px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        h1 {
+            color: var(--secondary);
+            font-size: 1.8rem;
+            margin-bottom: 5px;
+        }
+        .status {
+            font-size: 0.85rem;
+            color: #7f8c8d;
+        }
+        .card {
+            background: var(--card-bg);
+            border-radius: 16px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            border-left: 6px solid var(--primary);
+            transition: transform 0.2s;
+        }
+        .card:hover {
+            transform: translateY(-2px);
+        }
+        .card.tomorrow {
+            border-left-color: var(--accent);
+        }
+        h2 {
+            margin-top: 0;
+            font-size: 1.2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .date-badge {
+            font-size: 0.8rem;
+            background: #f0f3f4;
+            padding: 4px 8px;
+            border-radius: 12px;
+            color: #7f8c8d;
+            font-weight: normal;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        li {
+            padding: 10px 0;
+            border-bottom: 1px solid #f0f3f4;
+            display: flex;
+            align-items: center;
+        }
+        li:last-child {
+            border-bottom: none;
+        }
+        li::before {
+            content: "✦";
+            color: var(--primary);
+            margin-right: 10px;
+            font-size: 0.8rem;
+        }
+        .tomorrow li::before {
+            color: var(--accent);
+        }
+        #loading {
+            text-align: center;
+            padding: 40px;
+            color: var(--secondary);
+            font-weight: bold;
+        }
+        #error-msg {
+            color: #e74c3c;
+            text-align: center;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Sky 每日任務</h1>
+            <div class="status">最後更新: <span id="update-time">讀取中...</span></div>
+        </header>
+
+        <div id="loading">正在連線至精靈...</div>
+        <div id="error-msg">無法讀取任務資料，請稍後再試。</div>
+
+        <div id="content" style="display: none;">
+            <div class="card">
+                <h2>
+                    今日任務
+                    <span class="date-badge" id="today-date">--/--</span>
+                </h2>
+                <ul id="today-list"></ul>
+            </div>
+
+            <div class="card tomorrow">
+                <h2>
+                    明日預告
+                    <span class="date-badge" id="tomorrow-date">--/--</span>
+                </h2>
+                <ul id="tomorrow-list"></ul>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 加入時間戳記 (timestamp) 來強制瀏覽器不要使用舊的快取
+        const jsonUrl = 'data.json?t=' + new Date().getTime();
+
+        fetch(jsonUrl)
+            .then(response => {
+                if (!response.ok) throw new Error("HTTP error " + response.status);
+                return response.json();
+            })
+            .then(data => {
+                // 隱藏 Loading
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('content').style.display = 'block';
+
+                // 更新時間
+                document.getElementById('update-time').textContent = data.updated_at;
+
+                // 填入今日資料
+                document.getElementById('today-date').textContent = data.today.date;
+                const todayList = document.getElementById('today-list');
+                data.today.quests.forEach(quest => {
+                    const li = document.createElement('li');
+                    li.textContent = quest;
+                    todayList.appendChild(li);
+                });
+
+                // 填入明日資料
+                document.getElementById('tomorrow-date').textContent = data.tomorrow.date;
+                const tomorrowList = document.getElementById('tomorrow-list');
+                data.tomorrow.quests.forEach(quest => {
+                    const li = document.createElement('li');
+                    li.textContent = quest;
+                    tomorrowList.appendChild(li);
+                });
+            })
+            .catch(error => {
+                console.error('Fetch error:', error);
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('error-msg').style.display = 'block';
+                document.getElementById('error-msg').textContent = "讀取失敗：" + error.message;
+            });
+    </script>
+</body>
+</html>
