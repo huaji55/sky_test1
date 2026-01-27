@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sky 光遇 - 每日任務預報</title>
+    <title>Sky 每日任務</title>
     <style>
         :root {
             --primary: #5dade2;
-            --secondary: #2e86c1;
             --accent: #f1c40f;
             --bg: #ebf5fb;
             --card-bg: #ffffff;
             --text: #34495e;
+            --btn-active: #2e86c1;
         }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -20,163 +20,188 @@
             margin: 0;
             padding: 20px;
             display: flex;
-            justify-content: center;
+            flex-direction: column;
+            align-items: center;
             min-height: 100vh;
         }
-        .container {
-            width: 100%;
-            max-width: 600px;
+        .container { width: 100%; max-width: 600px; }
+        .lang-switch { display: flex; justify-content: center; gap: 10px; margin-bottom: 20px; }
+        .lang-btn {
+            background: white; border: 2px solid var(--primary); color: var(--primary);
+            padding: 8px 16px; border-radius: 20px; cursor: pointer; font-weight: bold; transition: 0.2s;
         }
-        header {
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        h1 {
-            color: var(--secondary);
-            font-size: 1.8rem;
-            margin-bottom: 5px;
-        }
-        .status {
-            font-size: 0.85rem;
-            color: #7f8c8d;
-        }
+        .lang-btn.active { background: var(--primary); color: white; }
         .card {
-            background: var(--card-bg);
-            border-radius: 16px;
-            padding: 20px;
-            margin-bottom: 20px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
-            border-left: 6px solid var(--primary);
-            transition: transform 0.2s;
+            background: var(--card-bg); border-radius: 16px; padding: 20px; margin-bottom: 20px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05); border-left: 6px solid var(--primary);
         }
-        .card:hover {
-            transform: translateY(-2px);
-        }
-        .card.tomorrow {
-            border-left-color: var(--accent);
-        }
-        h2 {
-            margin-top: 0;
-            font-size: 1.2rem;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .date-badge {
-            font-size: 0.8rem;
-            background: #f0f3f4;
-            padding: 4px 8px;
-            border-radius: 12px;
-            color: #7f8c8d;
-            font-weight: normal;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-        li {
-            padding: 10px 0;
-            border-bottom: 1px solid #f0f3f4;
-            display: flex;
-            align-items: center;
-        }
-        li:last-child {
-            border-bottom: none;
-        }
-        li::before {
-            content: "✦";
-            color: var(--primary);
-            margin-right: 10px;
-            font-size: 0.8rem;
-        }
-        .tomorrow li::before {
-            color: var(--accent);
-        }
-        #loading {
-            text-align: center;
-            padding: 40px;
-            color: var(--secondary);
-            font-weight: bold;
-        }
-        #error-msg {
-            color: #e74c3c;
-            text-align: center;
-            display: none;
-        }
+        .card.tomorrow { border-left-color: var(--accent); }
+        .card.history { border-left-color: #95a5a6; }
+        
+        h2 { margin-top: 0; font-size: 1.2rem; display: flex; justify-content: space-between; align-items: center; }
+        .date-badge { font-size: 0.8rem; background: #f0f3f4; padding: 4px 8px; border-radius: 12px; color: #7f8c8d; }
+        ul { list-style: none; padding: 0; margin: 0; }
+        li { padding: 10px 0; border-bottom: 1px solid #f0f3f4; display: flex; align-items: center; }
+        li::before { content: "✦"; color: var(--primary); margin-right: 10px; }
+        .tomorrow li::before { color: var(--accent); }
+        .history li::before { color: #95a5a6; }
+        
+        /* 歷史查詢區塊樣式 */
+        .history-controls { display: flex; gap: 10px; margin-bottom: 15px; }
+        input[type="date"] { padding: 8px; border-radius: 8px; border: 1px solid #ccc; flex-grow: 1; }
+        button.search-btn { padding: 8px 15px; background: #95a5a6; color: white; border: none; border-radius: 8px; cursor: pointer; }
     </style>
 </head>
 <body>
 
     <div class="container">
-        <header>
-            <h1>Sky 每日任務</h1>
-            <div class="status">最後更新: <span id="update-time">讀取中...</span></div>
-        </header>
+        <div class="lang-switch">
+            <button class="lang-btn active" onclick="setLang('tw')">繁體</button>
+            <button class="lang-btn" onclick="setLang('cn')">简体</button>
+            <button class="lang-btn" onclick="setLang('en')">English</button>
+        </div>
 
-        <div id="loading">正在連線至精靈...</div>
-        <div id="error-msg">無法讀取任務資料，請稍後再試。</div>
+        <div id="loading" style="text-align: center;">Loading...</div>
 
         <div id="content" style="display: none;">
             <div class="card">
-                <h2>
-                    今日任務
-                    <span class="date-badge" id="today-date">--/--</span>
-                </h2>
-                <ul id="today-list"></ul>
+                <h2><span class="lbl-today">今日任務</span> <span class="date-badge" id="date-today"></span></h2>
+                <ul id="list-today"></ul>
             </div>
 
             <div class="card tomorrow">
-                <h2>
-                    明日預告
-                    <span class="date-badge" id="tomorrow-date">--/--</span>
-                </h2>
-                <ul id="tomorrow-list"></ul>
+                <h2><span class="lbl-tmr">明日任務</span> <span class="date-badge" id="date-tmr"></span></h2>
+                <ul id="list-tmr"></ul>
             </div>
+
+            <div class="card history">
+                <h2><span class="lbl-history">歷史查詢</span></h2>
+                <div class="history-controls">
+                    <input type="date" id="history-picker">
+                    <button class="search-btn" onclick="searchHistory()" class="lbl-search">GO</button>
+                </div>
+                <div id="history-result" style="display:none;">
+                    <span class="date-badge" id="date-history" style="display:block; margin-bottom:10px;"></span>
+                    <ul id="list-history"></ul>
+                </div>
+                <div id="history-error" style="color: #e74c3c; display:none; font-size: 0.9rem;"></div>
+            </div>
+            
+            <div class="footer" style="text-align:center; color:#ccc; font-size:0.8rem; margin-top:20px;">Updated: <span id="update-time"></span></div>
         </div>
     </div>
 
     <script>
-        // 加入時間戳記 (timestamp) 來強制瀏覽器不要使用舊的快取
-        const jsonUrl = 'data.json?t=' + new Date().getTime();
+        let fullData = null;
+        let currentLang = localStorage.getItem('sky_lang') || 'tw';
 
-        fetch(jsonUrl)
-            .then(response => {
-                if (!response.ok) throw new Error("HTTP error " + response.status);
-                return response.json();
-            })
+        // 初始化
+        document.getElementById('history-picker').valueAsDate = new Date(); // 預設今天
+
+        // 讀取最新資料
+        fetch('data.json?t=' + new Date().getTime())
+            .then(res => res.json())
             .then(data => {
-                // 隱藏 Loading
+                fullData = data;
                 document.getElementById('loading').style.display = 'none';
                 document.getElementById('content').style.display = 'block';
-
-                // 更新時間
-                document.getElementById('update-time').textContent = data.updated_at;
-
-                // 填入今日資料
-                document.getElementById('today-date').textContent = data.today.date;
-                const todayList = document.getElementById('today-list');
-                data.today.quests.forEach(quest => {
-                    const li = document.createElement('li');
-                    li.textContent = quest;
-                    todayList.appendChild(li);
-                });
-
-                // 填入明日資料
-                document.getElementById('tomorrow-date').textContent = data.tomorrow.date;
-                const tomorrowList = document.getElementById('tomorrow-list');
-                data.tomorrow.quests.forEach(quest => {
-                    const li = document.createElement('li');
-                    li.textContent = quest;
-                    tomorrowList.appendChild(li);
-                });
+                document.getElementById('update-time').innerText = data.updated_at;
+                setLang(currentLang);
             })
-            .catch(error => {
-                console.error('Fetch error:', error);
-                document.getElementById('loading').style.display = 'none';
-                document.getElementById('error-msg').style.display = 'block';
-                document.getElementById('error-msg').textContent = "讀取失敗：" + error.message;
+            .catch(err => document.getElementById('loading').innerText = "Load Failed");
+
+        function setLang(lang) {
+            currentLang = lang;
+            localStorage.setItem('sky_lang', lang);
+            
+            document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.remove('active'));
+            // 簡單找包含文字的按鈕highlight
+            const map = {'tw':'繁體', 'cn':'简体', 'en':'English'};
+            Array.from(document.querySelectorAll('.lang-btn')).find(b => b.innerText.includes(map[lang])).classList.add('active');
+
+            // 翻譯 UI 標籤
+            const labels = {
+                'tw': { today: '今日任務', tmr: '明日預告', history: '歷史查詢', search: '查詢' },
+                'cn': { today: '今日任务', tmr: '明日预告', history: '历史查询', search: '查询' },
+                'en': { today: 'Today', tmr: 'Tomorrow', history: 'History', search: 'Search' }
+            };
+            document.querySelector('.lbl-today').innerText = labels[lang].today;
+            document.querySelector('.lbl-tmr').innerText = labels[lang].tmr;
+            document.querySelector('.lbl-history').innerText = labels[lang].history;
+            document.querySelector('.search-btn').innerText = labels[lang].search;
+
+            // 渲染列表
+            if(fullData) {
+                const d = fullData[lang];
+                document.getElementById('date-today').innerText = d.date_today;
+                document.getElementById('date-tmr').innerText = d.date_tomorrow;
+                fillList('list-today', d.quests_today);
+                fillList('list-tmr', d.quests_tomorrow);
+            }
+            
+            // 如果歷史紀錄區有顯示東西，也要重繪語言
+            if(document.getElementById('history-result').style.display === 'block') {
+                searchHistory(); 
+            }
+        }
+
+        function fillList(ulId, items) {
+            const ul = document.getElementById(ulId);
+            ul.innerHTML = '';
+            items.forEach(text => {
+                const li = document.createElement('li');
+                li.innerText = text;
+                ul.appendChild(li);
             });
+        }
+
+        // --- 歷史查詢核心邏輯 ---
+        function searchHistory() {
+            const dateInput = document.getElementById('history-picker').value;
+            if(!dateInput) return;
+
+            const [year, month, day] = dateInput.split('-');
+            const jsonPath = `archive/${year}-${month}.json`; // 計算檔案路徑
+            
+            const resultDiv = document.getElementById('history-result');
+            const errorDiv = document.getElementById('history-error');
+            const listUl = document.getElementById('list-history');
+
+            resultDiv.style.display = 'none';
+            errorDiv.style.display = 'none';
+            listUl.innerHTML = 'Loading...';
+
+            fetch(jsonPath)
+                .then(res => {
+                    if(!res.ok) throw new Error("No record / 無此紀錄");
+                    return res.json();
+                })
+                .then(historyData => {
+                    // key 格式是 YYYY-MM-DD
+                    const dayData = historyData[dateInput];
+                    
+                    if(dayData) {
+                        resultDiv.style.display = 'block';
+                        document.getElementById('date-history').innerText = dateInput;
+                        listUl.innerHTML = '';
+                        
+                        // 根據當前語言選擇顯示
+                        const quests = dayData[currentLang] || dayData['en']; 
+                        quests.forEach(q => {
+                            const li = document.createElement('li');
+                            li.innerText = q;
+                            listUl.appendChild(li);
+                        });
+                    } else {
+                        throw new Error("Date not found in archive / 該日期無資料");
+                    }
+                })
+                .catch(err => {
+                    errorDiv.style.display = 'block';
+                    errorDiv.innerText = err.message;
+                    listUl.innerHTML = '';
+                });
+        }
     </script>
 </body>
 </html>
