@@ -22,13 +22,12 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        # 即使 import 隱藏在 Secret 裡，環境還是必須先安裝 requests
         run: pip install requests
 
       - name: Run Script
         env:
           # 這是核心代碼
-          HIDDEN_SCRIPT: ${{ secrets.SCRIPT }}
+          SCRIPT: ${{ secrets.SCRIPT }}
           # 這是翻譯文本
           QUEST_TW: ${{ secrets.QUEST_TW }}
           QUEST_EN: ${{ secrets.QUEST_EN }}
