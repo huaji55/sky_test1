@@ -1,4 +1,4 @@
-name: Sky Daily Quest Hidden
+name: Sky Daily Quest 
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  run-hidden-logic:
+  run-Quest-logic:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,18 +25,21 @@ jobs:
         # 即使 import 隱藏在 Secret 裡，環境還是必須先安裝 requests
         run: pip install requests
 
-      - name: Run Hidden Script
+      - name: Run Script
         env:
           # 這是核心代碼
-          SCRIPT: ${{ secrets.SCRIPT }}
+          HIDDEN_SCRIPT: ${{ secrets.SCRIPT }}
           # 這是翻譯文本
-          QUEST_DESC_MAPPING: ${{ secrets.QUEST_DESC_MAPPING }}
+          QUEST_TW: ${{ secrets.QUEST_TW }}
+          QUEST_EN: ${{ secrets.QUEST_EN }}
+          QUEST_CN: ${{ secrets.QUEST_CN }}
         run: python main.py
 
       - name: Commit and Push
         run: |
           git config --global user.name "SkyBot"
           git config --global user.email "bot@noreply.github.com"
-          git add data.json
-          git commit -m "Update data" || exit 0
+          # 注意這裡：同時加入 data.json 和 archive 資料夾
+          git add data.json archive/
+          git commit -m "Update data & archive" || exit 0
           git push
