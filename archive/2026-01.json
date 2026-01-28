@@ -18,5 +18,25 @@
             "Find the candles at the end of the rainbow in the Vault of Knowledge",
             "Relive Greeting Shaman's memory from Vault of Knowledge"
         ]
+    },
+    "2026-01-28": {
+        "tw": [
+            "淨化 10 處黑暗腐植",
+            "在聖域群島乘坐一隻大光鰩",
+            "拜訪聖域群島上遭受汙染的間歇泉",
+            "重溫鳥語者在雲野的記憶"
+        ],
+        "cn": [
+            "净化 10 处黑暗腐植",
+            "在圣域群岛乘坐一只大光鳐",
+            "拜访圣域群岛上遭受污染的间歇泉",
+            "在云野重温鸟语者的记忆"
+        ],
+        "en": [
+            "Melt 10 darkness",
+            "Ride a giant manta in Sanctuary Islands",
+            "Visit the polluted geyser in Sanctuary Islands",
+            "Relive Bird Whisperer's memory from Daylight Prairie"
+        ]
     }
 }
