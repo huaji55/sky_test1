@@ -1,54 +1,54 @@
 {
-    "updated_at": "2026-01-28 16:19:27 (GMT+8)",
+    "updated_at": "2026-01-29 16:00:22 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-01-28",
-        "date_tomorrow": "2026-01-29",
+        "date_today": "2026-01-29",
+        "date_tomorrow": "2026-01-30",
         "quests_today": [
-            "淨化 10 處黑暗腐植",
-            "在聖域群島乘坐一隻大光鰩",
-            "拜訪聖域群島上遭受汙染的間歇泉",
-            "重溫鳥語者在雲野的記憶"
-        ],
-        "quests_tomorrow": [
             "點亮一位陌生玩家",
             "在樹林高處冥想",
             "在雨林的樹林高處整理歸屬季的先祖團聚長桌",
             "找到雨林的彩虹蠟燭"
+        ],
+        "quests_tomorrow": [
+            "欣賞一下霞谷小樹苗",
+            "參加任何一項錦標賽事",
+            "在霞谷滑行賽道中捕捉 3 道光",
+            "收集 30 道燭光"
         ]
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-01-28",
-        "date_tomorrow": "2026-01-29",
+        "date_today": "2026-01-29",
+        "date_tomorrow": "2026-01-30",
         "quests_today": [
-            "净化 10 处黑暗腐植",
-            "在圣域群岛乘坐一只大光鳐",
-            "拜访圣域群岛上遭受污染的间歇泉",
-            "在云野重温鸟语者的记忆"
-        ],
-        "quests_tomorrow": [
             "交一个新朋友",
             "在树林高处冥想",
             "在雨林的树林高处整理归属季的先祖团聚长桌",
             "在雨林找到彩虹蜡烛"
+        ],
+        "quests_tomorrow": [
+            "坐赏霞谷小树苗",
+            "参与任何一项锦标赛赛事",
+            "在霞谷的滑行赛道捕捉 3 道光",
+            "收集 30 道烛光"
         ]
     },
     "en": {
         "title": "English",
-        "date_today": "2026-01-28",
-        "date_tomorrow": "2026-01-29",
+        "date_today": "2026-01-29",
+        "date_tomorrow": "2026-01-30",
         "quests_today": [
-            "Melt 10 darkness",
-            "Ride a giant manta in Sanctuary Islands",
-            "Visit the polluted geyser in Sanctuary Islands",
-            "Relive Bird Whisperer's memory from Daylight Prairie"
-        ],
-        "quests_tomorrow": [
             "Make a new acquaintance",
             "Meditate in the Elevated Clearing",
             "Tidy up the Ancestor's Table of Belonging in Hidden Forest's elevated clearing",
             "Find the candles at the end of the rainbow in the Hidden Forest"
+        ],
+        "quests_tomorrow": [
+            "Admire the sapling in Valley of Triumph for a short while",
+            "Play any Tournament sport",
+            "Catch the 3 lights during the Valley's sliding race",
+            "Collect 30 pieces of light"
         ]
     }
 }

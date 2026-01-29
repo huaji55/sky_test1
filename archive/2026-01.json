@@ -38,5 +38,25 @@
             "Visit the polluted geyser in Sanctuary Islands",
             "Relive Bird Whisperer's memory from Daylight Prairie"
         ]
+    },
+    "2026-01-29": {
+        "tw": [
+            "點亮一位陌生玩家",
+            "在樹林高處冥想",
+            "在雨林的樹林高處整理歸屬季的先祖團聚長桌",
+            "找到雨林的彩虹蠟燭"
+        ],
+        "cn": [
+            "交一个新朋友",
+            "在树林高处冥想",
+            "在雨林的树林高处整理归属季的先祖团聚长桌",
+            "在雨林找到彩虹蜡烛"
+        ],
+        "en": [
+            "Make a new acquaintance",
+            "Meditate in the Elevated Clearing",
+            "Tidy up the Ancestor's Table of Belonging in Hidden Forest's elevated clearing",
+            "Find the candles at the end of the rainbow in the Hidden Forest"
+        ]
     }
 }
