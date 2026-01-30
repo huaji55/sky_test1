@@ -58,5 +58,25 @@
             "Tidy up the Ancestor's Table of Belonging in Hidden Forest's elevated clearing",
             "Find the candles at the end of the rainbow in the Hidden Forest"
         ]
+    },
+    "2026-01-30": {
+        "tw": [
+            "欣賞一下霞谷小樹苗",
+            "參加任何一項錦標賽事",
+            "在霞谷滑行賽道中捕捉 3 道光",
+            "收集 30 道燭光"
+        ],
+        "cn": [
+            "坐赏霞谷小树苗",
+            "参与任何一项锦标赛赛事",
+            "在霞谷的滑行赛道捕捉 3 道光",
+            "收集 30 道烛光"
+        ],
+        "en": [
+            "Admire the sapling in Valley of Triumph for a short while",
+            "Play any Tournament sport",
+            "Catch the 3 lights during the Valley's sliding race",
+            "Collect 30 pieces of light"
+        ]
     }
 }
