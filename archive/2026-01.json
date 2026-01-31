@@ -78,5 +78,25 @@
             "Catch the 3 lights during the Valley's sliding race",
             "Collect 30 pieces of light"
         ]
+    },
+    "2026-01-31": {
+        "tw": [
+            "參加任何一項錦標賽事",
+            "用燭光凝聚成一根蠟燭",
+            "在寶礁海底捕捉四散的光",
+            "清除侵蝕船體的黑暗"
+        ],
+        "cn": [
+            "参与任何一项锦标赛赛事",
+            "用烛光凝聚成一根蜡烛",
+            "在宝礁海底捕捉四散的光",
+            "清理侵蚀船体上的黑暗"
+        ],
+        "en": [
+            "Play any Tournament sport",
+            "Forge a candle",
+            "Catch the wandering lights under the sea in Treasure Reef",
+            "Clear the ship's hull of darkness"
+        ]
     }
 }
