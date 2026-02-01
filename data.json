@@ -1,54 +1,54 @@
 {
-    "updated_at": "2026-01-31 16:17:33 (GMT+8)",
+    "updated_at": "2026-02-01 16:08:40 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-01-31",
-        "date_tomorrow": "2026-02-01",
+        "date_today": "2026-02-01",
+        "date_tomorrow": "2026-02-02",
         "quests_today": [
-            "參加任何一項錦標賽事",
-            "用燭光凝聚成一根蠟燭",
-            "在寶礁海底捕捉四散的光",
-            "清除侵蝕船體的黑暗"
-        ],
-        "quests_tomorrow": [
             "欣賞一下禁閣小樹苗",
             "參加任何一項錦標賽事",
             "重溫一位禁閣先靈的記憶",
             "和陌生人坐在長凳上"
+        ],
+        "quests_tomorrow": [
+            "參加任何一項錦標賽事",
+            "乘坐光鰩",
+            "點亮 20 根蠟燭",
+            "在蝴蝶原野與眾多蝴蝶一同飛翔"
         ]
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-01-31",
-        "date_tomorrow": "2026-02-01",
+        "date_today": "2026-02-01",
+        "date_tomorrow": "2026-02-02",
         "quests_today": [
-            "参与任何一项锦标赛赛事",
-            "用烛光凝聚成一根蜡烛",
-            "在宝礁海底捕捉四散的光",
-            "清理侵蚀船体上的黑暗"
-        ],
-        "quests_tomorrow": [
             "坐赏禁阁小树苗",
             "参与任何一项锦标赛赛事",
             "在禁阁中重温一位先灵的记忆",
             "和陌生人坐在长凳上"
+        ],
+        "quests_tomorrow": [
+            "参与任何一项锦标赛赛事",
+            "乘着光鳐兜风",
+            "点亮 20 根蜡烛",
+            "在蝴蝶原野与众多蝴蝶一同飞翔"
         ]
     },
     "en": {
         "title": "English",
-        "date_today": "2026-01-31",
-        "date_tomorrow": "2026-02-01",
+        "date_today": "2026-02-01",
+        "date_tomorrow": "2026-02-02",
         "quests_today": [
-            "Play any Tournament sport",
-            "Forge a candle",
-            "Catch the wandering lights under the sea in Treasure Reef",
-            "Clear the ship's hull of darkness"
-        ],
-        "quests_tomorrow": [
             "Admire the sapling in the Vault of Knowledge for a short while",
             "Play any Tournament sport",
             "Relive a Spirit's memories in Vault of Knowledge",
             "Sit on a bench with a stranger"
+        ],
+        "quests_tomorrow": [
+            "Play any Tournament sport",
+            "Ride with a Manta",
+            "Light 20 candles",
+            "Fly with many butterflies in Butterfly Fields"
         ]
     }
 }
