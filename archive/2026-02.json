@@ -18,5 +18,25 @@
             "Relive a Spirit's memories in Vault of Knowledge",
             "Sit on a bench with a stranger"
         ]
+    },
+    "2026-02-02": {
+        "tw": [
+            "參加任何一項錦標賽事",
+            "乘坐光鰩",
+            "點亮 20 根蠟燭",
+            "在蝴蝶原野與眾多蝴蝶一同飛翔"
+        ],
+        "cn": [
+            "参与任何一项锦标赛赛事",
+            "乘着光鳐兜风",
+            "点亮 20 根蜡烛",
+            "在蝴蝶原野与众多蝴蝶一同飞翔"
+        ],
+        "en": [
+            "Play any Tournament sport",
+            "Ride with a Manta",
+            "Light 20 candles",
+            "Fly with many butterflies in Butterfly Fields"
+        ]
     }
 }

@@ -1,54 +1,54 @@
 {
-    "updated_at": "2026-02-01 16:20:42 (GMT+8)",
+    "updated_at": "2026-02-02 16:02:07 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-02-01",
-        "date_tomorrow": "2026-02-02",
+        "date_today": "2026-02-02",
+        "date_tomorrow": "2026-02-03",
         "quests_today": [
-            "欣賞一下禁閣小樹苗",
-            "參加任何一項錦標賽事",
-            "重溫一位禁閣先靈的記憶",
-            "和陌生人坐在長凳上"
-        ],
-        "quests_tomorrow": [
             "參加任何一項錦標賽事",
             "乘坐光鰩",
             "點亮 20 根蠟燭",
             "在蝴蝶原野與眾多蝴蝶一同飛翔"
+        ],
+        "quests_tomorrow": [
+            "參加任何一項錦標賽事",
+            "抓住雨林之光",
+            "淨化 10 處黑暗腐植",
+            "透過光菇重新恢復能量"
         ]
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-02-01",
-        "date_tomorrow": "2026-02-02",
+        "date_today": "2026-02-02",
+        "date_tomorrow": "2026-02-03",
         "quests_today": [
-            "坐赏禁阁小树苗",
-            "参与任何一项锦标赛赛事",
-            "在禁阁中重温一位先灵的记忆",
-            "和陌生人坐在长凳上"
-        ],
-        "quests_tomorrow": [
             "参与任何一项锦标赛赛事",
             "乘着光鳐兜风",
             "点亮 20 根蜡烛",
             "在蝴蝶原野与众多蝴蝶一同飞翔"
+        ],
+        "quests_tomorrow": [
+            "参与任何一项锦标赛赛事",
+            "抓住雨林之光",
+            "净化 10 处黑暗腐植",
+            "用光菇重新恢复能量"
         ]
     },
     "en": {
         "title": "English",
-        "date_today": "2026-02-01",
-        "date_tomorrow": "2026-02-02",
+        "date_today": "2026-02-02",
+        "date_tomorrow": "2026-02-03",
         "quests_today": [
-            "Admire the sapling in the Vault of Knowledge for a short while",
-            "Play any Tournament sport",
-            "Relive a Spirit's memories in Vault of Knowledge",
-            "Sit on a bench with a stranger"
-        ],
-        "quests_tomorrow": [
             "Play any Tournament sport",
             "Ride with a Manta",
             "Light 20 candles",
             "Fly with many butterflies in Butterfly Fields"
+        ],
+        "quests_tomorrow": [
+            "Play any Tournament sport",
+            "Catch the light in Hidden Forest",
+            "Melt 10 darkness",
+            "Recharge your light from a light bloom"
         ]
     }
 }
