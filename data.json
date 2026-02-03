@@ -1,54 +1,54 @@
 {
-    "updated_at": "2026-02-02 16:31:27 (GMT+8)",
+    "updated_at": "2026-02-03 16:26:40 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-02-02",
-        "date_tomorrow": "2026-02-03",
+        "date_today": "2026-02-03",
+        "date_tomorrow": "2026-02-04",
         "quests_today": [
-            "參加任何一項錦標賽事",
-            "乘坐光鰩",
-            "點亮 20 根蠟燭",
-            "在蝴蝶原野與眾多蝴蝶一同飛翔"
-        ],
-        "quests_tomorrow": [
             "參加任何一項錦標賽事",
             "抓住雨林之光",
             "淨化 10 處黑暗腐植",
             "透過光菇重新恢復能量"
+        ],
+        "quests_tomorrow": [
+            "向一位玩家鞠躬",
+            "參加任何一項錦標賽事",
+            "在霞谷城堡入口上方冥想",
+            "找到霞谷的彩虹蠟燭"
         ]
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-02-02",
-        "date_tomorrow": "2026-02-03",
+        "date_today": "2026-02-03",
+        "date_tomorrow": "2026-02-04",
         "quests_today": [
-            "参与任何一项锦标赛赛事",
-            "乘着光鳐兜风",
-            "点亮 20 根蜡烛",
-            "在蝴蝶原野与众多蝴蝶一同飞翔"
-        ],
-        "quests_tomorrow": [
             "参与任何一项锦标赛赛事",
             "抓住雨林之光",
             "净化 10 处黑暗腐植",
             "用光菇重新恢复能量"
+        ],
+        "quests_tomorrow": [
+            "向一位玩家鞠躬",
+            "参与任何一项锦标赛赛事",
+            "在霞谷城堡入口上方冥想",
+            "在霞谷找到彩虹蜡烛"
         ]
     },
     "en": {
         "title": "English",
-        "date_today": "2026-02-02",
-        "date_tomorrow": "2026-02-03",
+        "date_today": "2026-02-03",
+        "date_tomorrow": "2026-02-04",
         "quests_today": [
-            "Play any Tournament sport",
-            "Ride with a Manta",
-            "Light 20 candles",
-            "Fly with many butterflies in Butterfly Fields"
-        ],
-        "quests_tomorrow": [
             "Play any Tournament sport",
             "Catch the light in Hidden Forest",
             "Melt 10 darkness",
             "Recharge your light from a light bloom"
+        ],
+        "quests_tomorrow": [
+            "Bow at a player",
+            "Play any Tournament sport",
+            "Meditate atop the entrance to The Citadel",
+            "Find the candles at the end of the rainbow in the Valley of Triumph"
         ]
     }
 }

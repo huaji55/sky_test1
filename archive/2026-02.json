@@ -38,5 +38,25 @@
             "Light 20 candles",
             "Fly with many butterflies in Butterfly Fields"
         ]
+    },
+    "2026-02-03": {
+        "tw": [
+            "參加任何一項錦標賽事",
+            "抓住雨林之光",
+            "淨化 10 處黑暗腐植",
+            "透過光菇重新恢復能量"
+        ],
+        "cn": [
+            "参与任何一项锦标赛赛事",
+            "抓住雨林之光",
+            "净化 10 处黑暗腐植",
+            "用光菇重新恢复能量"
+        ],
+        "en": [
+            "Play any Tournament sport",
+            "Catch the light in Hidden Forest",
+            "Melt 10 darkness",
+            "Recharge your light from a light bloom"
+        ]
     }
 }
