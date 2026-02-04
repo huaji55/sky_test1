@@ -58,5 +58,25 @@
             "Melt 10 darkness",
             "Recharge your light from a light bloom"
         ]
+    },
+    "2026-02-04": {
+        "tw": [
+            "向一位玩家鞠躬",
+            "參加任何一項錦標賽事",
+            "在霞谷城堡入口上方冥想",
+            "找到霞谷的彩虹蠟燭"
+        ],
+        "cn": [
+            "向一位玩家鞠躬",
+            "参与任何一项锦标赛赛事",
+            "在霞谷城堡入口上方冥想",
+            "在霞谷找到彩虹蜡烛"
+        ],
+        "en": [
+            "Bow at a player",
+            "Play any Tournament sport",
+            "Meditate atop the entrance to The Citadel",
+            "Find the candles at the end of the rainbow in the Valley of Triumph"
+        ]
     }
 }
