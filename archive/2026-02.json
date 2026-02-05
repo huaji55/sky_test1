@@ -78,5 +78,25 @@
             "Meditate atop the entrance to The Citadel",
             "Find the candles at the end of the rainbow in the Valley of Triumph"
         ]
+    },
+    "2026-02-05": {
+        "tw": [
+            "參加任何一項錦標賽事",
+            "抓住暮土之光",
+            "收集 30 道燭光",
+            "面對冥龍"
+        ],
+        "cn": [
+            "参与任何一项锦标赛赛事",
+            "抓住暮土之光",
+            "收集 30 道烛光",
+            "面对冥龙"
+        ],
+        "en": [
+            "Play any Tournament sport",
+            "Catch the light in Golden Wasteland",
+            "Collect 30 pieces of light",
+            "Face the Dark Dragon"
+        ]
     }
 }
