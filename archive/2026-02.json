@@ -98,5 +98,25 @@
             "Collect 30 pieces of light",
             "Face the Dark Dragon"
         ]
+    },
+    "2026-02-06": {
+        "tw": [
+            "參加任何一項錦標賽事",
+            "和朋友擁抱",
+            "在知識庫避難所捕捉四散的光",
+            "在禁閣的入口處進行冥想。"
+        ],
+        "cn": [
+            "参与任何一项锦标赛赛事",
+            "和朋友拥抱",
+            "在禁阁的知识库避难所捕捉四散的光",
+            "在禁阁的入口冥想。"
+        ],
+        "en": [
+            "Play any Tournament sport",
+            "Hug a friend",
+            "Catch the wandering lights in the Vault's Repository",
+            "Meditate at the Vault's entrance"
+        ]
     }
 }
