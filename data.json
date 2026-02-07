@@ -1,54 +1,54 @@
 {
-    "updated_at": "2026-02-06 16:30:14 (GMT+8)",
+    "updated_at": "2026-02-07 16:18:59 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-02-06",
-        "date_tomorrow": "2026-02-07",
+        "date_today": "2026-02-07",
+        "date_tomorrow": "2026-02-08",
         "quests_today": [
-            "參加任何一項錦標賽事",
-            "和朋友擁抱",
-            "在知識庫避難所捕捉四散的光",
-            "在禁閣的入口處進行冥想。"
-        ],
-        "quests_tomorrow": [
             "欣賞一下雲野小樹苗",
             "參加任何一項錦標賽事",
             "對其他玩家使用表情",
             "用燭光凝聚成一根蠟燭"
+        ],
+        "quests_tomorrow": [
+            "參加任何一項錦標賽事",
+            "在雨林庭院外冥想",
+            "抱起一隻暗蟹",
+            "重溫一位雨林先靈的記憶"
         ]
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-02-06",
-        "date_tomorrow": "2026-02-07",
+        "date_today": "2026-02-07",
+        "date_tomorrow": "2026-02-08",
         "quests_today": [
-            "参与任何一项锦标赛赛事",
-            "和朋友拥抱",
-            "在禁阁的知识库避难所捕捉四散的光",
-            "在禁阁的入口冥想。"
-        ],
-        "quests_tomorrow": [
             "坐赏云野小树苗",
             "参与任何一项锦标赛赛事",
             "对玩家使用表情",
             "用烛光凝聚成一根蜡烛"
+        ],
+        "quests_tomorrow": [
+            "参与任何一项锦标赛赛事",
+            "在雨林庭院外冥想",
+            "抱起一只暗蟹",
+            "在雨林中重温一位先灵的记忆"
         ]
     },
     "en": {
         "title": "English",
-        "date_today": "2026-02-06",
-        "date_tomorrow": "2026-02-07",
+        "date_today": "2026-02-07",
+        "date_tomorrow": "2026-02-08",
         "quests_today": [
-            "Play any Tournament sport",
-            "Hug a friend",
-            "Catch the wandering lights in the Vault's Repository",
-            "Meditate at the Vault's entrance"
-        ],
-        "quests_tomorrow": [
             "Admire the sapling in Daylight Prairie for a short while",
             "Play any Tournament sport",
             "Use expressions with players",
             "Forge a candle"
+        ],
+        "quests_tomorrow": [
+            "Play any Tournament sport",
+            "Meditate outside the Forest Courtyard",
+            "Pick up a Crab",
+            "Relive a Spirit's memories in Hidden Forest"
         ]
     }
 }

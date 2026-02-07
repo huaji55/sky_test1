@@ -118,5 +118,25 @@
             "Catch the wandering lights in the Vault's Repository",
             "Meditate at the Vault's entrance"
         ]
+    },
+    "2026-02-07": {
+        "tw": [
+            "欣賞一下雲野小樹苗",
+            "參加任何一項錦標賽事",
+            "對其他玩家使用表情",
+            "用燭光凝聚成一根蠟燭"
+        ],
+        "cn": [
+            "坐赏云野小树苗",
+            "参与任何一项锦标赛赛事",
+            "对玩家使用表情",
+            "用烛光凝聚成一根蜡烛"
+        ],
+        "en": [
+            "Admire the sapling in Daylight Prairie for a short while",
+            "Play any Tournament sport",
+            "Use expressions with players",
+            "Forge a candle"
+        ]
     }
 }
