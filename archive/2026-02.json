@@ -138,5 +138,25 @@
             "Use expressions with players",
             "Forge a candle"
         ]
+    },
+    "2026-02-08": {
+        "tw": [
+            "參加任何一項錦標賽事",
+            "在雨林庭院外冥想",
+            "抱起一隻暗蟹",
+            "重溫一位雨林先靈的記憶"
+        ],
+        "cn": [
+            "参与任何一项锦标赛赛事",
+            "在雨林庭院外冥想",
+            "抱起一只暗蟹",
+            "在雨林中重温一位先灵的记忆"
+        ],
+        "en": [
+            "Play any Tournament sport",
+            "Meditate outside the Forest Courtyard",
+            "Pick up a Crab",
+            "Relive a Spirit's memories in Hidden Forest"
+        ]
     }
 }

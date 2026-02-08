@@ -1,54 +1,54 @@
 {
-    "updated_at": "2026-02-07 16:18:59 (GMT+8)",
+    "updated_at": "2026-02-08 16:15:48 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-02-07",
-        "date_tomorrow": "2026-02-08",
+        "date_today": "2026-02-08",
+        "date_tomorrow": "2026-02-09",
         "quests_today": [
-            "欣賞一下雲野小樹苗",
-            "參加任何一項錦標賽事",
-            "對其他玩家使用表情",
-            "用燭光凝聚成一根蠟燭"
-        ],
-        "quests_tomorrow": [
             "參加任何一項錦標賽事",
             "在雨林庭院外冥想",
             "抱起一隻暗蟹",
             "重溫一位雨林先靈的記憶"
+        ],
+        "quests_tomorrow": [
+            "參加任何一項錦標賽事",
+            "收集藍色光芒 ",
+            "拜訪圓夢村的溫泉",
+            "重溫螺旋舞冠在霞谷的記憶"
         ]
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-02-07",
-        "date_tomorrow": "2026-02-08",
+        "date_today": "2026-02-08",
+        "date_tomorrow": "2026-02-09",
         "quests_today": [
-            "坐赏云野小树苗",
-            "参与任何一项锦标赛赛事",
-            "对玩家使用表情",
-            "用烛光凝聚成一根蜡烛"
-        ],
-        "quests_tomorrow": [
             "参与任何一项锦标赛赛事",
             "在雨林庭院外冥想",
             "抱起一只暗蟹",
             "在雨林中重温一位先灵的记忆"
+        ],
+        "quests_tomorrow": [
+            "参与任何一项锦标赛赛事",
+            "收集蓝色光芒 ",
+            "拜访园梦村的温泉",
+            "在霞谷重温螺旋舞冠的记忆"
         ]
     },
     "en": {
         "title": "English",
-        "date_today": "2026-02-07",
-        "date_tomorrow": "2026-02-08",
+        "date_today": "2026-02-08",
+        "date_tomorrow": "2026-02-09",
         "quests_today": [
-            "Admire the sapling in Daylight Prairie for a short while",
-            "Play any Tournament sport",
-            "Use expressions with players",
-            "Forge a candle"
-        ],
-        "quests_tomorrow": [
             "Play any Tournament sport",
             "Meditate outside the Forest Courtyard",
             "Pick up a Crab",
             "Relive a Spirit's memories in Hidden Forest"
+        ],
+        "quests_tomorrow": [
+            "Play any Tournament sport",
+            "Collect Blue Light ",
+            "Visit the Hotspring in the Village of Dreams",
+            "Relive Twirling Champion's memory from Valley of Triumph"
         ]
     }
 }
