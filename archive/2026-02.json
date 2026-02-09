@@ -158,5 +158,25 @@
             "Pick up a Crab",
             "Relive a Spirit's memories in Hidden Forest"
         ]
+    },
+    "2026-02-09": {
+        "tw": [
+            "參加任何一項錦標賽事",
+            "收集藍色光芒 ",
+            "拜訪圓夢村的溫泉",
+            "重溫螺旋舞冠在霞谷的記憶"
+        ],
+        "cn": [
+            "参与任何一项锦标赛赛事",
+            "收集蓝色光芒 ",
+            "拜访园梦村的温泉",
+            "在霞谷重温螺旋舞冠的记忆"
+        ],
+        "en": [
+            "Play any Tournament sport",
+            "Collect Blue Light ",
+            "Visit the Hotspring in the Village of Dreams",
+            "Relive Twirling Champion's memory from Valley of Triumph"
+        ]
     }
 }
