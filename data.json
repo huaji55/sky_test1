@@ -1,20 +1,20 @@
 {
-    "updated_at": "2026-02-12 16:34:34 (GMT+8)",
+    "updated_at": "2026-02-13 03:02:13 (GMT+8)",
     "tw": {
         "title": "繁體中文",
         "date_today": "2026-02-12",
         "date_tomorrow": "2026-02-13",
         "quests_today": [
-            "向一位玩家鞠躬",
-            "抓住雲野之光",
-            "在浮石鳥巢旁冥想",
-            "幫助天才建築者將樂譜送給樂鐘修補匠"
+            "bow_at_a_player",
+            "lightseeker_prairie",
+            "meditate_prairie_nestkeeper",
+            "spirit_chimesmithbuilder1"
         ],
         "quests_tomorrow": [
-            "欣賞一下雨林小樹苗",
-            "對其他玩家使用表情",
-            "用燭光凝聚成一根蠟燭",
-            "拯救一隻被黑暗腐植困住的光鰩"
+            "cherry_sappling_rain_01",
+            "emote_with_players",
+            "forge_a_candle",
+            "rescue_a_manta_from_darkstone"
         ]
     },
     "cn": {
@@ -22,16 +22,16 @@
         "date_today": "2026-02-12",
         "date_tomorrow": "2026-02-13",
         "quests_today": [
-            "向一位玩家鞠躬",
-            "抓住云野之光",
-            "在浮石鸟巢旁冥想",
-            "帮助天才建筑者将乐谱送给乐钟修补匠"
+            "bow_at_a_player",
+            "lightseeker_prairie",
+            "meditate_prairie_nestkeeper",
+            "spirit_chimesmithbuilder1"
         ],
         "quests_tomorrow": [
-            "坐赏雨林小树苗",
-            "对玩家使用表情",
-            "用烛光凝聚成一根蜡烛",
-            "拯救一只被黑暗腐植困住的光鳐"
+            "cherry_sappling_rain_01",
+            "emote_with_players",
+            "forge_a_candle",
+            "rescue_a_manta_from_darkstone"
         ]
     },
     "en": {
@@ -39,16 +39,16 @@
         "date_today": "2026-02-12",
         "date_tomorrow": "2026-02-13",
         "quests_today": [
-            "Bow at a player",
-            "Catch the light in Daylight Prairie",
-            "Meditate by the Bird Nest",
-            "Help Talented Builder deliver the Music Sheet to Tinkering Chimesmith"
+            "bow_at_a_player",
+            "lightseeker_prairie",
+            "meditate_prairie_nestkeeper",
+            "spirit_chimesmithbuilder1"
         ],
         "quests_tomorrow": [
-            "Admire the sapling in the Hidden Forest for a short while",
-            "Use expressions with players",
-            "Forge a candle",
-            "Rescue a manta from darkness"
+            "cherry_sappling_rain_01",
+            "emote_with_players",
+            "forge_a_candle",
+            "rescue_a_manta_from_darkstone"
         ]
     }
 }

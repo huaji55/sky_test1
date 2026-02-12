@@ -221,22 +221,22 @@
     },
     "2026-02-12": {
         "tw": [
-            "向一位玩家鞠躬",
-            "抓住雲野之光",
-            "在浮石鳥巢旁冥想",
-            "幫助天才建築者將樂譜送給樂鐘修補匠"
+            "bow_at_a_player",
+            "lightseeker_prairie",
+            "meditate_prairie_nestkeeper",
+            "spirit_chimesmithbuilder1"
         ],
         "cn": [
-            "向一位玩家鞠躬",
-            "抓住云野之光",
-            "在浮石鸟巢旁冥想",
-            "帮助天才建筑者将乐谱送给乐钟修补匠"
+            "bow_at_a_player",
+            "lightseeker_prairie",
+            "meditate_prairie_nestkeeper",
+            "spirit_chimesmithbuilder1"
         ],
         "en": [
-            "Bow at a player",
-            "Catch the light in Daylight Prairie",
-            "Meditate by the Bird Nest",
-            "Help Talented Builder deliver the Music Sheet to Tinkering Chimesmith"
+            "bow_at_a_player",
+            "lightseeker_prairie",
+            "meditate_prairie_nestkeeper",
+            "spirit_chimesmithbuilder1"
         ]
     }
 }
