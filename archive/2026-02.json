@@ -221,22 +221,34 @@
     },
     "2026-02-12": {
         "tw": [
-            "bow_at_a_player",
-            "lightseeker_prairie",
-            "meditate_prairie_nestkeeper",
-            "spirit_chimesmithbuilder1"
+            "向一位玩家鞠躬",
+            "抓住雲野之光",
+            "在浮石鳥巢旁冥想",
+            "幫助天才建築者將樂譜送給樂鐘修補匠"
+        ],
+        "candles_tw": [
+            "雨林大蠟燭-3",
+            "雲野季蠟b組-1"
         ],
         "cn": [
-            "bow_at_a_player",
-            "lightseeker_prairie",
-            "meditate_prairie_nestkeeper",
-            "spirit_chimesmithbuilder1"
+            "向一位玩家鞠躬",
+            "抓住云野之光",
+            "在浮石鸟巢旁冥想",
+            "帮助天才建筑者将乐谱送给乐钟修补匠"
+        ],
+        "candles_cn": [
+            "雨林大蜡烛-3",
+            "云野季蜡b组-1"
         ],
         "en": [
-            "bow_at_a_player",
-            "lightseeker_prairie",
-            "meditate_prairie_nestkeeper",
-            "spirit_chimesmithbuilder1"
+            "Bow at a player",
+            "Catch the light in Daylight Prairie",
+            "Meditate by the Bird Nest",
+            "Help Talented Builder deliver the Music Sheet to Tinkering Chimesmith"
+        ],
+        "candles_en": [
+            "Hidden Forest Treasure Candle-3",
+            "Daylight Prairie Season Candle group:b-1"
         ]
     }
 }
