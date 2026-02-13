@@ -250,5 +250,37 @@
             "Hidden Forest Treasure Candle-3",
             "Daylight Prairie Season Candle group:b-1"
         ]
+    },
+    "2026-02-13": {
+        "tw": [
+            "欣賞一下雨林小樹苗",
+            "對其他玩家使用表情",
+            "用燭光凝聚成一根蠟燭",
+            "拯救一隻被黑暗腐植困住的光鰩"
+        ],
+        "candles_tw": [
+            "雨林季蠟b組-1",
+            "霞谷大蠟燭-1"
+        ],
+        "cn": [
+            "坐赏雨林小树苗",
+            "对玩家使用表情",
+            "用烛光凝聚成一根蜡烛",
+            "拯救一只被黑暗腐植困住的光鳐"
+        ],
+        "candles_cn": [
+            "雨林季蜡b组-1",
+            "霞谷大蜡烛-1"
+        ],
+        "en": [
+            "Admire the sapling in the Hidden Forest for a short while",
+            "Use expressions with players",
+            "Forge a candle",
+            "Rescue a manta from darkness"
+        ],
+        "candles_en": [
+            "Hidden Forest Season Candle group:b-1",
+            "Valley of Triumph Treasure Candle-1"
+        ]
     }
 }
