@@ -282,5 +282,37 @@
             "Hidden Forest Season Candle group:b-1",
             "Valley of Triumph Treasure Candle-1"
         ]
+    },
+    "2026-02-14": {
+        "tw": [
+            "和朋友擊掌",
+            "抓住霞谷之光",
+            "在俯瞰冰封湖的位置冥想",
+            "重溫鰩語者在霞谷的記憶"
+        ],
+        "candles_tw": [
+            "霞谷季蠟b組-1",
+            "暮土大蠟燭-3"
+        ],
+        "cn": [
+            "和朋友击掌",
+            "抓住霞谷之光",
+            "在俯瞰冰封湖的位置冥想",
+            "在霞谷重温鳐语者的记忆"
+        ],
+        "candles_cn": [
+            "霞谷季蜡b组-1",
+            "暮土大蜡烛-3"
+        ],
+        "en": [
+            "High-Five a friend",
+            "Catch the light in Valley of Triumph",
+            "Meditate overlooking the Frozen Lake",
+            "Relive Manta Whisperer's memory from Valley of Triumph"
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:b-1",
+            "Gloden Wasteland Treasure Candle-3"
+        ]
     }
 }

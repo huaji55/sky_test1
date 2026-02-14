@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-02-13 16:31:48 (GMT+8)",
+    "updated_at": "2026-02-14 16:17:57 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-02-13",
-        "date_tomorrow": "2026-02-14",
+        "date_today": "2026-02-14",
+        "date_tomorrow": "2026-02-15",
         "quests_today": [
-            "欣賞一下雨林小樹苗",
-            "對其他玩家使用表情",
-            "用燭光凝聚成一根蠟燭",
-            "拯救一隻被黑暗腐植困住的光鰩"
-        ],
-        "quests_tomorrow": [
             "和朋友擊掌",
             "抓住霞谷之光",
             "在俯瞰冰封湖的位置冥想",
             "重溫鰩語者在霞谷的記憶"
         ],
+        "quests_tomorrow": [
+            "和朋友牽手",
+            "在暮土墓園捕捉四散的光",
+            "淨化 10 處黑暗腐植",
+            "前往暮土的墓園找到篝火"
+        ],
         "candles_today": [
-            "雨林季蠟b組-1",
-            "霞谷大蠟燭-1"
+            "霞谷季蠟b組-1",
+            "暮土大蠟燭-3"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-02-13",
-        "date_tomorrow": "2026-02-14",
+        "date_today": "2026-02-14",
+        "date_tomorrow": "2026-02-15",
         "quests_today": [
-            "坐赏雨林小树苗",
-            "对玩家使用表情",
-            "用烛光凝聚成一根蜡烛",
-            "拯救一只被黑暗腐植困住的光鳐"
-        ],
-        "quests_tomorrow": [
             "和朋友击掌",
             "抓住霞谷之光",
             "在俯瞰冰封湖的位置冥想",
             "在霞谷重温鳐语者的记忆"
         ],
+        "quests_tomorrow": [
+            "和朋友牵手",
+            "在暮土墓园中捕捉四散的光",
+            "净化 10 处黑暗腐植",
+            "前往暮土的墓园找到篝火"
+        ],
         "candles_today": [
-            "雨林季蜡b组-1",
-            "霞谷大蜡烛-1"
+            "霞谷季蜡b组-1",
+            "暮土大蜡烛-3"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-02-13",
-        "date_tomorrow": "2026-02-14",
+        "date_today": "2026-02-14",
+        "date_tomorrow": "2026-02-15",
         "quests_today": [
-            "Admire the sapling in the Hidden Forest for a short while",
-            "Use expressions with players",
-            "Forge a candle",
-            "Rescue a manta from darkness"
-        ],
-        "quests_tomorrow": [
             "High-Five a friend",
             "Catch the light in Valley of Triumph",
             "Meditate overlooking the Frozen Lake",
             "Relive Manta Whisperer's memory from Valley of Triumph"
         ],
+        "quests_tomorrow": [
+            "Hold a friend's hand",
+            "Catch the wandering lights in the Graveyard",
+            "Melt 10 darkness",
+            "Visit the bonfire at the Wasteland's Graveyard"
+        ],
         "candles_today": [
-            "Hidden Forest Season Candle group:b-1",
-            "Valley of Triumph Treasure Candle-1"
+            "Valley of Triumph Season Candle group:b-1",
+            "Gloden Wasteland Treasure Candle-3"
         ],
         "candles_tomorrow": []
     }
