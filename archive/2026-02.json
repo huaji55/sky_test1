@@ -346,5 +346,37 @@
             "Vault of Knowledge Treasure Candle-1",
             "Gloden Wasteland Season Candle group:b-1"
         ]
+    },
+    "2026-02-16": {
+        "tw": [
+            "點亮 20 根蠟燭",
+            "抓住禁閣之光",
+            "在禁閣的入口處進行冥想。",
+            "重溫一位先靈的記憶"
+        ],
+        "candles_tw": [
+            "禁閣季蠟b組-2",
+            "雲野大蠟燭-1"
+        ],
+        "cn": [
+            "点亮 20 根蜡烛",
+            "抓住禁阁之光",
+            "在禁阁的入口冥想。",
+            "重温一位先灵的记忆"
+        ],
+        "candles_cn": [
+            "禁阁季蜡b组-2",
+            "云野大蜡烛-1"
+        ],
+        "en": [
+            "Light 20 candles",
+            "Catch the light in the Vault of Knowledge",
+            "Meditate at the Vault's entrance",
+            "Relive a Spirit's memories"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Season Candle group:b-2",
+            "Daylight Prairie Treasure Candle-1"
+        ]
     }
 }
