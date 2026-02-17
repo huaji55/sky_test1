@@ -378,5 +378,37 @@
             "Vault of Knowledge Season Candle group:b-2",
             "Daylight Prairie Treasure Candle-1"
         ]
+    },
+    "2026-02-17": {
+        "tw": [
+            "在浮石鳥巢捕捉四散的光",
+            "點亮一位陌生玩家",
+            "收集 30 道燭光",
+            "幫忙撿起卡林巴琴並贈送給天才建築者"
+        ],
+        "candles_tw": [
+            "雲野季蠟b組-2",
+            "雨林大蠟燭-1"
+        ],
+        "cn": [
+            "在浮石鸟巢周围捕捉四散的光",
+            "交一个新朋友",
+            "收集 30 道烛光",
+            "帮忙捡起卡林巴琴并赠送给天才建筑者"
+        ],
+        "candles_cn": [
+            "云野季蜡b组-2",
+            "雨林大蜡烛-1"
+        ],
+        "en": [
+            "Catch the wandering lights around the Bird Nest",
+            "Make a new acquaintance",
+            "Collect 30 pieces of light",
+            "Help pick up the Kalimba and gift to Talented Builder"
+        ],
+        "candles_en": [
+            "Daylight Prairie Season Candle group:b-2",
+            "Hidden Forest Treasure Candle-1"
+        ]
     }
 }
