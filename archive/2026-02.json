@@ -410,5 +410,37 @@
             "Daylight Prairie Season Candle group:b-2",
             "Hidden Forest Treasure Candle-1"
         ]
+    },
+    "2026-02-18": {
+        "tw": [
+            "向一位玩家鞠躬",
+            "透過水母重新恢復能量",
+            "找到雨林的彩虹蠟燭",
+            "重溫挑釁藝伎在雨林的記憶"
+        ],
+        "candles_tw": [
+            "雨林季蠟b組-2",
+            "霞谷大蠟燭-2"
+        ],
+        "cn": [
+            "向一位玩家鞠躬",
+            "用水母重新恢复能量",
+            "在雨林找到彩虹蜡烛",
+            "在雨林重温挑衅艺伎的记忆"
+        ],
+        "candles_cn": [
+            "雨林季蜡b组-2",
+            "霞谷大蜡烛-2"
+        ],
+        "en": [
+            "Bow at a player",
+            "Recharge your light from a jellyfish",
+            "Find the candles at the end of the rainbow in the Hidden Forest",
+            "Relive Provoking Performer's memory from Hidden Forest"
+        ],
+        "candles_en": [
+            "Hidden Forest Season Candle group:b-2",
+            "Valley of Triumph Treasure Candle-2"
+        ]
     }
 }

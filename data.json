@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-02-17 16:33:49 (GMT+8)",
+    "updated_at": "2026-02-18 16:33:49 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-02-17",
-        "date_tomorrow": "2026-02-18",
+        "date_today": "2026-02-18",
+        "date_tomorrow": "2026-02-19",
         "quests_today": [
-            "在浮石鳥巢捕捉四散的光",
-            "點亮一位陌生玩家",
-            "收集 30 道燭光",
-            "幫忙撿起卡林巴琴並贈送給天才建築者"
-        ],
-        "quests_tomorrow": [
             "向一位玩家鞠躬",
             "透過水母重新恢復能量",
             "找到雨林的彩虹蠟燭",
             "重溫挑釁藝伎在雨林的記憶"
         ],
+        "quests_tomorrow": [
+            "欣賞一下霞谷小樹苗",
+            "用燭光凝聚成一根蠟燭",
+            "在霞谷城堡捕捉四散的光",
+            "在霞谷城堡高處冥想"
+        ],
         "candles_today": [
-            "雲野季蠟b組-2",
-            "雨林大蠟燭-1"
+            "雨林季蠟b組-2",
+            "霞谷大蠟燭-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-02-17",
-        "date_tomorrow": "2026-02-18",
+        "date_today": "2026-02-18",
+        "date_tomorrow": "2026-02-19",
         "quests_today": [
-            "在浮石鸟巢周围捕捉四散的光",
-            "交一个新朋友",
-            "收集 30 道烛光",
-            "帮忙捡起卡林巴琴并赠送给天才建筑者"
-        ],
-        "quests_tomorrow": [
             "向一位玩家鞠躬",
             "用水母重新恢复能量",
             "在雨林找到彩虹蜡烛",
             "在雨林重温挑衅艺伎的记忆"
         ],
+        "quests_tomorrow": [
+            "坐赏霞谷小树苗",
+            "用烛光凝聚成一根蜡烛",
+            "在霞谷城堡捕捉四散的光",
+            "在霞谷城堡高处冥想"
+        ],
         "candles_today": [
-            "云野季蜡b组-2",
-            "雨林大蜡烛-1"
+            "雨林季蜡b组-2",
+            "霞谷大蜡烛-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-02-17",
-        "date_tomorrow": "2026-02-18",
+        "date_today": "2026-02-18",
+        "date_tomorrow": "2026-02-19",
         "quests_today": [
-            "Catch the wandering lights around the Bird Nest",
-            "Make a new acquaintance",
-            "Collect 30 pieces of light",
-            "Help pick up the Kalimba and gift to Talented Builder"
-        ],
-        "quests_tomorrow": [
             "Bow at a player",
             "Recharge your light from a jellyfish",
             "Find the candles at the end of the rainbow in the Hidden Forest",
             "Relive Provoking Performer's memory from Hidden Forest"
         ],
+        "quests_tomorrow": [
+            "Admire the sapling in Valley of Triumph for a short while",
+            "Forge a candle",
+            "Catch the wandering lights in The Citadel",
+            "Meditate high above The Citadel"
+        ],
         "candles_today": [
-            "Daylight Prairie Season Candle group:b-2",
-            "Hidden Forest Treasure Candle-1"
+            "Hidden Forest Season Candle group:b-2",
+            "Valley of Triumph Treasure Candle-2"
         ],
         "candles_tomorrow": []
     }
