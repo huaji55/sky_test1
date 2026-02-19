@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-02-19 08:45:24 (GMT+8)",
+    "updated_at": "2026-02-19 16:32:03 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-02-18",
-        "date_tomorrow": "2026-02-19",
+        "date_today": "2026-02-19",
+        "date_tomorrow": "2026-02-20",
         "quests_today": [
-            "向一位玩家鞠躬",
-            "透過水母重新恢復能量",
-            "找到雨林的彩虹蠟燭",
-            "重溫挑釁藝伎在雨林的記憶"
-        ],
-        "quests_tomorrow": [
             "欣賞一下霞谷小樹苗",
             "用燭光凝聚成一根蠟燭",
             "在霞谷城堡捕捉四散的光",
             "在霞谷城堡高處冥想"
         ],
+        "quests_tomorrow": [
+            "對其他玩家使用表情",
+            "和朋友擊掌",
+            "在暗蟹沙原冥想",
+            "抱起一隻暗蟹"
+        ],
         "candles_today": [
-            "雨林季蠟b組-2",
-            "霞谷大蠟燭-2"
+            "霞谷季蠟b組-2",
+            "暮土大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-02-18",
-        "date_tomorrow": "2026-02-19",
+        "date_today": "2026-02-19",
+        "date_tomorrow": "2026-02-20",
         "quests_today": [
-            "向一位玩家鞠躬",
-            "用水母重新恢复能量",
-            "在雨林找到彩虹蜡烛",
-            "在雨林重温挑衅艺伎的记忆"
-        ],
-        "quests_tomorrow": [
             "坐赏霞谷小树苗",
             "用烛光凝聚成一根蜡烛",
             "在霞谷城堡捕捉四散的光",
             "在霞谷城堡高处冥想"
         ],
+        "quests_tomorrow": [
+            "对玩家使用表情",
+            "和朋友击掌",
+            "在暗蟹沙原冥想",
+            "抱起一只暗蟹"
+        ],
         "candles_today": [
-            "雨林季蜡b组-2",
-            "霞谷大蜡烛-2"
+            "霞谷季蜡b组-2",
+            "暮土大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-02-18",
-        "date_tomorrow": "2026-02-19",
+        "date_today": "2026-02-19",
+        "date_tomorrow": "2026-02-20",
         "quests_today": [
-            "Bow at a player",
-            "Recharge your light from a jellyfish",
-            "Find the candles at the end of the rainbow in the Hidden Forest",
-            "Relive Provoking Performer's memory from Hidden Forest"
-        ],
-        "quests_tomorrow": [
             "Admire the sapling in Valley of Triumph for a short while",
             "Forge a candle",
             "Catch the wandering lights in The Citadel",
             "Meditate high above The Citadel"
         ],
+        "quests_tomorrow": [
+            "Use expressions with players",
+            "High-Five a friend",
+            "Meditate in the Crab Fields",
+            "Pick up a Crab"
+        ],
         "candles_today": [
-            "Hidden Forest Season Candle group:b-2",
-            "Valley of Triumph Treasure Candle-2"
+            "Valley of Triumph Season Candle group:b-2",
+            "Gloden Wasteland Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }

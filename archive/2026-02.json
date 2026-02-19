@@ -442,5 +442,37 @@
             "Hidden Forest Season Candle group:b-2",
             "Valley of Triumph Treasure Candle-2"
         ]
+    },
+    "2026-02-19": {
+        "tw": [
+            "欣賞一下霞谷小樹苗",
+            "用燭光凝聚成一根蠟燭",
+            "在霞谷城堡捕捉四散的光",
+            "在霞谷城堡高處冥想"
+        ],
+        "candles_tw": [
+            "霞谷季蠟b組-2",
+            "暮土大蠟燭-1"
+        ],
+        "cn": [
+            "坐赏霞谷小树苗",
+            "用烛光凝聚成一根蜡烛",
+            "在霞谷城堡捕捉四散的光",
+            "在霞谷城堡高处冥想"
+        ],
+        "candles_cn": [
+            "霞谷季蜡b组-2",
+            "暮土大蜡烛-1"
+        ],
+        "en": [
+            "Admire the sapling in Valley of Triumph for a short while",
+            "Forge a candle",
+            "Catch the wandering lights in The Citadel",
+            "Meditate high above The Citadel"
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:b-2",
+            "Gloden Wasteland Treasure Candle-1"
+        ]
     }
 }
