@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-02-19 16:32:03 (GMT+8)",
+    "updated_at": "2026-02-20 16:00:45 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-02-19",
-        "date_tomorrow": "2026-02-20",
+        "date_today": "2026-02-20",
+        "date_tomorrow": "2026-02-21",
         "quests_today": [
-            "欣賞一下霞谷小樹苗",
-            "用燭光凝聚成一根蠟燭",
-            "在霞谷城堡捕捉四散的光",
-            "在霞谷城堡高處冥想"
-        ],
-        "quests_tomorrow": [
-            "對其他玩家使用表情",
             "和朋友擊掌",
             "在暗蟹沙原冥想",
-            "抱起一隻暗蟹"
+            "抱起一隻暗蟹",
+            "對其他玩家使用表情"
+        ],
+        "quests_tomorrow": [
+            "收集紫色光芒",
+            "重溫智慧長者在禁閣的記憶",
+            "重溫一位禁閣先靈的記憶",
+            "淨化 10 處黑暗腐植"
         ],
         "candles_today": [
-            "霞谷季蠟b組-2",
-            "暮土大蠟燭-1"
+            "禁閣大蠟燭-2",
+            "暮土季蠟b組-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-02-19",
-        "date_tomorrow": "2026-02-20",
+        "date_today": "2026-02-20",
+        "date_tomorrow": "2026-02-21",
         "quests_today": [
-            "坐赏霞谷小树苗",
-            "用烛光凝聚成一根蜡烛",
-            "在霞谷城堡捕捉四散的光",
-            "在霞谷城堡高处冥想"
-        ],
-        "quests_tomorrow": [
-            "对玩家使用表情",
             "和朋友击掌",
             "在暗蟹沙原冥想",
-            "抱起一只暗蟹"
+            "抱起一只暗蟹",
+            "对玩家使用表情"
+        ],
+        "quests_tomorrow": [
+            "收集紫色光芒",
+            "在禁阁重温智慧长者的记忆",
+            "在禁阁中重温一位先灵的记忆",
+            "净化 10 处黑暗腐植"
         ],
         "candles_today": [
-            "霞谷季蜡b组-2",
-            "暮土大蜡烛-1"
+            "禁阁大蜡烛-2",
+            "暮土季蜡b组-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-02-19",
-        "date_tomorrow": "2026-02-20",
+        "date_today": "2026-02-20",
+        "date_tomorrow": "2026-02-21",
         "quests_today": [
-            "Admire the sapling in Valley of Triumph for a short while",
-            "Forge a candle",
-            "Catch the wandering lights in The Citadel",
-            "Meditate high above The Citadel"
-        ],
-        "quests_tomorrow": [
-            "Use expressions with players",
             "High-Five a friend",
             "Meditate in the Crab Fields",
-            "Pick up a Crab"
+            "Pick up a Crab",
+            "Use expressions with players"
+        ],
+        "quests_tomorrow": [
+            "Collect Purple Light",
+            "Relive Wise Grandparent's memory from Vault of Knowledge",
+            "Relive a Spirit's memories in Vault of Knowledge",
+            "Melt 10 darkness"
         ],
         "candles_today": [
-            "Valley of Triumph Season Candle group:b-2",
-            "Gloden Wasteland Treasure Candle-1"
+            "Vault of Knowledge Treasure Candle-2",
+            "Gloden Wasteland Season Candle group:b-2"
         ],
         "candles_tomorrow": []
     }
