@@ -538,5 +538,37 @@
             "Vault of Knowledge Season Candle group:b-1",
             "Daylight Prairie Treasure Candle-2"
         ]
+    },
+    "2026-02-22": {
+        "tw": [
+            "在蝴蝶原野與眾多蝴蝶一同飛翔",
+            "收集 30 道燭光",
+            "一起演奏一首曲子",
+            "在聖域群島乘坐一隻大光鰩"
+        ],
+        "candles_tw": [
+            "雨林大蠟燭-2",
+            "雲野季蠟b組-1"
+        ],
+        "cn": [
+            "在蝴蝶原野与众多蝴蝶一同飞翔",
+            "收集 30 道烛光",
+            "一起演奏一首曲子",
+            "在圣域群岛乘坐一只大光鳐"
+        ],
+        "candles_cn": [
+            "雨林大蜡烛-2",
+            "云野季蜡b组-1"
+        ],
+        "en": [
+            "Fly with many butterflies in Butterfly Fields",
+            "Collect 30 pieces of light",
+            "Play a song together",
+            "Ride a giant manta in Sanctuary Islands"
+        ],
+        "candles_en": [
+            "Hidden Forest Treasure Candle-2",
+            "Daylight Prairie Season Candle group:b-1"
+        ]
     }
 }

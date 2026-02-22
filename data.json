@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-02-21 16:19:01 (GMT+8)",
+    "updated_at": "2026-02-22 16:20:00 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-02-21",
-        "date_tomorrow": "2026-02-22",
+        "date_today": "2026-02-22",
+        "date_tomorrow": "2026-02-23",
         "quests_today": [
-            "收集紫色光芒",
-            "重溫智慧長者在禁閣的記憶",
-            "重溫一位禁閣先靈的記憶",
-            "淨化 10 處黑暗腐植"
-        ],
-        "quests_tomorrow": [
             "在蝴蝶原野與眾多蝴蝶一同飛翔",
             "收集 30 道燭光",
             "一起演奏一首曲子",
             "在聖域群島乘坐一隻大光鰩"
         ],
+        "quests_tomorrow": [
+            "抓住雨林之光",
+            "點亮一位陌生玩家",
+            "在雨林的樹林高處整理歸屬季的先祖團聚長桌",
+            "點亮 20 根蠟燭"
+        ],
         "candles_today": [
-            "禁閣季蠟b組-1",
-            "雲野大蠟燭-2"
+            "雨林大蠟燭-2",
+            "雲野季蠟b組-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-02-21",
-        "date_tomorrow": "2026-02-22",
+        "date_today": "2026-02-22",
+        "date_tomorrow": "2026-02-23",
         "quests_today": [
-            "收集紫色光芒",
-            "在禁阁重温智慧长者的记忆",
-            "在禁阁中重温一位先灵的记忆",
-            "净化 10 处黑暗腐植"
-        ],
-        "quests_tomorrow": [
             "在蝴蝶原野与众多蝴蝶一同飞翔",
             "收集 30 道烛光",
             "一起演奏一首曲子",
             "在圣域群岛乘坐一只大光鳐"
         ],
+        "quests_tomorrow": [
+            "抓住雨林之光",
+            "交一个新朋友",
+            "在雨林的树林高处整理归属季的先祖团聚长桌",
+            "点亮 20 根蜡烛"
+        ],
         "candles_today": [
-            "禁阁季蜡b组-1",
-            "云野大蜡烛-2"
+            "雨林大蜡烛-2",
+            "云野季蜡b组-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-02-21",
-        "date_tomorrow": "2026-02-22",
+        "date_today": "2026-02-22",
+        "date_tomorrow": "2026-02-23",
         "quests_today": [
-            "Collect Purple Light",
-            "Relive Wise Grandparent's memory from Vault of Knowledge",
-            "Relive a Spirit's memories in Vault of Knowledge",
-            "Melt 10 darkness"
-        ],
-        "quests_tomorrow": [
             "Fly with many butterflies in Butterfly Fields",
             "Collect 30 pieces of light",
             "Play a song together",
             "Ride a giant manta in Sanctuary Islands"
         ],
+        "quests_tomorrow": [
+            "Catch the light in Hidden Forest",
+            "Make a new acquaintance",
+            "Tidy up the Ancestor's Table of Belonging in Hidden Forest's elevated clearing",
+            "Light 20 candles"
+        ],
         "candles_today": [
-            "Vault of Knowledge Season Candle group:b-1",
-            "Daylight Prairie Treasure Candle-2"
+            "Hidden Forest Treasure Candle-2",
+            "Daylight Prairie Season Candle group:b-1"
         ],
         "candles_tomorrow": []
     }
