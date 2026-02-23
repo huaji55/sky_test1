@@ -570,5 +570,37 @@
             "Hidden Forest Treasure Candle-2",
             "Daylight Prairie Season Candle group:b-1"
         ]
+    },
+    "2026-02-23": {
+        "tw": [
+            "抓住雨林之光",
+            "點亮一位陌生玩家",
+            "在雨林的樹林高處整理歸屬季的先祖團聚長桌",
+            "點亮 20 根蠟燭"
+        ],
+        "candles_tw": [
+            "雨林季蠟b組-1",
+            "霞谷大蠟燭-1"
+        ],
+        "cn": [
+            "抓住雨林之光",
+            "交一个新朋友",
+            "在雨林的树林高处整理归属季的先祖团聚长桌",
+            "点亮 20 根蜡烛"
+        ],
+        "candles_cn": [
+            "雨林季蜡b组-1",
+            "霞谷大蜡烛-1"
+        ],
+        "en": [
+            "Catch the light in Hidden Forest",
+            "Make a new acquaintance",
+            "Tidy up the Ancestor's Table of Belonging in Hidden Forest's elevated clearing",
+            "Light 20 candles"
+        ],
+        "candles_en": [
+            "Hidden Forest Season Candle group:b-1",
+            "Valley of Triumph Treasure Candle-1"
+        ]
     }
 }
