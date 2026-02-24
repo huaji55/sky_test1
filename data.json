@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-02-23 16:37:07 (GMT+8)",
+    "updated_at": "2026-02-24 16:01:01 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-02-23",
-        "date_tomorrow": "2026-02-24",
+        "date_today": "2026-02-24",
+        "date_tomorrow": "2026-02-25",
         "quests_today": [
-            "抓住雨林之光",
-            "點亮一位陌生玩家",
-            "在雨林的樹林高處整理歸屬季的先祖團聚長桌",
-            "點亮 20 根蠟燭"
-        ],
-        "quests_tomorrow": [
             "向一位玩家鞠躬",
             "重溫一位霞谷先靈的記憶",
             "在霞谷城堡入口上方冥想",
             "找到霞谷的彩虹蠟燭"
         ],
+        "quests_tomorrow": [
+            "用燭光凝聚成一根蠟燭",
+            "抓住暮土之光",
+            "重溫一位暮土先靈的記憶",
+            "在破舊神廟冥想"
+        ],
         "candles_today": [
-            "雨林季蠟b組-1",
-            "霞谷大蠟燭-1"
+            "暮土大蠟燭-2",
+            "霞谷季蠟b組-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-02-23",
-        "date_tomorrow": "2026-02-24",
+        "date_today": "2026-02-24",
+        "date_tomorrow": "2026-02-25",
         "quests_today": [
-            "抓住雨林之光",
-            "交一个新朋友",
-            "在雨林的树林高处整理归属季的先祖团聚长桌",
-            "点亮 20 根蜡烛"
-        ],
-        "quests_tomorrow": [
             "向一位玩家鞠躬",
             "在霞谷中重温一位先灵的记忆",
             "在霞谷城堡入口上方冥想",
             "在霞谷找到彩虹蜡烛"
         ],
+        "quests_tomorrow": [
+            "用烛光凝聚成一根蜡烛",
+            "抓住暮土之光",
+            "在暮土中重温一位先灵的记忆",
+            "在破旧神庙里冥想"
+        ],
         "candles_today": [
-            "雨林季蜡b组-1",
-            "霞谷大蜡烛-1"
+            "暮土大蜡烛-2",
+            "霞谷季蜡b组-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-02-23",
-        "date_tomorrow": "2026-02-24",
+        "date_today": "2026-02-24",
+        "date_tomorrow": "2026-02-25",
         "quests_today": [
-            "Catch the light in Hidden Forest",
-            "Make a new acquaintance",
-            "Tidy up the Ancestor's Table of Belonging in Hidden Forest's elevated clearing",
-            "Light 20 candles"
-        ],
-        "quests_tomorrow": [
             "Bow at a player",
             "Relive a Spirit's memories in Valley of Triumph",
             "Meditate atop the entrance to The Citadel",
             "Find the candles at the end of the rainbow in the Valley of Triumph"
         ],
+        "quests_tomorrow": [
+            "Forge a candle",
+            "Catch the light in Golden Wasteland",
+            "Relive a Spirit's memories in Golden Wasteland",
+            "Meditate in the Broken Temple"
+        ],
         "candles_today": [
-            "Hidden Forest Season Candle group:b-1",
-            "Valley of Triumph Treasure Candle-1"
+            "Gloden Wasteland Treasure Candle-2",
+            "Valley of Triumph Season Candle group:b-1"
         ],
         "candles_tomorrow": []
     }
