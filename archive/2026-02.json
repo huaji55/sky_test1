@@ -634,5 +634,37 @@
             "Gloden Wasteland Treasure Candle-2",
             "Valley of Triumph Season Candle group:b-1"
         ]
+    },
+    "2026-02-25": {
+        "tw": [
+            "用燭光凝聚成一根蠟燭",
+            "抓住暮土之光",
+            "重溫一位暮土先靈的記憶",
+            "在破舊神廟冥想"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-1",
+            "暮土季蠟b組-1"
+        ],
+        "cn": [
+            "用烛光凝聚成一根蜡烛",
+            "抓住暮土之光",
+            "在暮土中重温一位先灵的记忆",
+            "在破旧神庙里冥想"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-1",
+            "暮土季蜡b组-1"
+        ],
+        "en": [
+            "Forge a candle",
+            "Catch the light in Golden Wasteland",
+            "Relive a Spirit's memories in Golden Wasteland",
+            "Meditate in the Broken Temple"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-1",
+            "Gloden Wasteland Season Candle group:b-1"
+        ]
     }
 }
