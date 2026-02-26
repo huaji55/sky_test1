@@ -666,5 +666,37 @@
             "Vault of Knowledge Treasure Candle-1",
             "Gloden Wasteland Season Candle group:b-1"
         ]
+    },
+    "2026-02-26": {
+        "tw": [
+            "抓住禁閣之光",
+            "對其他玩家使用表情",
+            "收集 30 道燭光",
+            "幫助懇求的孩子找回遺失的記憶燈籠"
+        ],
+        "candles_tw": [
+            "雲野大蠟燭-3",
+            "禁閣季蠟b組-2"
+        ],
+        "cn": [
+            "抓住禁阁之光",
+            "对玩家使用表情",
+            "收集 30 道烛光",
+            "帮助乞求的小孩找回遗失的记忆灯笼"
+        ],
+        "candles_cn": [
+            "云野大蜡烛-3",
+            "禁阁季蜡b组-2"
+        ],
+        "en": [
+            "Catch the light in the Vault of Knowledge",
+            "Use expressions with players",
+            "Collect 30 pieces of light",
+            "Help Pleading Child retrieve their lost memory lanterns"
+        ],
+        "candles_en": [
+            "Daylight Prairie Treasure Candle-3",
+            "Vault of Knowledge Season Candle group:b-2"
+        ]
     }
 }
