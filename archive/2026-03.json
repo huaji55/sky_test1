@@ -74,5 +74,43 @@
             "Gloden Wasteland Season Candle group:b-1",
             "Gloden Wasteland Season Candle group:b-2"
         ]
+    },
+    "2026-03-03": {
+        "tw": [
+            "欣賞一下禁閣小樹苗",
+            "和陌生人坐在長凳上",
+            "在知識庫避難所捕捉四散的光",
+            "幫助懇求的孩子找回遺失的玩具"
+        ],
+        "candles_tw": [
+            "禁閣季蠟b組-1",
+            "雲野大蠟燭-2",
+            "禁閣季蠟b組-2",
+            "雲野大蠟燭-1"
+        ],
+        "cn": [
+            "坐赏禁阁小树苗",
+            "和陌生人坐在长凳上",
+            "在禁阁的知识库避难所捕捉四散的光",
+            "帮助乞求的小孩寻找遗失的玩具"
+        ],
+        "candles_cn": [
+            "禁阁季蜡b组-1",
+            "云野大蜡烛-2",
+            "禁阁季蜡b组-2",
+            "云野大蜡烛-1"
+        ],
+        "en": [
+            "Admire the sapling in the Vault of Knowledge for a short while",
+            "Sit on a bench with a stranger",
+            "Catch the wandering lights in the Vault's Repository",
+            "Help Pleading Child find their lost toy"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Season Candle group:b-1",
+            "Daylight Prairie Treasure Candle-2",
+            "Vault of Knowledge Season Candle group:b-2",
+            "Daylight Prairie Treasure Candle-1"
+        ]
     }
 }
