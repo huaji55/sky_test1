@@ -112,5 +112,43 @@
             "Vault of Knowledge Season Candle group:b-2",
             "Daylight Prairie Treasure Candle-1"
         ]
+    },
+    "2026-03-04": {
+        "tw": [
+            "在蝴蝶原野與眾多蝴蝶一同飛翔",
+            "抓住雲野之光",
+            "乘坐光鰩",
+            "淨化 10 處黑暗腐植"
+        ],
+        "candles_tw": [
+            "雨林大蠟燭-2",
+            "雲野季蠟b組-1",
+            "雲野季蠟b組-2",
+            "雨林大蠟燭-1"
+        ],
+        "cn": [
+            "在蝴蝶原野与众多蝴蝶一同飞翔",
+            "抓住云野之光",
+            "乘着光鳐兜风",
+            "净化 10 处黑暗腐植"
+        ],
+        "candles_cn": [
+            "雨林大蜡烛-2",
+            "云野季蜡b组-1",
+            "云野季蜡b组-2",
+            "雨林大蜡烛-1"
+        ],
+        "en": [
+            "Fly with many butterflies in Butterfly Fields",
+            "Catch the light in Daylight Prairie",
+            "Ride with a Manta",
+            "Melt 10 darkness"
+        ],
+        "candles_en": [
+            "Hidden Forest Treasure Candle-2",
+            "Daylight Prairie Season Candle group:b-1",
+            "Daylight Prairie Season Candle group:b-2",
+            "Hidden Forest Treasure Candle-1"
+        ]
     }
 }
