@@ -150,5 +150,43 @@
             "Daylight Prairie Season Candle group:b-2",
             "Hidden Forest Treasure Candle-1"
         ]
+    },
+    "2026-03-05": {
+        "tw": [
+            "重溫一位雨林先靈的記憶",
+            "在雨林的樹林高處整理歸屬季的先祖團聚長桌",
+            "對其他玩家使用表情",
+            "在樹林高處冥想"
+        ],
+        "candles_tw": [
+            "雨林季蠟b組-2",
+            "雨林季蠟b組-1",
+            "霞谷大蠟燭-1",
+            "霞谷大蠟燭-2"
+        ],
+        "cn": [
+            "在雨林中重温一位先灵的记忆",
+            "在雨林的树林高处整理归属季的先祖团聚长桌",
+            "对玩家使用表情",
+            "在树林高处冥想"
+        ],
+        "candles_cn": [
+            "雨林季蜡b组-2",
+            "雨林季蜡b组-1",
+            "霞谷大蜡烛-1",
+            "霞谷大蜡烛-2"
+        ],
+        "en": [
+            "Relive a Spirit's memories in Hidden Forest",
+            "Tidy up the Ancestor's Table of Belonging in Hidden Forest's elevated clearing",
+            "Use expressions with players",
+            "Meditate in the Elevated Clearing"
+        ],
+        "candles_en": [
+            "Hidden Forest Season Candle group:b-2",
+            "Hidden Forest Season Candle group:b-1",
+            "Valley of Triumph Treasure Candle-1",
+            "Valley of Triumph Treasure Candle-2"
+        ]
     }
 }
