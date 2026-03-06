@@ -1,74 +1,74 @@
 {
-    "updated_at": "2026-03-05 16:29:17 (GMT+8)",
+    "updated_at": "2026-03-06 16:26:11 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-03-05",
-        "date_tomorrow": "2026-03-06",
+        "date_today": "2026-03-06",
+        "date_tomorrow": "2026-03-07",
         "quests_today": [
-            "重溫一位雨林先靈的記憶",
-            "在雨林的樹林高處整理歸屬季的先祖團聚長桌",
-            "對其他玩家使用表情",
-            "在樹林高處冥想"
-        ],
-        "quests_tomorrow": [
             "收集 30 道燭光",
             "在霞谷滑行賽道中捕捉 3 道光",
             "重溫自豪冠軍在霞谷的記憶",
             "在競技場冥想"
         ],
+        "quests_tomorrow": [
+            "和朋友牽手",
+            "點亮 20 根蠟燭",
+            "面對冥龍",
+            "前往暮土的墓園找到篝火"
+        ],
         "candles_today": [
-            "雨林季蠟b組-2",
-            "雨林季蠟b組-1",
-            "霞谷大蠟燭-1",
-            "霞谷大蠟燭-2"
+            "霞谷季蠟b組-2",
+            "暮土大蠟燭-2",
+            "霞谷季蠟b組-1",
+            "暮土大蠟燭-3"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-03-05",
-        "date_tomorrow": "2026-03-06",
+        "date_today": "2026-03-06",
+        "date_tomorrow": "2026-03-07",
         "quests_today": [
-            "在雨林中重温一位先灵的记忆",
-            "在雨林的树林高处整理归属季的先祖团聚长桌",
-            "对玩家使用表情",
-            "在树林高处冥想"
-        ],
-        "quests_tomorrow": [
             "收集 30 道烛光",
             "在霞谷的滑行赛道捕捉 3 道光",
             "在霞谷重温自豪冠军的记忆",
             "在竞技场冥想"
         ],
+        "quests_tomorrow": [
+            "和朋友牵手",
+            "点亮 20 根蜡烛",
+            "面对冥龙",
+            "前往暮土的墓园找到篝火"
+        ],
         "candles_today": [
-            "雨林季蜡b组-2",
-            "雨林季蜡b组-1",
-            "霞谷大蜡烛-1",
-            "霞谷大蜡烛-2"
+            "霞谷季蜡b组-2",
+            "暮土大蜡烛-2",
+            "霞谷季蜡b组-1",
+            "暮土大蜡烛-3"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-03-05",
-        "date_tomorrow": "2026-03-06",
+        "date_today": "2026-03-06",
+        "date_tomorrow": "2026-03-07",
         "quests_today": [
-            "Relive a Spirit's memories in Hidden Forest",
-            "Tidy up the Ancestor's Table of Belonging in Hidden Forest's elevated clearing",
-            "Use expressions with players",
-            "Meditate in the Elevated Clearing"
-        ],
-        "quests_tomorrow": [
             "Collect 30 pieces of light",
             "Catch the 3 lights during the Valley's sliding race",
             "Relive Proud Victor's memory from Valley of Triumph",
             "Meditate in the Coliseum"
         ],
+        "quests_tomorrow": [
+            "Hold a friend's hand",
+            "Light 20 candles",
+            "Face the Dark Dragon",
+            "Visit the bonfire at the Wasteland's Graveyard"
+        ],
         "candles_today": [
-            "Hidden Forest Season Candle group:b-2",
-            "Hidden Forest Season Candle group:b-1",
-            "Valley of Triumph Treasure Candle-1",
-            "Valley of Triumph Treasure Candle-2"
+            "Valley of Triumph Season Candle group:b-2",
+            "Gloden Wasteland Treasure Candle-2",
+            "Valley of Triumph Season Candle group:b-1",
+            "Gloden Wasteland Treasure Candle-3"
         ],
         "candles_tomorrow": []
     }
