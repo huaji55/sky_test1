@@ -1,74 +1,71 @@
 {
-    "updated_at": "2026-03-07 16:18:21 (GMT+8)",
+    "updated_at": "2026-03-08 16:19:33 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-03-07",
-        "date_tomorrow": "2026-03-08",
+        "date_today": "2026-03-08",
+        "date_tomorrow": "2026-03-09",
         "quests_today": [
-            "和朋友牽手",
-            "點亮 20 根蠟燭",
-            "面對冥龍",
-            "前往暮土的墓園找到篝火"
-        ],
-        "quests_tomorrow": [
             "向一位玩家鞠躬",
             "找到禁閣的彩虹蠟燭",
             "在禁閣上層捕捉四散的光",
-            "點亮一位陌生玩家"
+            "點亮一位陌生玩家",
+            "用燭光凝聚成一根蠟燭",
+            "淨化 10 處黑暗腐植",
+            "前往雲野山洞找到舒適的藏身處",
+            "在雲野神廟的錦鯉池旁冥想"
         ],
+        "quests_tomorrow": [],
         "candles_today": [
-            "禁閣大蠟燭-1",
-            "禁閣大蠟燭-2",
-            "暮土季蠟b組-1",
-            "暮土季蠟b組-2"
+            "禁閣季蠟b組-1",
+            "雲野大蠟燭-2",
+            "禁閣季蠟b組-2",
+            "雲野大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-03-07",
-        "date_tomorrow": "2026-03-08",
+        "date_today": "2026-03-08",
+        "date_tomorrow": "2026-03-09",
         "quests_today": [
-            "和朋友牵手",
-            "点亮 20 根蜡烛",
-            "面对冥龙",
-            "前往暮土的墓园找到篝火"
-        ],
-        "quests_tomorrow": [
             "向一位玩家鞠躬",
             "在禁阁找到彩虹蜡烛",
             "在禁阁上层捕捉四散的光",
-            "交一个新朋友"
+            "交一个新朋友",
+            "用烛光凝聚成一根蜡烛",
+            "净化 10 处黑暗腐植",
+            "前往云野山洞找到舒适的藏身处",
+            "在云野神庙的锦鲤池旁冥想"
         ],
+        "quests_tomorrow": [],
         "candles_today": [
-            "禁阁大蜡烛-1",
-            "禁阁大蜡烛-2",
-            "暮土季蜡b组-1",
-            "暮土季蜡b组-2"
+            "禁阁季蜡b组-1",
+            "云野大蜡烛-2",
+            "禁阁季蜡b组-2",
+            "云野大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-03-07",
-        "date_tomorrow": "2026-03-08",
+        "date_today": "2026-03-08",
+        "date_tomorrow": "2026-03-09",
         "quests_today": [
-            "Hold a friend's hand",
-            "Light 20 candles",
-            "Face the Dark Dragon",
-            "Visit the bonfire at the Wasteland's Graveyard"
-        ],
-        "quests_tomorrow": [
             "Bow at a player",
             "Find the candles at the end of the rainbow in the Vault of Knowledge",
             "Catch the wandering lights in the Upper Vault",
-            "Make a new acquaintance"
+            "Make a new acquaintance",
+            "Forge a candle",
+            "Melt 10 darkness",
+            "Visit the cozy hideout in Prairie Caves",
+            "Meditate by Prairie Temple's koi pond"
         ],
+        "quests_tomorrow": [],
         "candles_today": [
-            "Vault of Knowledge Treasure Candle-1",
-            "Vault of Knowledge Treasure Candle-2",
-            "Gloden Wasteland Season Candle group:b-1",
-            "Gloden Wasteland Season Candle group:b-2"
+            "Vault of Knowledge Season Candle group:b-1",
+            "Daylight Prairie Treasure Candle-2",
+            "Vault of Knowledge Season Candle group:b-2",
+            "Daylight Prairie Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }
