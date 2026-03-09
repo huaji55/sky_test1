@@ -2,7 +2,7 @@ name: Sky Daily Quest
 
 on:
   schedule:
-    - cron: '0 8 * * *' # UTC 08:00 = 台灣 16:00
+    - cron: '0 7 * * *' # UTC 07:00 = 台灣 15:00
   workflow_dispatch:
 
 permissions:
