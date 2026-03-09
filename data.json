@@ -1,16 +1,21 @@
 {
-    "updated_at": "2026-03-09 15:58:04 (GMT+8)",
+    "updated_at": "2026-03-09 08:59:35 (GMT+8)",
     "tw": {
         "title": "繁體中文",
         "date_today": "2026-03-09",
         "date_tomorrow": "2026-03-10",
         "quests_today": [
+            "用燭光凝聚成一根蠟燭",
+            "淨化 10 處黑暗腐植",
+            "前往雲野山洞找到舒適的藏身處",
+            "在雲野神廟的錦鯉池旁冥想"
+        ],
+        "quests_tomorrow": [
             "呼喚 5 位不同的玩家",
             "找到雨林的彩虹蠟燭",
             "欣賞一下雨林小樹苗",
             "透過水母重新恢復能量"
         ],
-        "quests_tomorrow": [],
         "candles_today": [
             "雨林大蠟燭-2",
             "雲野季蠟b組-1",
@@ -24,12 +29,17 @@
         "date_today": "2026-03-09",
         "date_tomorrow": "2026-03-10",
         "quests_today": [
+            "用烛光凝聚成一根蜡烛",
+            "净化 10 处黑暗腐植",
+            "前往云野山洞找到舒适的藏身处",
+            "在云野神庙的锦鲤池旁冥想"
+        ],
+        "quests_tomorrow": [
             "呼唤5位不同玩家",
             "在雨林找到彩虹蜡烛",
             "坐赏雨林小树苗",
             "用水母重新恢复能量"
         ],
-        "quests_tomorrow": [],
         "candles_today": [
             "雨林大蜡烛-2",
             "云野季蜡b组-1",
@@ -43,12 +53,17 @@
         "date_today": "2026-03-09",
         "date_tomorrow": "2026-03-10",
         "quests_today": [
+            "Forge a candle",
+            "Melt 10 darkness",
+            "Visit the cozy hideout in Prairie Caves",
+            "Meditate by Prairie Temple's koi pond"
+        ],
+        "quests_tomorrow": [
             "Call to 5 different players",
             "Find the candles at the end of the rainbow in the Hidden Forest",
             "Admire the sapling in the Hidden Forest for a short while",
             "Recharge your light from a jellyfish"
         ],
-        "quests_tomorrow": [],
         "candles_today": [
             "Hidden Forest Treasure Candle-2",
             "Daylight Prairie Season Candle group:b-1",

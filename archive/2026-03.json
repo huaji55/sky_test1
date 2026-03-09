@@ -305,10 +305,10 @@
     },
     "2026-03-09": {
         "tw": [
-            "呼喚 5 位不同的玩家",
-            "找到雨林的彩虹蠟燭",
-            "欣賞一下雨林小樹苗",
-            "透過水母重新恢復能量"
+            "用燭光凝聚成一根蠟燭",
+            "淨化 10 處黑暗腐植",
+            "前往雲野山洞找到舒適的藏身處",
+            "在雲野神廟的錦鯉池旁冥想"
         ],
         "candles_tw": [
             "雨林大蠟燭-2",
@@ -317,10 +317,10 @@
             "雨林大蠟燭-1"
         ],
         "cn": [
-            "呼唤5位不同玩家",
-            "在雨林找到彩虹蜡烛",
-            "坐赏雨林小树苗",
-            "用水母重新恢复能量"
+            "用烛光凝聚成一根蜡烛",
+            "净化 10 处黑暗腐植",
+            "前往云野山洞找到舒适的藏身处",
+            "在云野神庙的锦鲤池旁冥想"
         ],
         "candles_cn": [
             "雨林大蜡烛-2",
@@ -329,10 +329,10 @@
             "雨林大蜡烛-1"
         ],
         "en": [
-            "Call to 5 different players",
-            "Find the candles at the end of the rainbow in the Hidden Forest",
-            "Admire the sapling in the Hidden Forest for a short while",
-            "Recharge your light from a jellyfish"
+            "Forge a candle",
+            "Melt 10 darkness",
+            "Visit the cozy hideout in Prairie Caves",
+            "Meditate by Prairie Temple's koi pond"
         ],
         "candles_en": [
             "Hidden Forest Treasure Candle-2",
