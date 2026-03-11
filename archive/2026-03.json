@@ -74,5 +74,43 @@
             "Valley of Triumph Treasure Candle-1",
             "Valley of Triumph Treasure Candle-2"
         ]
+    },
+    "2026-03-11": {
+        "tw": [
+            "用燭光凝聚成一根蠟燭",
+            "抓住霞谷之光",
+            "收集藍色光芒 ",
+            "重溫拋球雜耍在霞谷的記憶"
+        ],
+        "candles_tw": [
+            "霞谷季蠟b組-2",
+            "霞谷季蠟b組-1",
+            "暮土大蠟燭-3",
+            "暮土大蠟燭-1"
+        ],
+        "cn": [
+            "用烛光凝聚成一根蜡烛",
+            "抓住霞谷之光",
+            "收集蓝色光芒 ",
+            "在霞谷重温抛球杂耍的记忆"
+        ],
+        "candles_cn": [
+            "霞谷季蜡b组-2",
+            "霞谷季蜡b组-1",
+            "暮土大蜡烛-3",
+            "暮土大蜡烛-1"
+        ],
+        "en": [
+            "Forge a candle",
+            "Catch the light in Valley of Triumph",
+            "Collect Blue Light ",
+            "Relive Troupe Juggler's memory from Valley of Triumph"
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:b-2",
+            "Valley of Triumph Season Candle group:b-1",
+            "Gloden Wasteland Treasure Candle-3",
+            "Gloden Wasteland Treasure Candle-1"
+        ]
     }
 }
