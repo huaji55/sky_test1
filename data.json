@@ -1,74 +1,74 @@
 {
-    "updated_at": "2026-03-11 15:36:06 (GMT+8)",
+    "updated_at": "2026-03-12 15:38:20 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-03-11",
-        "date_tomorrow": "2026-03-12",
+        "date_today": "2026-03-12",
+        "date_tomorrow": "2026-03-13",
         "quests_today": [
-            "用燭光凝聚成一根蠟燭",
-            "抓住霞谷之光",
-            "收集藍色光芒 ",
-            "重溫拋球雜耍在霞谷的記憶"
-        ],
-        "quests_tomorrow": [
             "欣賞一下暮土小樹苗",
             "對其他玩家使用表情",
             "抱起一隻暗蟹",
             "在暗蟹沙原冥想"
         ],
+        "quests_tomorrow": [
+            "收集 30 道燭光",
+            "重溫一位禁閣先靈的記憶",
+            "收集紫色光芒",
+            "重溫智慧長者在禁閣的記憶"
+        ],
         "candles_today": [
-            "霞谷季蠟b組-2",
-            "霞谷季蠟b組-1",
-            "暮土大蠟燭-3",
-            "暮土大蠟燭-1"
+            "禁閣大蠟燭-1",
+            "禁閣大蠟燭-2",
+            "暮土季蠟b組-1",
+            "暮土季蠟b組-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-03-11",
-        "date_tomorrow": "2026-03-12",
+        "date_today": "2026-03-12",
+        "date_tomorrow": "2026-03-13",
         "quests_today": [
-            "用烛光凝聚成一根蜡烛",
-            "抓住霞谷之光",
-            "收集蓝色光芒 ",
-            "在霞谷重温抛球杂耍的记忆"
-        ],
-        "quests_tomorrow": [
             "坐赏暮土小树苗",
             "对玩家使用表情",
             "抱起一只暗蟹",
             "在暗蟹沙原冥想"
         ],
+        "quests_tomorrow": [
+            "收集 30 道烛光",
+            "在禁阁中重温一位先灵的记忆",
+            "收集紫色光芒",
+            "在禁阁重温智慧长者的记忆"
+        ],
         "candles_today": [
-            "霞谷季蜡b组-2",
-            "霞谷季蜡b组-1",
-            "暮土大蜡烛-3",
-            "暮土大蜡烛-1"
+            "禁阁大蜡烛-1",
+            "禁阁大蜡烛-2",
+            "暮土季蜡b组-1",
+            "暮土季蜡b组-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-03-11",
-        "date_tomorrow": "2026-03-12",
+        "date_today": "2026-03-12",
+        "date_tomorrow": "2026-03-13",
         "quests_today": [
-            "Forge a candle",
-            "Catch the light in Valley of Triumph",
-            "Collect Blue Light ",
-            "Relive Troupe Juggler's memory from Valley of Triumph"
-        ],
-        "quests_tomorrow": [
             "Admire the sapling in Golden Wasteland for a short while",
             "Use expressions with players",
             "Pick up a Crab",
             "Meditate in the Crab Fields"
         ],
+        "quests_tomorrow": [
+            "Collect 30 pieces of light",
+            "Relive a Spirit's memories in Vault of Knowledge",
+            "Collect Purple Light",
+            "Relive Wise Grandparent's memory from Vault of Knowledge"
+        ],
         "candles_today": [
-            "Valley of Triumph Season Candle group:b-2",
-            "Valley of Triumph Season Candle group:b-1",
-            "Gloden Wasteland Treasure Candle-3",
-            "Gloden Wasteland Treasure Candle-1"
+            "Vault of Knowledge Treasure Candle-1",
+            "Vault of Knowledge Treasure Candle-2",
+            "Gloden Wasteland Season Candle group:b-1",
+            "Gloden Wasteland Season Candle group:b-2"
         ],
         "candles_tomorrow": []
     }

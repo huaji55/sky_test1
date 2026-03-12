@@ -112,5 +112,43 @@
             "Gloden Wasteland Treasure Candle-3",
             "Gloden Wasteland Treasure Candle-1"
         ]
+    },
+    "2026-03-12": {
+        "tw": [
+            "欣賞一下暮土小樹苗",
+            "對其他玩家使用表情",
+            "抱起一隻暗蟹",
+            "在暗蟹沙原冥想"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-1",
+            "禁閣大蠟燭-2",
+            "暮土季蠟b組-1",
+            "暮土季蠟b組-2"
+        ],
+        "cn": [
+            "坐赏暮土小树苗",
+            "对玩家使用表情",
+            "抱起一只暗蟹",
+            "在暗蟹沙原冥想"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-1",
+            "禁阁大蜡烛-2",
+            "暮土季蜡b组-1",
+            "暮土季蜡b组-2"
+        ],
+        "en": [
+            "Admire the sapling in Golden Wasteland for a short while",
+            "Use expressions with players",
+            "Pick up a Crab",
+            "Meditate in the Crab Fields"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-1",
+            "Vault of Knowledge Treasure Candle-2",
+            "Gloden Wasteland Season Candle group:b-1",
+            "Gloden Wasteland Season Candle group:b-2"
+        ]
     }
 }
