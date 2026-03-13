@@ -32,8 +32,8 @@ jobs:
           QUEST_TW: ${{ secrets.QUEST_TW }}
           QUEST_EN: ${{ secrets.QUEST_EN }}
           QUEST_CN: ${{ secrets.QUEST_CN }}
-          b: ${{ secrets.b }}
-          b1: ${{ secrets.b1 }}
+          B: ${{ secrets.B }}
+          B1: ${{ secrets.B1 }}
         run: python main.py
 
       - name: Commit and Push
