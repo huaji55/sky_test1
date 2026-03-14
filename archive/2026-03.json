@@ -150,5 +150,37 @@
             "Gloden Wasteland Season Candle group:b-1",
             "Gloden Wasteland Season Candle group:b-2"
         ]
+    },
+    "2026-03-14": {
+        "tw": [
+            "點亮 20 根蠟燭",
+            "欣賞一下雲野小樹苗",
+            "重溫彩紙表親在雲野的記憶",
+            "點亮一位陌生玩家"
+        ],
+        "candles_tw": [
+            "雨林大蠟燭-3",
+            "雲野季蠟b組-1"
+        ],
+        "cn": [
+            "点亮 20 根蜡烛",
+            "坐赏云野小树苗",
+            "在云野重温彩纸表亲的记忆",
+            "交一个新朋友"
+        ],
+        "candles_cn": [
+            "雨林大蜡烛-3",
+            "云野季蜡b组-1"
+        ],
+        "en": [
+            "Light 20 candles",
+            "Admire the sapling in Daylight Prairie for a short while",
+            "Relive Confetti Cousin's memory from Daylight Prairie",
+            "Make a new acquaintance"
+        ],
+        "candles_en": [
+            "Hidden Forest Treasure Candle-3",
+            "Daylight Prairie Season Candle group:b-1"
+        ]
     }
 }
