@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-03-17 15:45:51 (GMT+8)",
+    "updated_at": "2026-03-18 15:44:10 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-03-17",
-        "date_tomorrow": "2026-03-18",
+        "date_today": "2026-03-18",
+        "date_tomorrow": "2026-03-19",
         "quests_today": [
-            "bloom_watering",
-            "淨化 10 處黑暗腐植",
-            "在寶礁海底捕捉四散的光",
-            "在寶礁中欣賞一下彩虹"
-        ],
-        "quests_tomorrow": [
             "在禁閣的入口處進行冥想。",
             "用燭光凝聚成一根蠟燭",
             "對其他玩家使用表情",
             "重溫沉思編導在禁閣的記憶"
         ],
+        "quests_tomorrow": [
+            "bloom_music",
+            "點亮 20 根蠟燭",
+            "收集 綠色光芒",
+            "向一位玩家鞠躬"
+        ],
         "candles_today": [
-            "禁閣大蠟燭-2",
-            "暮土季蠟b組-2"
+            "禁閣季蠟b組-2",
+            "雲野大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-03-17",
-        "date_tomorrow": "2026-03-18",
+        "date_today": "2026-03-18",
+        "date_tomorrow": "2026-03-19",
         "quests_today": [
-            "bloom_watering",
-            "净化 10 处黑暗腐植",
-            "在宝礁海底捕捉四散的光",
-            "在宝藏暗礁欣赏一下彩虹"
-        ],
-        "quests_tomorrow": [
             "在禁阁的入口冥想。",
             "用烛光凝聚成一根蜡烛",
             "对玩家使用表情",
             "在禁阁重温沉思编导的记忆"
         ],
+        "quests_tomorrow": [
+            "bloom_music",
+            "点亮 20 根蜡烛",
+            "收集 绿色光芒",
+            "向一位玩家鞠躬"
+        ],
         "candles_today": [
-            "禁阁大蜡烛-2",
-            "暮土季蜡b组-2"
+            "禁阁季蜡b组-2",
+            "云野大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-03-17",
-        "date_tomorrow": "2026-03-18",
+        "date_today": "2026-03-18",
+        "date_tomorrow": "2026-03-19",
         "quests_today": [
-            "bloom_watering",
-            "Melt 10 darkness",
-            "Catch the wandering lights under the sea in Treasure Reef",
-            "Admire the rainbow in Treasure Reef for a short while"
-        ],
-        "quests_tomorrow": [
             "Meditate at the Vault's entrance",
             "Forge a candle",
             "Use expressions with players",
             "Relive Thoughtful Director's memory from Vault of Knowledge"
         ],
+        "quests_tomorrow": [
+            "bloom_music",
+            "Light 20 candles",
+            "Collect Green Light",
+            "Bow at a player"
+        ],
         "candles_today": [
-            "Vault of Knowledge Treasure Candle-2",
-            "Gloden Wasteland Season Candle group:b-2"
+            "Vault of Knowledge Season Candle group:b-2",
+            "Daylight Prairie Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }
