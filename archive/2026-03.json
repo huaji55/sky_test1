@@ -310,5 +310,37 @@
             "Vault of Knowledge Season Candle group:b-2",
             "Daylight Prairie Treasure Candle-1"
         ]
+    },
+    "2026-03-19": {
+        "tw": [
+            "bloom_music",
+            "點亮 20 根蠟燭",
+            "收集 綠色光芒",
+            "向一位玩家鞠躬"
+        ],
+        "candles_tw": [
+            "雲野季蠟b組-2",
+            "雨林大蠟燭-1"
+        ],
+        "cn": [
+            "bloom_music",
+            "点亮 20 根蜡烛",
+            "收集 绿色光芒",
+            "向一位玩家鞠躬"
+        ],
+        "candles_cn": [
+            "云野季蜡b组-2",
+            "雨林大蜡烛-1"
+        ],
+        "en": [
+            "bloom_music",
+            "Light 20 candles",
+            "Collect Green Light",
+            "Bow at a player"
+        ],
+        "candles_en": [
+            "Daylight Prairie Season Candle group:b-2",
+            "Hidden Forest Treasure Candle-1"
+        ]
     }
 }

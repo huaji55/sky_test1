@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-03-18 15:44:10 (GMT+8)",
+    "updated_at": "2026-03-19 15:05:45 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-03-18",
-        "date_tomorrow": "2026-03-19",
+        "date_today": "2026-03-19",
+        "date_tomorrow": "2026-03-20",
         "quests_today": [
-            "在禁閣的入口處進行冥想。",
-            "用燭光凝聚成一根蠟燭",
-            "對其他玩家使用表情",
-            "重溫沉思編導在禁閣的記憶"
-        ],
-        "quests_tomorrow": [
             "bloom_music",
             "點亮 20 根蠟燭",
             "收集 綠色光芒",
             "向一位玩家鞠躬"
         ],
+        "quests_tomorrow": [
+            "收集 30 道燭光",
+            "重溫發抖開拓者在雨林的記憶",
+            "收集 橙色光芒",
+            "拯救一隻被黑暗腐植困住的光鰩"
+        ],
         "candles_today": [
-            "禁閣季蠟b組-2",
-            "雲野大蠟燭-1"
+            "雲野季蠟b組-2",
+            "雨林大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-03-18",
-        "date_tomorrow": "2026-03-19",
+        "date_today": "2026-03-19",
+        "date_tomorrow": "2026-03-20",
         "quests_today": [
-            "在禁阁的入口冥想。",
-            "用烛光凝聚成一根蜡烛",
-            "对玩家使用表情",
-            "在禁阁重温沉思编导的记忆"
-        ],
-        "quests_tomorrow": [
             "bloom_music",
             "点亮 20 根蜡烛",
             "收集 绿色光芒",
             "向一位玩家鞠躬"
         ],
+        "quests_tomorrow": [
+            "收集 30 道烛光",
+            "在雨林重温发抖开拓者的记忆",
+            "收集 橙色光芒",
+            "拯救一只被黑暗腐植困住的光鳐"
+        ],
         "candles_today": [
-            "禁阁季蜡b组-2",
-            "云野大蜡烛-1"
+            "云野季蜡b组-2",
+            "雨林大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-03-18",
-        "date_tomorrow": "2026-03-19",
+        "date_today": "2026-03-19",
+        "date_tomorrow": "2026-03-20",
         "quests_today": [
-            "Meditate at the Vault's entrance",
-            "Forge a candle",
-            "Use expressions with players",
-            "Relive Thoughtful Director's memory from Vault of Knowledge"
-        ],
-        "quests_tomorrow": [
             "bloom_music",
             "Light 20 candles",
             "Collect Green Light",
             "Bow at a player"
         ],
+        "quests_tomorrow": [
+            "Collect 30 pieces of light",
+            "Relive Shivering Trailblazer's memory from Hidden Forest",
+            "Collect Orange Light",
+            "Rescue a manta from darkness"
+        ],
         "candles_today": [
-            "Vault of Knowledge Season Candle group:b-2",
-            "Daylight Prairie Treasure Candle-1"
+            "Daylight Prairie Season Candle group:b-2",
+            "Hidden Forest Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }
