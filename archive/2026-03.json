@@ -374,5 +374,37 @@
             "Hidden Forest Season Candle group:b-2",
             "Valley of Triumph Treasure Candle-2"
         ]
+    },
+    "2026-03-21": {
+        "tw": [
+            "重溫熊抱雪人在霞谷的記憶",
+            "和朋友擁抱",
+            "在隱士山谷山頂捕捉四散的光",
+            "在隱士山谷欣賞一下彩虹"
+        ],
+        "candles_tw": [
+            "暮土大蠟燭-2",
+            "霞谷季蠟b組-1"
+        ],
+        "cn": [
+            "在霞谷重温熊抱雪人的记忆",
+            "和朋友拥抱",
+            "在隐士山谷顶上捕捉四散的光",
+            "在隐士山谷欣赏一下彩虹"
+        ],
+        "candles_cn": [
+            "暮土大蜡烛-2",
+            "霞谷季蜡b组-1"
+        ],
+        "en": [
+            "Relive Bearhug Hermit's memory from Valley of Triumph",
+            "Hug a friend",
+            "Catch the wandering lights atop Hermit Valley",
+            "Admire the rainbow in Hermit Valley for a short while"
+        ],
+        "candles_en": [
+            "Gloden Wasteland Treasure Candle-2",
+            "Valley of Triumph Season Candle group:b-1"
+        ]
     }
 }
