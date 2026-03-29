@@ -630,5 +630,37 @@
             "Daylight Prairie Treasure Candle-3",
             "Vault of Knowledge Season Candle group:b-2"
         ]
+    },
+    "2026-03-29": {
+        "tw": [
+            "bloom_message",
+            "呼喚 5 位不同的玩家",
+            "淨化 10 處黑暗腐植",
+            "抓住雲野之光"
+        ],
+        "candles_tw": [
+            "雨林大蠟燭-3",
+            "雲野季蠟b組-2"
+        ],
+        "cn": [
+            "bloom_message",
+            "呼唤5位不同玩家",
+            "净化 10 处黑暗腐植",
+            "抓住云野之光"
+        ],
+        "candles_cn": [
+            "雨林大蜡烛-3",
+            "云野季蜡b组-2"
+        ],
+        "en": [
+            "bloom_message",
+            "Call to 5 different players",
+            "Melt 10 darkness",
+            "Catch the light in Daylight Prairie"
+        ],
+        "candles_en": [
+            "Hidden Forest Treasure Candle-3",
+            "Daylight Prairie Season Candle group:b-2"
+        ]
     }
 }

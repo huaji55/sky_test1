@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-03-28 15:37:31 (GMT+8)",
+    "updated_at": "2026-03-29 15:01:16 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-03-28",
-        "date_tomorrow": "2026-03-29",
+        "date_today": "2026-03-29",
+        "date_tomorrow": "2026-03-30",
         "quests_today": [
-            "向一位玩家鞠躬",
-            "抓住禁閣之光",
-            "在禁閣第二層冥想",
-            "重溫氣功高人在禁閣的記憶"
-        ],
-        "quests_tomorrow": [
             "bloom_message",
             "呼喚 5 位不同的玩家",
             "淨化 10 處黑暗腐植",
             "抓住雲野之光"
         ],
+        "quests_tomorrow": [
+            "點亮一位陌生玩家",
+            "在雨林小溪捕捉四散的光",
+            "重溫躲貓貓拓荒者在雨林的記憶",
+            "抱起一隻暗蟹"
+        ],
         "candles_today": [
-            "雲野大蠟燭-3",
-            "禁閣季蠟b組-2"
+            "雨林大蠟燭-3",
+            "雲野季蠟b組-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-03-28",
-        "date_tomorrow": "2026-03-29",
+        "date_today": "2026-03-29",
+        "date_tomorrow": "2026-03-30",
         "quests_today": [
-            "向一位玩家鞠躬",
-            "抓住禁阁之光",
-            "在禁阁第二层冥想",
-            "在禁阁重温气功高人的记忆"
-        ],
-        "quests_tomorrow": [
             "bloom_message",
             "呼唤5位不同玩家",
             "净化 10 处黑暗腐植",
             "抓住云野之光"
         ],
+        "quests_tomorrow": [
+            "交一个新朋友",
+            "在雨林小溪捕捉四散的光",
+            "在雨林重温躲猫猫拓荒者的记忆",
+            "抱起一只暗蟹"
+        ],
         "candles_today": [
-            "云野大蜡烛-3",
-            "禁阁季蜡b组-2"
+            "雨林大蜡烛-3",
+            "云野季蜡b组-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-03-28",
-        "date_tomorrow": "2026-03-29",
+        "date_today": "2026-03-29",
+        "date_tomorrow": "2026-03-30",
         "quests_today": [
-            "Bow at a player",
-            "Catch the light in the Vault of Knowledge",
-            "Meditate on the second floor of the Vault",
-            "Relive Levitating Adept's memory from Vault of Knowledge"
-        ],
-        "quests_tomorrow": [
             "bloom_message",
             "Call to 5 different players",
             "Melt 10 darkness",
             "Catch the light in Daylight Prairie"
         ],
+        "quests_tomorrow": [
+            "Make a new acquaintance",
+            "Catch the wandering lights in the Forest Brook",
+            "Relive Hide'n'seek Pioneer's memory from Hidden Forest",
+            "Pick up a Crab"
+        ],
         "candles_today": [
-            "Daylight Prairie Treasure Candle-3",
-            "Vault of Knowledge Season Candle group:b-2"
+            "Hidden Forest Treasure Candle-3",
+            "Daylight Prairie Season Candle group:b-2"
         ],
         "candles_tomorrow": []
     }
