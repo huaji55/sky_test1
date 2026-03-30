@@ -662,5 +662,37 @@
             "Hidden Forest Treasure Candle-3",
             "Daylight Prairie Season Candle group:b-2"
         ]
+    },
+    "2026-03-30": {
+        "tw": [
+            "點亮一位陌生玩家",
+            "在雨林小溪捕捉四散的光",
+            "重溫躲貓貓拓荒者在雨林的記憶",
+            "抱起一隻暗蟹"
+        ],
+        "candles_tw": [
+            "雨林季蠟b組-2",
+            "霞谷大蠟燭-2"
+        ],
+        "cn": [
+            "交一个新朋友",
+            "在雨林小溪捕捉四散的光",
+            "在雨林重温躲猫猫拓荒者的记忆",
+            "抱起一只暗蟹"
+        ],
+        "candles_cn": [
+            "雨林季蜡b组-2",
+            "霞谷大蜡烛-2"
+        ],
+        "en": [
+            "Make a new acquaintance",
+            "Catch the wandering lights in the Forest Brook",
+            "Relive Hide'n'seek Pioneer's memory from Hidden Forest",
+            "Pick up a Crab"
+        ],
+        "candles_en": [
+            "Hidden Forest Season Candle group:b-2",
+            "Valley of Triumph Treasure Candle-2"
+        ]
     }
 }

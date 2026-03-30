@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-03-29 15:44:09 (GMT+8)",
+    "updated_at": "2026-03-30 15:02:52 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-03-29",
-        "date_tomorrow": "2026-03-30",
+        "date_today": "2026-03-30",
+        "date_tomorrow": "2026-03-31",
         "quests_today": [
-            "bloom_message",
-            "呼喚 5 位不同的玩家",
-            "淨化 10 處黑暗腐植",
-            "抓住雲野之光"
-        ],
-        "quests_tomorrow": [
             "點亮一位陌生玩家",
             "在雨林小溪捕捉四散的光",
             "重溫躲貓貓拓荒者在雨林的記憶",
             "抱起一隻暗蟹"
         ],
+        "quests_tomorrow": [
+            "bloom_harvesting",
+            "用燭光凝聚成一根蠟燭",
+            "抓住霞谷之光",
+            "收集藍色光芒 "
+        ],
         "candles_today": [
-            "雨林大蠟燭-3",
-            "雲野季蠟b組-2"
+            "雨林季蠟b組-2",
+            "霞谷大蠟燭-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-03-29",
-        "date_tomorrow": "2026-03-30",
+        "date_today": "2026-03-30",
+        "date_tomorrow": "2026-03-31",
         "quests_today": [
-            "bloom_message",
-            "呼唤5位不同玩家",
-            "净化 10 处黑暗腐植",
-            "抓住云野之光"
-        ],
-        "quests_tomorrow": [
             "交一个新朋友",
             "在雨林小溪捕捉四散的光",
             "在雨林重温躲猫猫拓荒者的记忆",
             "抱起一只暗蟹"
         ],
+        "quests_tomorrow": [
+            "bloom_harvesting",
+            "用烛光凝聚成一根蜡烛",
+            "抓住霞谷之光",
+            "收集蓝色光芒 "
+        ],
         "candles_today": [
-            "雨林大蜡烛-3",
-            "云野季蜡b组-2"
+            "雨林季蜡b组-2",
+            "霞谷大蜡烛-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-03-29",
-        "date_tomorrow": "2026-03-30",
+        "date_today": "2026-03-30",
+        "date_tomorrow": "2026-03-31",
         "quests_today": [
-            "bloom_message",
-            "Call to 5 different players",
-            "Melt 10 darkness",
-            "Catch the light in Daylight Prairie"
-        ],
-        "quests_tomorrow": [
             "Make a new acquaintance",
             "Catch the wandering lights in the Forest Brook",
             "Relive Hide'n'seek Pioneer's memory from Hidden Forest",
             "Pick up a Crab"
         ],
+        "quests_tomorrow": [
+            "bloom_harvesting",
+            "Forge a candle",
+            "Catch the light in Valley of Triumph",
+            "Collect Blue Light "
+        ],
         "candles_today": [
-            "Hidden Forest Treasure Candle-3",
-            "Daylight Prairie Season Candle group:b-2"
+            "Hidden Forest Season Candle group:b-2",
+            "Valley of Triumph Treasure Candle-2"
         ],
         "candles_tomorrow": []
     }
