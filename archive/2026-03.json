@@ -694,5 +694,37 @@
             "Hidden Forest Season Candle group:b-2",
             "Valley of Triumph Treasure Candle-2"
         ]
+    },
+    "2026-03-31": {
+        "tw": [
+            "bloom_harvesting",
+            "用燭光凝聚成一根蠟燭",
+            "抓住霞谷之光",
+            "收集藍色光芒 "
+        ],
+        "candles_tw": [
+            "霞谷季蠟b組-1",
+            "暮土大蠟燭-1"
+        ],
+        "cn": [
+            "bloom_harvesting",
+            "用烛光凝聚成一根蜡烛",
+            "抓住霞谷之光",
+            "收集蓝色光芒 "
+        ],
+        "candles_cn": [
+            "霞谷季蜡b组-1",
+            "暮土大蜡烛-1"
+        ],
+        "en": [
+            "bloom_harvesting",
+            "Forge a candle",
+            "Catch the light in Valley of Triumph",
+            "Collect Blue Light "
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:b-1",
+            "Gloden Wasteland Treasure Candle-1"
+        ]
     }
 }

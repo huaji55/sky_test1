@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-03-30 16:15:09 (GMT+8)",
+    "updated_at": "2026-03-31 16:00:39 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-03-30",
-        "date_tomorrow": "2026-03-31",
+        "date_today": "2026-03-31",
+        "date_tomorrow": "2026-04-01",
         "quests_today": [
-            "點亮一位陌生玩家",
-            "在雨林小溪捕捉四散的光",
-            "重溫躲貓貓拓荒者在雨林的記憶",
-            "抱起一隻暗蟹"
-        ],
-        "quests_tomorrow": [
             "bloom_harvesting",
             "用燭光凝聚成一根蠟燭",
             "抓住霞谷之光",
             "收集藍色光芒 "
         ],
+        "quests_tomorrow": [
+            "前往暮土的墓園找到篝火",
+            "重溫不捨家長在暮土的記憶",
+            "面對冥龍",
+            "更換你的褲子"
+        ],
         "candles_today": [
-            "雨林季蠟b組-2",
-            "霞谷大蠟燭-2"
+            "霞谷季蠟b組-1",
+            "暮土大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-03-30",
-        "date_tomorrow": "2026-03-31",
+        "date_today": "2026-03-31",
+        "date_tomorrow": "2026-04-01",
         "quests_today": [
-            "交一个新朋友",
-            "在雨林小溪捕捉四散的光",
-            "在雨林重温躲猫猫拓荒者的记忆",
-            "抱起一只暗蟹"
-        ],
-        "quests_tomorrow": [
             "bloom_harvesting",
             "用烛光凝聚成一根蜡烛",
             "抓住霞谷之光",
             "收集蓝色光芒 "
         ],
+        "quests_tomorrow": [
+            "前往暮土的墓园找到篝火",
+            "在暮土重温不舍家长的记忆",
+            "面对冥龙",
+            "更换你的裤子"
+        ],
         "candles_today": [
-            "雨林季蜡b组-2",
-            "霞谷大蜡烛-2"
+            "霞谷季蜡b组-1",
+            "暮土大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-03-30",
-        "date_tomorrow": "2026-03-31",
+        "date_today": "2026-03-31",
+        "date_tomorrow": "2026-04-01",
         "quests_today": [
-            "Make a new acquaintance",
-            "Catch the wandering lights in the Forest Brook",
-            "Relive Hide'n'seek Pioneer's memory from Hidden Forest",
-            "Pick up a Crab"
-        ],
-        "quests_tomorrow": [
             "bloom_harvesting",
             "Forge a candle",
             "Catch the light in Valley of Triumph",
             "Collect Blue Light "
         ],
+        "quests_tomorrow": [
+            "Visit the bonfire at the Wasteland's Graveyard",
+            "Relive Pleaful Parent's memory from Golden Wasteland",
+            "Face the Dark Dragon",
+            "Change your pants"
+        ],
         "candles_today": [
-            "Hidden Forest Season Candle group:b-2",
-            "Valley of Triumph Treasure Candle-2"
+            "Valley of Triumph Season Candle group:b-1",
+            "Gloden Wasteland Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }
