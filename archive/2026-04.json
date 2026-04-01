@@ -1,0 +1,34 @@
+{
+    "2026-04-01": {
+        "tw": [
+            "前往暮土的墓園找到篝火",
+            "重溫不捨家長在暮土的記憶",
+            "面對冥龍",
+            "更換你的褲子"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-1",
+            "暮土季蠟a組-1"
+        ],
+        "cn": [
+            "前往暮土的墓园找到篝火",
+            "在暮土重温不舍家长的记忆",
+            "面对冥龙",
+            "更换你的裤子"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-1",
+            "暮土季蜡a组-1"
+        ],
+        "en": [
+            "Visit the bonfire at the Wasteland's Graveyard",
+            "Relive Pleaful Parent's memory from Golden Wasteland",
+            "Face the Dark Dragon",
+            "Change your pants"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-1",
+            "Gloden Wasteland Season Candle group:a-1"
+        ]
+    }
+}
