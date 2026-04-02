@@ -30,5 +30,37 @@
             "Vault of Knowledge Treasure Candle-1",
             "Gloden Wasteland Season Candle group:a-1"
         ]
+    },
+    "2026-04-02": {
+        "tw": [
+            "bloom_harvesting",
+            "用燭光凝聚成一根蠟燭",
+            "收集 30 道燭光",
+            "欣賞一下禁閣小樹苗"
+        ],
+        "candles_tw": [
+            "禁閣季蠟a組-1",
+            "雲野大蠟燭-1"
+        ],
+        "cn": [
+            "bloom_harvesting",
+            "用烛光凝聚成一根蜡烛",
+            "收集 30 道烛光",
+            "坐赏禁阁小树苗"
+        ],
+        "candles_cn": [
+            "禁阁季蜡a组-1",
+            "云野大蜡烛-1"
+        ],
+        "en": [
+            "bloom_harvesting",
+            "Forge a candle",
+            "Collect 30 pieces of light",
+            "Admire the sapling in the Vault of Knowledge for a short while"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Season Candle group:a-1",
+            "Daylight Prairie Treasure Candle-1"
+        ]
     }
 }
