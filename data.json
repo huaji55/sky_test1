@@ -1,68 +1,65 @@
 {
-    "updated_at": "2026-04-02 15:57:24 (GMT+8)",
+    "updated_at": "2026-04-03 15:53:19 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-04-02",
-        "date_tomorrow": "2026-04-03",
+        "date_today": "2026-04-03",
+        "date_tomorrow": "2026-04-04",
         "quests_today": [
-            "bloom_harvesting",
-            "用燭光凝聚成一根蠟燭",
-            "收集 30 道燭光",
-            "欣賞一下禁閣小樹苗"
-        ],
-        "quests_tomorrow": [
             "重溫水母語者在雲野的記憶",
             "透過水母重新恢復能量",
             "重溫熱血運動員在雲野的記憶",
             "拜訪聖域群島上遭受汙染的間歇泉"
         ],
+        "quests_tomorrow": [
+            "抓住雨林之光",
+            "淨化 10 處黑暗腐植",
+            "對其他玩家使用表情",
+            "在雨林小溪上方冥想"
+        ],
         "candles_today": [
-            "禁閣季蠟a組-1",
-            "雲野大蠟燭-1"
+            "雨林大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-04-02",
-        "date_tomorrow": "2026-04-03",
+        "date_today": "2026-04-03",
+        "date_tomorrow": "2026-04-04",
         "quests_today": [
-            "bloom_harvesting",
-            "用烛光凝聚成一根蜡烛",
-            "收集 30 道烛光",
-            "坐赏禁阁小树苗"
-        ],
-        "quests_tomorrow": [
             "在云野重温水母语者的记忆",
             "用水母重新恢复能量",
             "在云野重温热血运动员的记忆",
             "拜访圣域群岛上遭受污染的间歇泉"
         ],
+        "quests_tomorrow": [
+            "抓住雨林之光",
+            "净化 10 处黑暗腐植",
+            "对玩家使用表情",
+            "在雨林小溪上方冥想"
+        ],
         "candles_today": [
-            "禁阁季蜡a组-1",
-            "云野大蜡烛-1"
+            "雨林大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-04-02",
-        "date_tomorrow": "2026-04-03",
+        "date_today": "2026-04-03",
+        "date_tomorrow": "2026-04-04",
         "quests_today": [
-            "bloom_harvesting",
-            "Forge a candle",
-            "Collect 30 pieces of light",
-            "Admire the sapling in the Vault of Knowledge for a short while"
-        ],
-        "quests_tomorrow": [
             "Relive Jelly Whisperer's memory from Daylight Prairie",
             "Recharge your light from a jellyfish",
             "Relive Rallying Thrillseeker's memory from Daylight Prairie",
             "Visit the polluted geyser in Sanctuary Islands"
         ],
+        "quests_tomorrow": [
+            "Catch the light in Hidden Forest",
+            "Melt 10 darkness",
+            "Use expressions with players",
+            "Meditate above the Forest Brook"
+        ],
         "candles_today": [
-            "Vault of Knowledge Season Candle group:a-1",
-            "Daylight Prairie Treasure Candle-1"
+            "Hidden Forest Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }

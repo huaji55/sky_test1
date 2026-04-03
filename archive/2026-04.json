@@ -62,5 +62,34 @@
             "Vault of Knowledge Season Candle group:a-1",
             "Daylight Prairie Treasure Candle-1"
         ]
+    },
+    "2026-04-03": {
+        "tw": [
+            "重溫水母語者在雲野的記憶",
+            "透過水母重新恢復能量",
+            "重溫熱血運動員在雲野的記憶",
+            "拜訪聖域群島上遭受汙染的間歇泉"
+        ],
+        "candles_tw": [
+            "雨林大蠟燭-1"
+        ],
+        "cn": [
+            "在云野重温水母语者的记忆",
+            "用水母重新恢复能量",
+            "在云野重温热血运动员的记忆",
+            "拜访圣域群岛上遭受污染的间歇泉"
+        ],
+        "candles_cn": [
+            "雨林大蜡烛-1"
+        ],
+        "en": [
+            "Relive Jelly Whisperer's memory from Daylight Prairie",
+            "Recharge your light from a jellyfish",
+            "Relive Rallying Thrillseeker's memory from Daylight Prairie",
+            "Visit the polluted geyser in Sanctuary Islands"
+        ],
+        "candles_en": [
+            "Hidden Forest Treasure Candle-1"
+        ]
     }
 }
