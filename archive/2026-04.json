@@ -91,5 +91,34 @@
         "candles_en": [
             "Hidden Forest Treasure Candle-1"
         ]
+    },
+    "2026-04-04": {
+        "tw": [
+            "抓住雨林之光",
+            "淨化 10 處黑暗腐植",
+            "對其他玩家使用表情",
+            "在雨林小溪上方冥想"
+        ],
+        "candles_tw": [
+            "霞谷大蠟燭-1"
+        ],
+        "cn": [
+            "抓住雨林之光",
+            "净化 10 处黑暗腐植",
+            "对玩家使用表情",
+            "在雨林小溪上方冥想"
+        ],
+        "candles_cn": [
+            "霞谷大蜡烛-1"
+        ],
+        "en": [
+            "Catch the light in Hidden Forest",
+            "Melt 10 darkness",
+            "Use expressions with players",
+            "Meditate above the Forest Brook"
+        ],
+        "candles_en": [
+            "Valley of Triumph Treasure Candle-1"
+        ]
     }
 }
