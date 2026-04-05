@@ -120,5 +120,34 @@
         "candles_en": [
             "Valley of Triumph Treasure Candle-1"
         ]
+    },
+    "2026-04-05": {
+        "tw": [
+            "點亮 20 根蠟燭",
+            "重溫拋球雜耍在霞谷的記憶",
+            "拜訪圓夢村的溫泉",
+            "幫忙把吉他找回來"
+        ],
+        "candles_tw": [
+            "暮土大蠟燭-1"
+        ],
+        "cn": [
+            "点亮 20 根蜡烛",
+            "在霞谷重温抛球杂耍的记忆",
+            "拜访园梦村的温泉",
+            "找到并带回吉他"
+        ],
+        "candles_cn": [
+            "暮土大蜡烛-1"
+        ],
+        "en": [
+            "Light 20 candles",
+            "Relive Troupe Juggler's memory from Valley of Triumph",
+            "Visit the Hotspring in the Village of Dreams",
+            "Find and retrieve the guitar"
+        ],
+        "candles_en": [
+            "Gloden Wasteland Treasure Candle-1"
+        ]
     }
 }

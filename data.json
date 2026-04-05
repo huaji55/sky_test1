@@ -1,65 +1,65 @@
 {
-    "updated_at": "2026-04-04 15:40:46 (GMT+8)",
+    "updated_at": "2026-04-05 15:47:22 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-04-04",
-        "date_tomorrow": "2026-04-05",
+        "date_today": "2026-04-05",
+        "date_tomorrow": "2026-04-06",
         "quests_today": [
-            "抓住雨林之光",
-            "淨化 10 處黑暗腐植",
-            "對其他玩家使用表情",
-            "在雨林小溪上方冥想"
-        ],
-        "quests_tomorrow": [
             "點亮 20 根蠟燭",
             "重溫拋球雜耍在霞谷的記憶",
             "拜訪圓夢村的溫泉",
             "幫忙把吉他找回來"
         ],
+        "quests_tomorrow": [
+            "抱起一隻暗蟹",
+            "呼喚 5 位不同的玩家",
+            "與笨拙的水手長欣賞共享空間",
+            "在寶礁中欣賞一下彩虹"
+        ],
         "candles_today": [
-            "霞谷大蠟燭-1"
+            "暮土大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-04-04",
-        "date_tomorrow": "2026-04-05",
+        "date_today": "2026-04-05",
+        "date_tomorrow": "2026-04-06",
         "quests_today": [
-            "抓住雨林之光",
-            "净化 10 处黑暗腐植",
-            "对玩家使用表情",
-            "在雨林小溪上方冥想"
-        ],
-        "quests_tomorrow": [
             "点亮 20 根蜡烛",
             "在霞谷重温抛球杂耍的记忆",
             "拜访园梦村的温泉",
             "找到并带回吉他"
         ],
+        "quests_tomorrow": [
+            "抱起一只暗蟹",
+            "呼唤5位不同玩家",
+            "与笨拙水手一起欣赏共享空间",
+            "在宝藏暗礁欣赏一下彩虹"
+        ],
         "candles_today": [
-            "霞谷大蜡烛-1"
+            "暮土大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-04-04",
-        "date_tomorrow": "2026-04-05",
+        "date_today": "2026-04-05",
+        "date_tomorrow": "2026-04-06",
         "quests_today": [
-            "Catch the light in Hidden Forest",
-            "Melt 10 darkness",
-            "Use expressions with players",
-            "Meditate above the Forest Brook"
-        ],
-        "quests_tomorrow": [
             "Light 20 candles",
             "Relive Troupe Juggler's memory from Valley of Triumph",
             "Visit the Hotspring in the Village of Dreams",
             "Find and retrieve the guitar"
         ],
+        "quests_tomorrow": [
+            "Pick up a Crab",
+            "Call to 5 different players",
+            "Admire Shared Spaces with Bumbling Boatswain",
+            "Admire the rainbow in Treasure Reef for a short while"
+        ],
         "candles_today": [
-            "Valley of Triumph Treasure Candle-1"
+            "Gloden Wasteland Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }
