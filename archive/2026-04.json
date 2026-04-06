@@ -149,5 +149,34 @@
         "candles_en": [
             "Gloden Wasteland Treasure Candle-1"
         ]
+    },
+    "2026-04-06": {
+        "tw": [
+            "抱起一隻暗蟹",
+            "呼喚 5 位不同的玩家",
+            "與笨拙的水手長欣賞共享空間",
+            "在寶礁中欣賞一下彩虹"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-2"
+        ],
+        "cn": [
+            "抱起一只暗蟹",
+            "呼唤5位不同玩家",
+            "与笨拙水手一起欣赏共享空间",
+            "在宝藏暗礁欣赏一下彩虹"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-2"
+        ],
+        "en": [
+            "Pick up a Crab",
+            "Call to 5 different players",
+            "Admire Shared Spaces with Bumbling Boatswain",
+            "Admire the rainbow in Treasure Reef for a short while"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-2"
+        ]
     }
 }
