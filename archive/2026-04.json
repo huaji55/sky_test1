@@ -236,5 +236,34 @@
         "candles_en": [
             "Hidden Forest Treasure Candle-2"
         ]
+    },
+    "2026-04-09": {
+        "tw": [
+            "和朋友擊掌",
+            "欣賞一下雨林小樹苗",
+            "在雨林庭院外冥想",
+            "重溫管事小隊長在雨林的記憶"
+        ],
+        "candles_tw": [
+            "霞谷大蠟燭-2"
+        ],
+        "cn": [
+            "和朋友击掌",
+            "坐赏雨林小树苗",
+            "在雨林庭院外冥想",
+            "在雨林重温管事小队长的记忆"
+        ],
+        "candles_cn": [
+            "霞谷大蜡烛-2"
+        ],
+        "en": [
+            "High-Five a friend",
+            "Admire the sapling in the Hidden Forest for a short while",
+            "Meditate outside the Forest Courtyard",
+            "Relive Scolding Student's memory from Hidden Forest"
+        ],
+        "candles_en": [
+            "Valley of Triumph Treasure Candle-2"
+        ]
     }
 }
