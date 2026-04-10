@@ -265,5 +265,34 @@
         "candles_en": [
             "Valley of Triumph Treasure Candle-2"
         ]
+    },
+    "2026-04-10": {
+        "tw": [
+            "用燭光凝聚成一根蠟燭",
+            "在隱士山谷欣賞一下彩虹",
+            "在隱士山谷山頂捕捉四散的光",
+            "幫忙把吉他找回來"
+        ],
+        "candles_tw": [
+            "暮土大蠟燭-2"
+        ],
+        "cn": [
+            "用烛光凝聚成一根蜡烛",
+            "在隐士山谷欣赏一下彩虹",
+            "在隐士山谷顶上捕捉四散的光",
+            "找到并带回吉他"
+        ],
+        "candles_cn": [
+            "暮土大蜡烛-2"
+        ],
+        "en": [
+            "Forge a candle",
+            "Admire the rainbow in Hermit Valley for a short while",
+            "Catch the wandering lights atop Hermit Valley",
+            "Find and retrieve the guitar"
+        ],
+        "candles_en": [
+            "Gloden Wasteland Treasure Candle-2"
+        ]
     }
 }

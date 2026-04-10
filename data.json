@@ -1,65 +1,65 @@
 {
-    "updated_at": "2026-04-09 16:09:46 (GMT+8)",
+    "updated_at": "2026-04-10 15:04:02 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-04-09",
-        "date_tomorrow": "2026-04-10",
+        "date_today": "2026-04-10",
+        "date_tomorrow": "2026-04-11",
         "quests_today": [
-            "和朋友擊掌",
-            "欣賞一下雨林小樹苗",
-            "在雨林庭院外冥想",
-            "重溫管事小隊長在雨林的記憶"
-        ],
-        "quests_tomorrow": [
             "用燭光凝聚成一根蠟燭",
             "在隱士山谷欣賞一下彩虹",
             "在隱士山谷山頂捕捉四散的光",
             "幫忙把吉他找回來"
         ],
+        "quests_tomorrow": [
+            "淨化 10 處黑暗腐植",
+            "面對冥龍",
+            "在戰場冥想",
+            "重溫望遠哨兵在暮土的記憶"
+        ],
         "candles_today": [
-            "霞谷大蠟燭-2"
+            "暮土大蠟燭-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-04-09",
-        "date_tomorrow": "2026-04-10",
+        "date_today": "2026-04-10",
+        "date_tomorrow": "2026-04-11",
         "quests_today": [
-            "和朋友击掌",
-            "坐赏雨林小树苗",
-            "在雨林庭院外冥想",
-            "在雨林重温管事小队长的记忆"
-        ],
-        "quests_tomorrow": [
             "用烛光凝聚成一根蜡烛",
             "在隐士山谷欣赏一下彩虹",
             "在隐士山谷顶上捕捉四散的光",
             "找到并带回吉他"
         ],
+        "quests_tomorrow": [
+            "净化 10 处黑暗腐植",
+            "面对冥龙",
+            "在战场冥想",
+            "在暮土重温望远哨兵的记忆"
+        ],
         "candles_today": [
-            "霞谷大蜡烛-2"
+            "暮土大蜡烛-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-04-09",
-        "date_tomorrow": "2026-04-10",
+        "date_today": "2026-04-10",
+        "date_tomorrow": "2026-04-11",
         "quests_today": [
-            "High-Five a friend",
-            "Admire the sapling in the Hidden Forest for a short while",
-            "Meditate outside the Forest Courtyard",
-            "Relive Scolding Student's memory from Hidden Forest"
-        ],
-        "quests_tomorrow": [
             "Forge a candle",
             "Admire the rainbow in Hermit Valley for a short while",
             "Catch the wandering lights atop Hermit Valley",
             "Find and retrieve the guitar"
         ],
+        "quests_tomorrow": [
+            "Melt 10 darkness",
+            "Face the Dark Dragon",
+            "Meditate on the Battlefield",
+            "Relive Lookout Scout's memory from Golden Wasteland"
+        ],
         "candles_today": [
-            "Valley of Triumph Treasure Candle-2"
+            "Gloden Wasteland Treasure Candle-2"
         ],
         "candles_tomorrow": []
     }
