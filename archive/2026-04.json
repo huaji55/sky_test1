@@ -294,5 +294,34 @@
         "candles_en": [
             "Gloden Wasteland Treasure Candle-2"
         ]
+    },
+    "2026-04-11": {
+        "tw": [
+            "淨化 10 處黑暗腐植",
+            "面對冥龍",
+            "在戰場冥想",
+            "重溫望遠哨兵在暮土的記憶"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-1"
+        ],
+        "cn": [
+            "净化 10 处黑暗腐植",
+            "面对冥龙",
+            "在战场冥想",
+            "在暮土重温望远哨兵的记忆"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-1"
+        ],
+        "en": [
+            "Melt 10 darkness",
+            "Face the Dark Dragon",
+            "Meditate on the Battlefield",
+            "Relive Lookout Scout's memory from Golden Wasteland"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-1"
+        ]
     }
 }
