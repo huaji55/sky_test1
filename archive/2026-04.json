@@ -381,5 +381,34 @@
         "candles_en": [
             "Hidden Forest Treasure Candle-3"
         ]
+    },
+    "2026-04-14": {
+        "tw": [
+            "收集 30 道燭光",
+            "找到雨林的彩虹蠟燭",
+            "在雨林的樹林高處整理歸屬季的先祖團聚長桌",
+            "收集 橙色光芒"
+        ],
+        "candles_tw": [
+            "霞谷大蠟燭-1"
+        ],
+        "cn": [
+            "收集 30 道烛光",
+            "在雨林找到彩虹蜡烛",
+            "在雨林的树林高处整理归属季的先祖团聚长桌",
+            "收集 橙色光芒"
+        ],
+        "candles_cn": [
+            "霞谷大蜡烛-1"
+        ],
+        "en": [
+            "Collect 30 pieces of light",
+            "Find the candles at the end of the rainbow in the Hidden Forest",
+            "Tidy up the Ancestor's Table of Belonging in Hidden Forest's elevated clearing",
+            "Collect Orange Light"
+        ],
+        "candles_en": [
+            "Valley of Triumph Treasure Candle-1"
+        ]
     }
 }
