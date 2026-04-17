@@ -1,65 +1,68 @@
 {
-    "updated_at": "2026-04-16 16:20:57 (GMT+8)",
+    "updated_at": "2026-04-17 15:02:09 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-04-16",
-        "date_tomorrow": "2026-04-17",
+        "date_today": "2026-04-17",
+        "date_tomorrow": "2026-04-18",
         "quests_today": [
-            "用燭光凝聚成一根蠟燭",
-            "抓住暮土之光",
-            "找到暮土的彩虹蠟燭",
-            "重溫讚許壁畫家在暮土的記憶"
-        ],
-        "quests_tomorrow": [
             "和朋友擁抱",
             "淨化 10 處黑暗腐植",
             "在知識庫避難所捕捉四散的光",
             "重溫一位禁閣先靈的記憶"
         ],
+        "quests_tomorrow": [
+            "抓住雲野之光",
+            "點亮 20 根蠟燭",
+            "收集 綠色光芒",
+            "乘坐光鰩"
+        ],
         "candles_today": [
-            "禁閣大蠟燭-2"
+            "禁閣季蠟a組-2",
+            "雲野大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-04-16",
-        "date_tomorrow": "2026-04-17",
+        "date_today": "2026-04-17",
+        "date_tomorrow": "2026-04-18",
         "quests_today": [
-            "用烛光凝聚成一根蜡烛",
-            "抓住暮土之光",
-            "在暮土找到彩虹蜡烛",
-            "在暮土重温赞许壁画家的记忆"
-        ],
-        "quests_tomorrow": [
             "和朋友拥抱",
             "净化 10 处黑暗腐植",
             "在禁阁的知识库避难所捕捉四散的光",
             "在禁阁中重温一位先灵的记忆"
         ],
+        "quests_tomorrow": [
+            "抓住云野之光",
+            "点亮 20 根蜡烛",
+            "收集 绿色光芒",
+            "乘着光鳐兜风"
+        ],
         "candles_today": [
-            "禁阁大蜡烛-2"
+            "禁阁季蜡a组-2",
+            "云野大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-04-16",
-        "date_tomorrow": "2026-04-17",
+        "date_today": "2026-04-17",
+        "date_tomorrow": "2026-04-18",
         "quests_today": [
-            "Forge a candle",
-            "Catch the light in Golden Wasteland",
-            "Find the candles at the end of the rainbow in the Golden Wasteland",
-            "Relive Nodding Muralist's memory from Golden Wasteland"
-        ],
-        "quests_tomorrow": [
             "Hug a friend",
             "Melt 10 darkness",
             "Catch the wandering lights in the Vault's Repository",
             "Relive a Spirit's memories in Vault of Knowledge"
         ],
+        "quests_tomorrow": [
+            "Catch the light in Daylight Prairie",
+            "Light 20 candles",
+            "Collect Green Light",
+            "Ride with a Manta"
+        ],
         "candles_today": [
-            "Vault of Knowledge Treasure Candle-2"
+            "Vault of Knowledge Season Candle group:a-2",
+            "Daylight Prairie Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }
