@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-04-17 16:19:49 (GMT+8)",
+    "updated_at": "2026-04-18 15:43:14 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-04-17",
-        "date_tomorrow": "2026-04-18",
+        "date_today": "2026-04-18",
+        "date_tomorrow": "2026-04-19",
         "quests_today": [
-            "和朋友擁抱",
-            "淨化 10 處黑暗腐植",
-            "在知識庫避難所捕捉四散的光",
-            "重溫一位禁閣先靈的記憶"
-        ],
-        "quests_tomorrow": [
             "抓住雲野之光",
             "點亮 20 根蠟燭",
             "收集 綠色光芒",
             "乘坐光鰩"
         ],
+        "quests_tomorrow": [
+            "淨化 10 處黑暗腐植",
+            "在雨林小溪捕捉四散的光",
+            "重溫正步冒險家在雨林的記憶",
+            "透過光菇重新恢復能量"
+        ],
         "candles_today": [
-            "禁閣季蠟a組-2",
-            "雲野大蠟燭-1"
+            "雲野季蠟a組-2",
+            "雨林大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-04-17",
-        "date_tomorrow": "2026-04-18",
+        "date_today": "2026-04-18",
+        "date_tomorrow": "2026-04-19",
         "quests_today": [
-            "和朋友拥抱",
-            "净化 10 处黑暗腐植",
-            "在禁阁的知识库避难所捕捉四散的光",
-            "在禁阁中重温一位先灵的记忆"
-        ],
-        "quests_tomorrow": [
             "抓住云野之光",
             "点亮 20 根蜡烛",
             "收集 绿色光芒",
             "乘着光鳐兜风"
         ],
+        "quests_tomorrow": [
+            "净化 10 处黑暗腐植",
+            "在雨林小溪捕捉四散的光",
+            "在雨林重温正步冒险家的记忆",
+            "用光菇重新恢复能量"
+        ],
         "candles_today": [
-            "禁阁季蜡a组-2",
-            "云野大蜡烛-1"
+            "云野季蜡a组-2",
+            "雨林大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-04-17",
-        "date_tomorrow": "2026-04-18",
+        "date_today": "2026-04-18",
+        "date_tomorrow": "2026-04-19",
         "quests_today": [
-            "Hug a friend",
-            "Melt 10 darkness",
-            "Catch the wandering lights in the Vault's Repository",
-            "Relive a Spirit's memories in Vault of Knowledge"
-        ],
-        "quests_tomorrow": [
             "Catch the light in Daylight Prairie",
             "Light 20 candles",
             "Collect Green Light",
             "Ride with a Manta"
         ],
+        "quests_tomorrow": [
+            "Melt 10 darkness",
+            "Catch the wandering lights in the Forest Brook",
+            "Relive Marching Adventurer's memory from Hidden Forest",
+            "Recharge your light from a light bloom"
+        ],
         "candles_today": [
-            "Vault of Knowledge Season Candle group:a-2",
-            "Daylight Prairie Treasure Candle-1"
+            "Daylight Prairie Season Candle group:a-2",
+            "Hidden Forest Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }
