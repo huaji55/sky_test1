@@ -503,5 +503,37 @@
             "Daylight Prairie Season Candle group:a-2",
             "Hidden Forest Treasure Candle-1"
         ]
+    },
+    "2026-04-19": {
+        "tw": [
+            "淨化 10 處黑暗腐植",
+            "在雨林小溪捕捉四散的光",
+            "重溫正步冒險家在雨林的記憶",
+            "透過光菇重新恢復能量"
+        ],
+        "candles_tw": [
+            "霞谷大蠟燭-2",
+            "雨林季蠟a組-2"
+        ],
+        "cn": [
+            "净化 10 处黑暗腐植",
+            "在雨林小溪捕捉四散的光",
+            "在雨林重温正步冒险家的记忆",
+            "用光菇重新恢复能量"
+        ],
+        "candles_cn": [
+            "霞谷大蜡烛-2",
+            "雨林季蜡a组-2"
+        ],
+        "en": [
+            "Melt 10 darkness",
+            "Catch the wandering lights in the Forest Brook",
+            "Relive Marching Adventurer's memory from Hidden Forest",
+            "Recharge your light from a light bloom"
+        ],
+        "candles_en": [
+            "Valley of Triumph Treasure Candle-2",
+            "Hidden Forest Season Candle group:a-2"
+        ]
     }
 }
