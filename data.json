@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-04-19 15:59:30 (GMT+8)",
+    "updated_at": "2026-04-20 17:03:17 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-04-19",
-        "date_tomorrow": "2026-04-20",
+        "date_today": "2026-04-20",
+        "date_tomorrow": "2026-04-21",
         "quests_today": [
-            "淨化 10 處黑暗腐植",
-            "在雨林小溪捕捉四散的光",
-            "重溫正步冒險家在雨林的記憶",
-            "透過光菇重新恢復能量"
-        ],
-        "quests_tomorrow": [
             "和朋友牽手",
             "收集 30 道燭光",
             "在霞谷城堡捕捉四散的光",
             "找到霞谷的彩虹蠟燭"
         ],
+        "quests_tomorrow": [
+            "重溫一位暮土先靈的記憶",
+            "欣賞一下暮土小樹苗",
+            "點亮一位陌生玩家",
+            "收集 紅色光芒 "
+        ],
         "candles_today": [
-            "霞谷大蠟燭-2",
-            "雨林季蠟a組-2"
+            "霞谷季蠟a組-2",
+            "暮土大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-04-19",
-        "date_tomorrow": "2026-04-20",
+        "date_today": "2026-04-20",
+        "date_tomorrow": "2026-04-21",
         "quests_today": [
-            "净化 10 处黑暗腐植",
-            "在雨林小溪捕捉四散的光",
-            "在雨林重温正步冒险家的记忆",
-            "用光菇重新恢复能量"
-        ],
-        "quests_tomorrow": [
             "和朋友牵手",
             "收集 30 道烛光",
             "在霞谷城堡捕捉四散的光",
             "在霞谷找到彩虹蜡烛"
         ],
+        "quests_tomorrow": [
+            "在暮土中重温一位先灵的记忆",
+            "坐赏暮土小树苗",
+            "交一个新朋友",
+            "收集 红色光芒 "
+        ],
         "candles_today": [
-            "霞谷大蜡烛-2",
-            "雨林季蜡a组-2"
+            "霞谷季蜡a组-2",
+            "暮土大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-04-19",
-        "date_tomorrow": "2026-04-20",
+        "date_today": "2026-04-20",
+        "date_tomorrow": "2026-04-21",
         "quests_today": [
-            "Melt 10 darkness",
-            "Catch the wandering lights in the Forest Brook",
-            "Relive Marching Adventurer's memory from Hidden Forest",
-            "Recharge your light from a light bloom"
-        ],
-        "quests_tomorrow": [
             "Hold a friend's hand",
             "Collect 30 pieces of light",
             "Catch the wandering lights in The Citadel",
             "Find the candles at the end of the rainbow in the Valley of Triumph"
         ],
+        "quests_tomorrow": [
+            "Relive a Spirit's memories in Golden Wasteland",
+            "Admire the sapling in Golden Wasteland for a short while",
+            "Make a new acquaintance",
+            "Collect Red Light "
+        ],
         "candles_today": [
-            "Valley of Triumph Treasure Candle-2",
-            "Hidden Forest Season Candle group:a-2"
+            "Valley of Triumph Season Candle group:a-2",
+            "Gloden Wasteland Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }

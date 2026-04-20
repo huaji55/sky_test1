@@ -535,5 +535,37 @@
             "Valley of Triumph Treasure Candle-2",
             "Hidden Forest Season Candle group:a-2"
         ]
+    },
+    "2026-04-20": {
+        "tw": [
+            "和朋友牽手",
+            "收集 30 道燭光",
+            "在霞谷城堡捕捉四散的光",
+            "找到霞谷的彩虹蠟燭"
+        ],
+        "candles_tw": [
+            "霞谷季蠟a組-2",
+            "暮土大蠟燭-1"
+        ],
+        "cn": [
+            "和朋友牵手",
+            "收集 30 道烛光",
+            "在霞谷城堡捕捉四散的光",
+            "在霞谷找到彩虹蜡烛"
+        ],
+        "candles_cn": [
+            "霞谷季蜡a组-2",
+            "暮土大蜡烛-1"
+        ],
+        "en": [
+            "Hold a friend's hand",
+            "Collect 30 pieces of light",
+            "Catch the wandering lights in The Citadel",
+            "Find the candles at the end of the rainbow in the Valley of Triumph"
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:a-2",
+            "Gloden Wasteland Treasure Candle-1"
+        ]
     }
 }
