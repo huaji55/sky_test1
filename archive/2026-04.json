@@ -663,5 +663,37 @@
             "Hidden Forest Treasure Candle-2",
             "Daylight Prairie Season Candle group:a-1"
         ]
+    },
+    "2026-04-24": {
+        "tw": [
+            "抓住雨林之光",
+            "重溫隨性拓荒者在雨林的記憶",
+            "拯救一隻被黑暗腐植困住的光鰩",
+            "將羞澀勘探者帶到躲雨處"
+        ],
+        "candles_tw": [
+            "雨林季蠟a組-1",
+            "霞谷大蠟燭-1"
+        ],
+        "cn": [
+            "抓住雨林之光",
+            "在雨林重温随性拓荒者的记忆",
+            "拯救一只被黑暗腐植困住的光鳐",
+            "将羞涩勘探者带到躲避处"
+        ],
+        "candles_cn": [
+            "雨林季蜡a组-1",
+            "霞谷大蜡烛-1"
+        ],
+        "en": [
+            "Catch the light in Hidden Forest",
+            "Relive Laidback Pioneer's memory from Hidden Forest",
+            "Rescue a manta from darkness",
+            "Bring Blushing Prospector to shelter"
+        ],
+        "candles_en": [
+            "Hidden Forest Season Candle group:a-1",
+            "Valley of Triumph Treasure Candle-1"
+        ]
     }
 }
