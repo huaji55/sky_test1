@@ -695,5 +695,37 @@
             "Hidden Forest Season Candle group:a-1",
             "Valley of Triumph Treasure Candle-1"
         ]
+    },
+    "2026-04-25": {
+        "tw": [
+            "欣賞一下霞谷小樹苗",
+            "收集藍色光芒 ",
+            "重溫一位霞谷先靈的記憶",
+            "在俯瞰冰封湖的位置冥想"
+        ],
+        "candles_tw": [
+            "暮土大蠟燭-2",
+            "霞谷季蠟a組-1"
+        ],
+        "cn": [
+            "坐赏霞谷小树苗",
+            "收集蓝色光芒 ",
+            "在霞谷中重温一位先灵的记忆",
+            "在俯瞰冰封湖的位置冥想"
+        ],
+        "candles_cn": [
+            "暮土大蜡烛-2",
+            "霞谷季蜡a组-1"
+        ],
+        "en": [
+            "Admire the sapling in Valley of Triumph for a short while",
+            "Collect Blue Light ",
+            "Relive a Spirit's memories in Valley of Triumph",
+            "Meditate overlooking the Frozen Lake"
+        ],
+        "candles_en": [
+            "Gloden Wasteland Treasure Candle-2",
+            "Valley of Triumph Season Candle group:a-1"
+        ]
     }
 }
