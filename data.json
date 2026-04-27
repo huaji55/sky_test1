@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-04-26 16:09:56 (GMT+8)",
+    "updated_at": "2026-04-27 17:12:02 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-04-26",
-        "date_tomorrow": "2026-04-27",
+        "date_today": "2026-04-27",
+        "date_tomorrow": "2026-04-28",
         "quests_today": [
-            "收集 30 道燭光",
-            "在寶礁中欣賞一下彩虹",
-            "在寶礁海底捕捉四散的光",
-            "抱起一隻暗蟹"
-        ],
-        "quests_tomorrow": [
             "點亮一位陌生玩家",
             "重溫祈禱聖徒在禁閣的記憶",
             "重溫禮貌學者在禁閣的記憶",
             "在禁閣第二層冥想"
         ],
+        "quests_tomorrow": [
+            "呼喚 5 位不同的玩家",
+            "重溫辛勞碼頭工在雲野的記憶",
+            "在雲野村莊捕捉四散的光",
+            "用燭光凝聚成一根蠟燭"
+        ],
         "candles_today": [
-            "禁閣大蠟燭-2",
-            "暮土季蠟a組-2"
+            "禁閣季蠟a組-2",
+            "雲野大蠟燭-3"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-04-26",
-        "date_tomorrow": "2026-04-27",
+        "date_today": "2026-04-27",
+        "date_tomorrow": "2026-04-28",
         "quests_today": [
-            "收集 30 道烛光",
-            "在宝藏暗礁欣赏一下彩虹",
-            "在宝礁海底捕捉四散的光",
-            "抱起一只暗蟹"
-        ],
-        "quests_tomorrow": [
             "交一个新朋友",
             "在禁阁重温祈祷圣徒的记忆",
             "在禁阁重温礼貌学者的记忆",
             "在禁阁第二层冥想"
         ],
+        "quests_tomorrow": [
+            "呼唤5位不同玩家",
+            "在云野重温辛劳码头工的记忆",
+            "在云野村庄中捕捉四散的光",
+            "用烛光凝聚成一根蜡烛"
+        ],
         "candles_today": [
-            "禁阁大蜡烛-2",
-            "暮土季蜡a组-2"
+            "禁阁季蜡a组-2",
+            "云野大蜡烛-3"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-04-26",
-        "date_tomorrow": "2026-04-27",
+        "date_today": "2026-04-27",
+        "date_tomorrow": "2026-04-28",
         "quests_today": [
-            "Collect 30 pieces of light",
-            "Admire the rainbow in Treasure Reef for a short while",
-            "Catch the wandering lights under the sea in Treasure Reef",
-            "Pick up a Crab"
-        ],
-        "quests_tomorrow": [
             "Make a new acquaintance",
             "Relive Praying Acolyte's memory from Vault of Knowledge",
             "Relive Polite Scholar's memory from Vault of Knowledge",
             "Meditate on the second floor of the Vault"
         ],
+        "quests_tomorrow": [
+            "Call to 5 different players",
+            "Relive Exhausted Dock Worker's memory from Daylight Prairie",
+            "Catch the wandering lights in Prairie Village",
+            "Forge a candle"
+        ],
         "candles_today": [
-            "Vault of Knowledge Treasure Candle-2",
-            "Gloden Wasteland Season Candle group:a-2"
+            "Vault of Knowledge Season Candle group:a-2",
+            "Daylight Prairie Treasure Candle-3"
         ],
         "candles_tomorrow": []
     }

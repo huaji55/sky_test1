@@ -759,5 +759,37 @@
             "Vault of Knowledge Treasure Candle-2",
             "Gloden Wasteland Season Candle group:a-2"
         ]
+    },
+    "2026-04-27": {
+        "tw": [
+            "點亮一位陌生玩家",
+            "重溫祈禱聖徒在禁閣的記憶",
+            "重溫禮貌學者在禁閣的記憶",
+            "在禁閣第二層冥想"
+        ],
+        "candles_tw": [
+            "禁閣季蠟a組-2",
+            "雲野大蠟燭-3"
+        ],
+        "cn": [
+            "交一个新朋友",
+            "在禁阁重温祈祷圣徒的记忆",
+            "在禁阁重温礼貌学者的记忆",
+            "在禁阁第二层冥想"
+        ],
+        "candles_cn": [
+            "禁阁季蜡a组-2",
+            "云野大蜡烛-3"
+        ],
+        "en": [
+            "Make a new acquaintance",
+            "Relive Praying Acolyte's memory from Vault of Knowledge",
+            "Relive Polite Scholar's memory from Vault of Knowledge",
+            "Meditate on the second floor of the Vault"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Season Candle group:a-2",
+            "Daylight Prairie Treasure Candle-3"
+        ]
     }
 }
