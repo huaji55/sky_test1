@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-04-27 17:12:02 (GMT+8)",
+    "updated_at": "2026-04-28 16:12:34 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-04-27",
-        "date_tomorrow": "2026-04-28",
+        "date_today": "2026-04-28",
+        "date_tomorrow": "2026-04-29",
         "quests_today": [
-            "點亮一位陌生玩家",
-            "重溫祈禱聖徒在禁閣的記憶",
-            "重溫禮貌學者在禁閣的記憶",
-            "在禁閣第二層冥想"
-        ],
-        "quests_tomorrow": [
             "呼喚 5 位不同的玩家",
             "重溫辛勞碼頭工在雲野的記憶",
             "在雲野村莊捕捉四散的光",
             "用燭光凝聚成一根蠟燭"
         ],
+        "quests_tomorrow": [
+            "點亮 20 根蠟燭",
+            "欣賞一下雨林小樹苗",
+            "和朋友牽手",
+            "將發抖開拓者帶到躲雨處"
+        ],
         "candles_today": [
-            "禁閣季蠟a組-2",
-            "雲野大蠟燭-3"
+            "雲野季蠟a組-2",
+            "雨林大蠟燭-3"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-04-27",
-        "date_tomorrow": "2026-04-28",
+        "date_today": "2026-04-28",
+        "date_tomorrow": "2026-04-29",
         "quests_today": [
-            "交一个新朋友",
-            "在禁阁重温祈祷圣徒的记忆",
-            "在禁阁重温礼貌学者的记忆",
-            "在禁阁第二层冥想"
-        ],
-        "quests_tomorrow": [
             "呼唤5位不同玩家",
             "在云野重温辛劳码头工的记忆",
             "在云野村庄中捕捉四散的光",
             "用烛光凝聚成一根蜡烛"
         ],
+        "quests_tomorrow": [
+            "点亮 20 根蜡烛",
+            "坐赏雨林小树苗",
+            "和朋友牵手",
+            "将发抖开拓者带到躲避处"
+        ],
         "candles_today": [
-            "禁阁季蜡a组-2",
-            "云野大蜡烛-3"
+            "云野季蜡a组-2",
+            "雨林大蜡烛-3"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-04-27",
-        "date_tomorrow": "2026-04-28",
+        "date_today": "2026-04-28",
+        "date_tomorrow": "2026-04-29",
         "quests_today": [
-            "Make a new acquaintance",
-            "Relive Praying Acolyte's memory from Vault of Knowledge",
-            "Relive Polite Scholar's memory from Vault of Knowledge",
-            "Meditate on the second floor of the Vault"
-        ],
-        "quests_tomorrow": [
             "Call to 5 different players",
             "Relive Exhausted Dock Worker's memory from Daylight Prairie",
             "Catch the wandering lights in Prairie Village",
             "Forge a candle"
         ],
+        "quests_tomorrow": [
+            "Light 20 candles",
+            "Admire the sapling in the Hidden Forest for a short while",
+            "Hold a friend's hand",
+            "Bring Shivering Trailblazer to shelter"
+        ],
         "candles_today": [
-            "Vault of Knowledge Season Candle group:a-2",
-            "Daylight Prairie Treasure Candle-3"
+            "Daylight Prairie Season Candle group:a-2",
+            "Hidden Forest Treasure Candle-3"
         ],
         "candles_tomorrow": []
     }

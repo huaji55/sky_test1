@@ -791,5 +791,37 @@
             "Vault of Knowledge Season Candle group:a-2",
             "Daylight Prairie Treasure Candle-3"
         ]
+    },
+    "2026-04-28": {
+        "tw": [
+            "呼喚 5 位不同的玩家",
+            "重溫辛勞碼頭工在雲野的記憶",
+            "在雲野村莊捕捉四散的光",
+            "用燭光凝聚成一根蠟燭"
+        ],
+        "candles_tw": [
+            "雲野季蠟a組-2",
+            "雨林大蠟燭-3"
+        ],
+        "cn": [
+            "呼唤5位不同玩家",
+            "在云野重温辛劳码头工的记忆",
+            "在云野村庄中捕捉四散的光",
+            "用烛光凝聚成一根蜡烛"
+        ],
+        "candles_cn": [
+            "云野季蜡a组-2",
+            "雨林大蜡烛-3"
+        ],
+        "en": [
+            "Call to 5 different players",
+            "Relive Exhausted Dock Worker's memory from Daylight Prairie",
+            "Catch the wandering lights in Prairie Village",
+            "Forge a candle"
+        ],
+        "candles_en": [
+            "Daylight Prairie Season Candle group:a-2",
+            "Hidden Forest Treasure Candle-3"
+        ]
     }
 }
