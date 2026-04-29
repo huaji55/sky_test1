@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-04-28 17:13:15 (GMT+8)",
+    "updated_at": "2026-04-29 17:04:15 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-04-28",
-        "date_tomorrow": "2026-04-29",
+        "date_today": "2026-04-29",
+        "date_tomorrow": "2026-04-30",
         "quests_today": [
-            "呼喚 5 位不同的玩家",
-            "重溫辛勞碼頭工在雲野的記憶",
-            "在雲野村莊捕捉四散的光",
-            "用燭光凝聚成一根蠟燭"
-        ],
-        "quests_tomorrow": [
             "點亮 20 根蠟燭",
             "欣賞一下雨林小樹苗",
             "和朋友牽手",
             "將發抖開拓者帶到躲雨處"
         ],
+        "quests_tomorrow": [
+            "和朋友擊掌",
+            "抓住霞谷之光",
+            "對其他玩家使用表情",
+            "重溫倒立運動員在霞谷的記憶"
+        ],
         "candles_today": [
-            "雲野季蠟a組-2",
-            "雨林大蠟燭-3"
+            "霞谷大蠟燭-2",
+            "雨林季蠟a組-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-04-28",
-        "date_tomorrow": "2026-04-29",
+        "date_today": "2026-04-29",
+        "date_tomorrow": "2026-04-30",
         "quests_today": [
-            "呼唤5位不同玩家",
-            "在云野重温辛劳码头工的记忆",
-            "在云野村庄中捕捉四散的光",
-            "用烛光凝聚成一根蜡烛"
-        ],
-        "quests_tomorrow": [
             "点亮 20 根蜡烛",
             "坐赏雨林小树苗",
             "和朋友牵手",
             "将发抖开拓者带到躲避处"
         ],
+        "quests_tomorrow": [
+            "和朋友击掌",
+            "抓住霞谷之光",
+            "对玩家使用表情",
+            "在霞谷重温倒立运动员的记忆"
+        ],
         "candles_today": [
-            "云野季蜡a组-2",
-            "雨林大蜡烛-3"
+            "霞谷大蜡烛-2",
+            "雨林季蜡a组-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-04-28",
-        "date_tomorrow": "2026-04-29",
+        "date_today": "2026-04-29",
+        "date_tomorrow": "2026-04-30",
         "quests_today": [
-            "Call to 5 different players",
-            "Relive Exhausted Dock Worker's memory from Daylight Prairie",
-            "Catch the wandering lights in Prairie Village",
-            "Forge a candle"
-        ],
-        "quests_tomorrow": [
             "Light 20 candles",
             "Admire the sapling in the Hidden Forest for a short while",
             "Hold a friend's hand",
             "Bring Shivering Trailblazer to shelter"
         ],
+        "quests_tomorrow": [
+            "High-Five a friend",
+            "Catch the light in Valley of Triumph",
+            "Use expressions with players",
+            "Relive Handstanding Thrillseeker's memory from Valley of Triumph"
+        ],
         "candles_today": [
-            "Daylight Prairie Season Candle group:a-2",
-            "Hidden Forest Treasure Candle-3"
+            "Valley of Triumph Treasure Candle-2",
+            "Hidden Forest Season Candle group:a-2"
         ],
         "candles_tomorrow": []
     }

@@ -823,5 +823,37 @@
             "Daylight Prairie Season Candle group:a-2",
             "Hidden Forest Treasure Candle-3"
         ]
+    },
+    "2026-04-29": {
+        "tw": [
+            "點亮 20 根蠟燭",
+            "欣賞一下雨林小樹苗",
+            "和朋友牽手",
+            "將發抖開拓者帶到躲雨處"
+        ],
+        "candles_tw": [
+            "霞谷大蠟燭-2",
+            "雨林季蠟a組-2"
+        ],
+        "cn": [
+            "点亮 20 根蜡烛",
+            "坐赏雨林小树苗",
+            "和朋友牵手",
+            "将发抖开拓者带到躲避处"
+        ],
+        "candles_cn": [
+            "霞谷大蜡烛-2",
+            "雨林季蜡a组-2"
+        ],
+        "en": [
+            "Light 20 candles",
+            "Admire the sapling in the Hidden Forest for a short while",
+            "Hold a friend's hand",
+            "Bring Shivering Trailblazer to shelter"
+        ],
+        "candles_en": [
+            "Valley of Triumph Treasure Candle-2",
+            "Hidden Forest Season Candle group:a-2"
+        ]
     }
 }
