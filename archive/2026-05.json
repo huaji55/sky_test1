@@ -62,5 +62,37 @@
             "Vault of Knowledge Season Candle group:a-1",
             "Daylight Prairie Treasure Candle-1"
         ]
+    },
+    "2026-05-03": {
+        "tw": [
+            "抓住雲野之光",
+            "在蝴蝶原野與眾多蝴蝶一同飛翔",
+            "在蝴蝶原野冥想",
+            "重溫一位雲野先靈的記憶"
+        ],
+        "candles_tw": [
+            "雲野季蠟a組-1",
+            "雨林大蠟燭-1"
+        ],
+        "cn": [
+            "抓住云野之光",
+            "在蝴蝶原野与众多蝴蝶一同飞翔",
+            "在蝴蝶原野中冥想",
+            "在云野中重温一位先灵的记忆"
+        ],
+        "candles_cn": [
+            "云野季蜡a组-1",
+            "雨林大蜡烛-1"
+        ],
+        "en": [
+            "Catch the light in Daylight Prairie",
+            "Fly with many butterflies in Butterfly Fields",
+            "Meditate in Butterfly Fields",
+            "Relive a Spirit's memories in Daylight Prairie"
+        ],
+        "candles_en": [
+            "Daylight Prairie Season Candle group:a-1",
+            "Hidden Forest Treasure Candle-1"
+        ]
     }
 }
