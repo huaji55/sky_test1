@@ -126,5 +126,37 @@
             "Hidden Forest Season Candle group:a-1",
             "Valley of Triumph Treasure Candle-1"
         ]
+    },
+    "2026-05-05": {
+        "tw": [
+            "用燭光凝聚成一根蠟燭",
+            "呼喚 5 位不同的玩家",
+            "在霞谷滑行賽道中捕捉 3 道光",
+            "重溫鞠躬季軍在霞谷的記憶"
+        ],
+        "candles_tw": [
+            "霞谷季蠟a組-1",
+            "暮土大蠟燭-1"
+        ],
+        "cn": [
+            "用烛光凝聚成一根蜡烛",
+            "呼唤5位不同玩家",
+            "在霞谷的滑行赛道捕捉 3 道光",
+            "在霞谷重温鞠躬季军的记忆"
+        ],
+        "candles_cn": [
+            "霞谷季蜡a组-1",
+            "暮土大蜡烛-1"
+        ],
+        "en": [
+            "Forge a candle",
+            "Call to 5 different players",
+            "Catch the 3 lights during the Valley's sliding race",
+            "Relive Bowing Medalist's memory from Valley of Triumph"
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:a-1",
+            "Gloden Wasteland Treasure Candle-1"
+        ]
     }
 }
