@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-05-07 17:24:39 (GMT+8)",
+    "updated_at": "2026-05-08 16:16:48 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-05-07",
-        "date_tomorrow": "2026-05-08",
+        "date_today": "2026-05-08",
+        "date_tomorrow": "2026-05-09",
         "quests_today": [
-            "點亮 20 根蠟燭",
-            "收集紫色光芒",
-            "重溫智慧長者在禁閣的記憶",
-            "向一位玩家鞠躬"
-        ],
-        "quests_tomorrow": [
             "收集 30 道燭光",
             "找到雲野的彩虹蠟燭",
             "前往雲野山洞找到舒適的藏身處",
             "dotreasure_day_wildlifepark_1"
         ],
+        "quests_tomorrow": [
+            "淨化 10 處黑暗腐植",
+            "透過光菇重新恢復能量",
+            "重溫傻眼植物學生在雨林的記憶",
+            "幫助笨拙的水手長或重組嚮導在雨林尋寶"
+        ],
         "candles_today": [
-            "禁閣季蠟a組-2",
-            "雲野大蠟燭-2"
+            "雲野季蠟a組-2",
+            "雨林大蠟燭-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-05-07",
-        "date_tomorrow": "2026-05-08",
+        "date_today": "2026-05-08",
+        "date_tomorrow": "2026-05-09",
         "quests_today": [
-            "点亮 20 根蜡烛",
-            "收集紫色光芒",
-            "在禁阁重温智慧长者的记忆",
-            "向一位玩家鞠躬"
-        ],
-        "quests_tomorrow": [
             "收集 30 道烛光",
             "在云野找到彩虹蜡烛",
             "前往云野山洞找到舒适的藏身处",
             "dotreasure_day_wildlifepark_1"
         ],
+        "quests_tomorrow": [
+            "净化 10 处黑暗腐植",
+            "用光菇重新恢复能量",
+            "在雨林重温茫然植物学生的记忆",
+            "帮助笨拙水手或重组向导在雨林寻宝"
+        ],
         "candles_today": [
-            "禁阁季蜡a组-2",
-            "云野大蜡烛-2"
+            "云野季蜡a组-2",
+            "雨林大蜡烛-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-05-07",
-        "date_tomorrow": "2026-05-08",
+        "date_today": "2026-05-08",
+        "date_tomorrow": "2026-05-09",
         "quests_today": [
-            "Light 20 candles",
-            "Collect Purple Light",
-            "Relive Wise Grandparent's memory from Vault of Knowledge",
-            "Bow at a player"
-        ],
-        "quests_tomorrow": [
             "Collect 30 pieces of light",
             "Find the candles at the end of the rainbow in Daylight Prairie",
             "Visit the cozy hideout in Prairie Caves",
             "dotreasure_day_wildlifepark_1"
         ],
+        "quests_tomorrow": [
+            "Melt 10 darkness",
+            "Recharge your light from a light bloom",
+            "Relive Baffled Botanist's memory from Hidden Forest",
+            "Help the Bumbling Boatswain or the Assembly Guide find treasure in Hidden Forest"
+        ],
         "candles_today": [
-            "Vault of Knowledge Season Candle group:a-2",
-            "Daylight Prairie Treasure Candle-2"
+            "Daylight Prairie Season Candle group:a-2",
+            "Hidden Forest Treasure Candle-2"
         ],
         "candles_tomorrow": []
     }
