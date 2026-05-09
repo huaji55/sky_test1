@@ -2,7 +2,8 @@ name: Sky Daily Quest
 
 on:
   schedule:
-    - cron: '0 7 * * *' # UTC 07:00 = 台灣 15:00
+    - cron: '45 6 * * *' # 台灣 14:45
+    - cron: '15 7 * * *' # 台灣 15:15
   workflow_dispatch:
 
 permissions:
@@ -22,18 +23,22 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
+        # 即使 import 隱藏在 Secret 裡，環境還是必須先安裝 requests
         run: pip install requests
 
       - name: Run Script
         env:
-          # 這是核心代碼
-          SCRIPT: ${{ secrets.SCRIPT }}
-          # 這是翻譯文本
-          QUEST_TW: ${{ secrets.QUEST_TW }}
-          QUEST_EN: ${{ secrets.QUEST_EN }}
-          QUEST_CN: ${{ secrets.QUEST_CN }}
           B: ${{ secrets.B }}
           B1: ${{ secrets.B1 }}
+
+          QUEST_TW_1: ${{ secrets.QUEST_TW }}
+
+          QUEST_EN_1: ${{ secrets.QUEST_EN_1 }}
+          QUEST_EN_2: ${{ secrets.QUEST_EN_2 }}
+
+          QUEST_CN_1: ${{ secrets.QUEST_CN }}
+
+
         run: python main.py
 
       - name: Commit and Push
