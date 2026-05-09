@@ -2,8 +2,7 @@ name: Sky Daily Quest
 
 on:
   schedule:
-    - cron: '45 6 * * *' # 台灣 14:45
-    - cron: '15 7 * * *' # 台灣 15:15
+    - cron: '0 8 * * *' # UTC 08:00 = 台灣 16:00
   workflow_dispatch:
 
 permissions:
@@ -37,7 +36,7 @@ jobs:
           QUEST_EN_2: ${{ secrets.QUEST_EN_2 }}
 
           QUEST_CN_1: ${{ secrets.QUEST_CN }}
-
+          SCRIPT: ${{ secrets.SCRIPT }}
 
         run: python main.py
 
