@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-05-11 18:41:13 (GMT+8)",
+    "updated_at": "2026-05-12 17:23:14 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-05-11",
-        "date_tomorrow": "2026-05-12",
+        "date_today": "2026-05-12",
+        "date_tomorrow": "2026-05-13",
         "quests_today": [
-            "用燭光凝聚成一根蠟燭",
-            "在破舊神廟冥想",
-            "清除侵蝕船體的黑暗",
-            "幫威嚴的艦長或正步冒險家在寶礁尋寶"
-        ],
-        "quests_tomorrow": [
             "重溫一位禁閣先靈的記憶",
             "對其他玩家使用表情",
             "在星漠中欣賞一下彩虹",
             "幫焦慮的垂釣者或星星收集者在星漠尋寶"
         ],
+        "quests_tomorrow": [
+            "點亮 20 根蠟燭",
+            "在聖域群島乘坐一隻大光鰩",
+            "在聖域群島冥想",
+            "幫嘎嘎大笑的炮手或鳴謝收藏家在聖域群島尋寶"
+        ],
         "candles_today": [
-            "禁閣大蠟燭-1",
-            "暮土季蠟a組-1"
+            "雲野大蠟燭-3",
+            "禁閣季蠟a組-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-05-11",
-        "date_tomorrow": "2026-05-12",
+        "date_today": "2026-05-12",
+        "date_tomorrow": "2026-05-13",
         "quests_today": [
-            "用烛光凝聚成一根蜡烛",
-            "在破旧神庙里冥想",
-            "清理侵蚀船体上的黑暗",
-            "帮助威严舰长或正步冒险家在宝礁寻宝"
-        ],
-        "quests_tomorrow": [
             "在禁阁中重温一位先灵的记忆",
             "对玩家使用表情",
             "在星漠欣赏一下彩虹",
             "帮助焦虑渔夫或星星收集者在星漠寻宝"
         ],
+        "quests_tomorrow": [
+            "点亮 20 根蜡烛",
+            "在圣域群岛乘坐一只大光鳐",
+            "在圣域群岛中冥想",
+            "帮助嬉笑炮手或鸣谢收藏家在圣域群岛寻宝"
+        ],
         "candles_today": [
-            "禁阁大蜡烛-1",
-            "暮土季蜡a组-1"
+            "云野大蜡烛-3",
+            "禁阁季蜡a组-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-05-11",
-        "date_tomorrow": "2026-05-12",
+        "date_today": "2026-05-12",
+        "date_tomorrow": "2026-05-13",
         "quests_today": [
-            "用烛光凝聚成一根蜡烛",
-            "在破旧神庙里冥想",
-            "清理侵蚀船体上的黑暗",
-            "帮助威严舰长或正步冒险家在宝礁寻宝"
-        ],
-        "quests_tomorrow": [
             "在禁阁中重温一位先灵的记忆",
             "对玩家使用表情",
             "在星漠欣赏一下彩虹",
             "帮助焦虑渔夫或星星收集者在星漠寻宝"
         ],
+        "quests_tomorrow": [
+            "点亮 20 根蜡烛",
+            "在圣域群岛乘坐一只大光鳐",
+            "在圣域群岛中冥想",
+            "帮助嬉笑炮手或鸣谢收藏家在圣域群岛寻宝"
+        ],
         "candles_today": [
-            "Vault of Knowledge Treasure Candle-1",
-            "Gloden Wasteland Season Candle group:a-1"
+            "Daylight Prairie Treasure Candle-3",
+            "Vault of Knowledge Season Candle group:a-1"
         ],
         "candles_tomorrow": []
     }

@@ -350,5 +350,37 @@
             "Vault of Knowledge Treasure Candle-1",
             "Gloden Wasteland Season Candle group:a-1"
         ]
+    },
+    "2026-05-12": {
+        "tw": [
+            "重溫一位禁閣先靈的記憶",
+            "對其他玩家使用表情",
+            "在星漠中欣賞一下彩虹",
+            "幫焦慮的垂釣者或星星收集者在星漠尋寶"
+        ],
+        "candles_tw": [
+            "雲野大蠟燭-3",
+            "禁閣季蠟a組-1"
+        ],
+        "cn": [
+            "在禁阁中重温一位先灵的记忆",
+            "对玩家使用表情",
+            "在星漠欣赏一下彩虹",
+            "帮助焦虑渔夫或星星收集者在星漠寻宝"
+        ],
+        "candles_cn": [
+            "云野大蜡烛-3",
+            "禁阁季蜡a组-1"
+        ],
+        "en": [
+            "在禁阁中重温一位先灵的记忆",
+            "对玩家使用表情",
+            "在星漠欣赏一下彩虹",
+            "帮助焦虑渔夫或星星收集者在星漠寻宝"
+        ],
+        "candles_en": [
+            "Daylight Prairie Treasure Candle-3",
+            "Vault of Knowledge Season Candle group:a-1"
+        ]
     }
 }
