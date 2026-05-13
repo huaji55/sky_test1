@@ -382,5 +382,37 @@
             "Daylight Prairie Treasure Candle-3",
             "Vault of Knowledge Season Candle group:a-1"
         ]
+    },
+    "2026-05-13": {
+        "tw": [
+            "點亮 20 根蠟燭",
+            "在聖域群島乘坐一隻大光鰩",
+            "在聖域群島冥想",
+            "幫嘎嘎大笑的炮手或鳴謝收藏家在聖域群島尋寶"
+        ],
+        "candles_tw": [
+            "雨林大蠟燭-3",
+            "雲野季蠟a組-1"
+        ],
+        "cn": [
+            "点亮 20 根蜡烛",
+            "在圣域群岛乘坐一只大光鳐",
+            "在圣域群岛中冥想",
+            "帮助嬉笑炮手或鸣谢收藏家在圣域群岛寻宝"
+        ],
+        "candles_cn": [
+            "雨林大蜡烛-3",
+            "云野季蜡a组-1"
+        ],
+        "en": [
+            "点亮 20 根蜡烛",
+            "在圣域群岛乘坐一只大光鳐",
+            "在圣域群岛中冥想",
+            "帮助嬉笑炮手或鸣谢收藏家在圣域群岛寻宝"
+        ],
+        "candles_en": [
+            "Hidden Forest Treasure Candle-3",
+            "Daylight Prairie Season Candle group:a-1"
+        ]
     }
 }
