@@ -446,5 +446,37 @@
             "Hidden Forest Season Candle group:a-1",
             "Valley of Triumph Treasure Candle-1"
         ]
+    },
+    "2026-05-15": {
+        "tw": [
+            "收集 30 道燭光",
+            "重溫自信觀光客在霞谷的記憶",
+            "收集藍色光芒 ",
+            "幫威嚴的艦長或熊抱雪人在圓夢村尋寶"
+        ],
+        "candles_tw": [
+            "暮土大蠟燭-3",
+            "霞谷季蠟a組-1"
+        ],
+        "cn": [
+            "收集 30 道烛光",
+            "在霞谷重温自信观光客的记忆",
+            "收集蓝色光芒 ",
+            "帮助威严舰长或熊抱雪人在圆梦村寻宝"
+        ],
+        "candles_cn": [
+            "暮土大蜡烛-3",
+            "霞谷季蜡a组-1"
+        ],
+        "en": [
+            "收集 30 道烛光",
+            "在霞谷重温自信观光客的记忆",
+            "收集蓝色光芒 ",
+            "帮助威严舰长或熊抱雪人在圆梦村寻宝"
+        ],
+        "candles_en": [
+            "Gloden Wasteland Treasure Candle-3",
+            "Valley of Triumph Season Candle group:a-1"
+        ]
     }
 }
