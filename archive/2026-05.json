@@ -478,5 +478,37 @@
             "Gloden Wasteland Treasure Candle-3",
             "Valley of Triumph Season Candle group:a-1"
         ]
+    },
+    "2026-05-16": {
+        "tw": [
+            "抱起一隻暗蟹",
+            "在寶礁海底捕捉四散的光",
+            "清除侵蝕船體的黑暗",
+            "幫焦慮的垂釣者或正步冒險家在寶礁尋寶"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-2",
+            "暮土季蠟a組-2"
+        ],
+        "cn": [
+            "抱起一只暗蟹",
+            "在宝礁海底捕捉四散的光",
+            "清理侵蚀船体上的黑暗",
+            "帮助焦虑渔夫或正步冒险家在宝礁寻宝"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-2",
+            "暮土季蜡a组-2"
+        ],
+        "en": [
+            "抱起一只暗蟹",
+            "在宝礁海底捕捉四散的光",
+            "清理侵蚀船体上的黑暗",
+            "帮助焦虑渔夫或正步冒险家在宝礁寻宝"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-2",
+            "Gloden Wasteland Season Candle group:a-2"
+        ]
     }
 }
