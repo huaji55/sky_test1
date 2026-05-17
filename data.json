@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-05-16 16:53:27 (GMT+8)",
+    "updated_at": "2026-05-17 16:55:24 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-05-16",
-        "date_tomorrow": "2026-05-17",
+        "date_today": "2026-05-17",
+        "date_tomorrow": "2026-05-18",
         "quests_today": [
-            "抱起一隻暗蟹",
-            "在寶礁海底捕捉四散的光",
-            "清除侵蝕船體的黑暗",
-            "幫焦慮的垂釣者或正步冒險家在寶礁尋寶"
-        ],
-        "quests_tomorrow": [
             "對 5 位不同玩家發出叫聲",
             "抓住禁閣之光",
             "用燭光凝聚成一根蠟燭",
             "幫嘎嘎大笑的炮手或星星收集者在星漠尋寶"
         ],
+        "quests_tomorrow": [
+            "欣賞一下雲野小樹苗",
+            "向一位玩家鞠躬",
+            "重溫辛勞碼頭工在雲野的記憶",
+            "幫笨拙的水手長或雀躍地質學家在雲野峻嶺尋寶"
+        ],
         "candles_today": [
-            "禁閣大蠟燭-2",
-            "暮土季蠟a組-2"
+            "禁閣季蠟a組-2",
+            "雲野大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-05-16",
-        "date_tomorrow": "2026-05-17",
+        "date_today": "2026-05-17",
+        "date_tomorrow": "2026-05-18",
         "quests_today": [
-            "抱起一只暗蟹",
-            "在宝礁海底捕捉四散的光",
-            "清理侵蚀船体上的黑暗",
-            "帮助焦虑渔夫或正步冒险家在宝礁寻宝"
-        ],
-        "quests_tomorrow": [
             "呼唤5位不同玩家",
             "抓住禁阁之光",
             "用烛光凝聚成一根蜡烛",
             "帮助嬉笑炮手或星星收集者在星漠寻宝"
         ],
+        "quests_tomorrow": [
+            "坐赏云野小树苗",
+            "向一位玩家鞠躬",
+            "在云野重温辛劳码头工的记忆",
+            "帮助笨拙水手或雀跃地质学家在云野峻岭寻宝"
+        ],
         "candles_today": [
-            "禁阁大蜡烛-2",
-            "暮土季蜡a组-2"
+            "禁阁季蜡a组-2",
+            "云野大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-05-16",
-        "date_tomorrow": "2026-05-17",
+        "date_today": "2026-05-17",
+        "date_tomorrow": "2026-05-18",
         "quests_today": [
-            "抱起一只暗蟹",
-            "在宝礁海底捕捉四散的光",
-            "清理侵蚀船体上的黑暗",
-            "帮助焦虑渔夫或正步冒险家在宝礁寻宝"
-        ],
-        "quests_tomorrow": [
             "呼唤5位不同玩家",
             "抓住禁阁之光",
             "用烛光凝聚成一根蜡烛",
             "帮助嬉笑炮手或星星收集者在星漠寻宝"
         ],
+        "quests_tomorrow": [
+            "坐赏云野小树苗",
+            "向一位玩家鞠躬",
+            "在云野重温辛劳码头工的记忆",
+            "帮助笨拙水手或雀跃地质学家在云野峻岭寻宝"
+        ],
         "candles_today": [
-            "Vault of Knowledge Treasure Candle-2",
-            "Gloden Wasteland Season Candle group:a-2"
+            "Vault of Knowledge Season Candle group:a-2",
+            "Daylight Prairie Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }

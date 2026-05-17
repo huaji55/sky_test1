@@ -510,5 +510,37 @@
             "Vault of Knowledge Treasure Candle-2",
             "Gloden Wasteland Season Candle group:a-2"
         ]
+    },
+    "2026-05-17": {
+        "tw": [
+            "對 5 位不同玩家發出叫聲",
+            "抓住禁閣之光",
+            "用燭光凝聚成一根蠟燭",
+            "幫嘎嘎大笑的炮手或星星收集者在星漠尋寶"
+        ],
+        "candles_tw": [
+            "禁閣季蠟a組-2",
+            "雲野大蠟燭-1"
+        ],
+        "cn": [
+            "呼唤5位不同玩家",
+            "抓住禁阁之光",
+            "用烛光凝聚成一根蜡烛",
+            "帮助嬉笑炮手或星星收集者在星漠寻宝"
+        ],
+        "candles_cn": [
+            "禁阁季蜡a组-2",
+            "云野大蜡烛-1"
+        ],
+        "en": [
+            "呼唤5位不同玩家",
+            "抓住禁阁之光",
+            "用烛光凝聚成一根蜡烛",
+            "帮助嬉笑炮手或星星收集者在星漠寻宝"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Season Candle group:a-2",
+            "Daylight Prairie Treasure Candle-1"
+        ]
     }
 }
