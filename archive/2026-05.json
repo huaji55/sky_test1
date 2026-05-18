@@ -542,5 +542,37 @@
             "Vault of Knowledge Season Candle group:a-2",
             "Daylight Prairie Treasure Candle-1"
         ]
+    },
+    "2026-05-18": {
+        "tw": [
+            "欣賞一下雲野小樹苗",
+            "向一位玩家鞠躬",
+            "重溫辛勞碼頭工在雲野的記憶",
+            "幫笨拙的水手長或雀躍地質學家在雲野峻嶺尋寶"
+        ],
+        "candles_tw": [
+            "雲野季蠟a組-2",
+            "雨林大蠟燭-1"
+        ],
+        "cn": [
+            "坐赏云野小树苗",
+            "向一位玩家鞠躬",
+            "在云野重温辛劳码头工的记忆",
+            "帮助笨拙水手或雀跃地质学家在云野峻岭寻宝"
+        ],
+        "candles_cn": [
+            "云野季蜡a组-2",
+            "雨林大蜡烛-1"
+        ],
+        "en": [
+            "坐赏云野小树苗",
+            "向一位玩家鞠躬",
+            "在云野重温辛劳码头工的记忆",
+            "帮助笨拙水手或雀跃地质学家在云野峻岭寻宝"
+        ],
+        "candles_en": [
+            "Daylight Prairie Season Candle group:a-2",
+            "Hidden Forest Treasure Candle-1"
+        ]
     }
 }
