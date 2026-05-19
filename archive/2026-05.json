@@ -574,5 +574,37 @@
             "Daylight Prairie Season Candle group:a-2",
             "Hidden Forest Treasure Candle-1"
         ]
+    },
+    "2026-05-19": {
+        "tw": [
+            "抓住雨林之光",
+            "點亮 20 根蠟燭",
+            "重溫膽小鬼學員在雨林的記憶",
+            "幫威嚴的艦長或管事小隊長在雨林尋寶"
+        ],
+        "candles_tw": [
+            "霞谷大蠟燭-2",
+            "雨林季蠟a組-2"
+        ],
+        "cn": [
+            "抓住雨林之光",
+            "点亮 20 根蜡烛",
+            "在雨林重温胆小鬼学员的记忆",
+            "帮助威严舰长或管事小队长在雨林寻宝"
+        ],
+        "candles_cn": [
+            "霞谷大蜡烛-2",
+            "雨林季蜡a组-2"
+        ],
+        "en": [
+            "抓住雨林之光",
+            "点亮 20 根蜡烛",
+            "在雨林重温胆小鬼学员的记忆",
+            "帮助威严舰长或管事小队长在雨林寻宝"
+        ],
+        "candles_en": [
+            "Valley of Triumph Treasure Candle-2",
+            "Hidden Forest Season Candle group:a-2"
+        ]
     }
 }
