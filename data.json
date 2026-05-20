@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-05-19 18:39:55 (GMT+8)",
+    "updated_at": "2026-05-20 18:04:00 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-05-19",
-        "date_tomorrow": "2026-05-20",
+        "date_today": "2026-05-20",
+        "date_tomorrow": "2026-05-21",
         "quests_today": [
-            "抓住雨林之光",
-            "點亮 20 根蠟燭",
-            "重溫膽小鬼學員在雨林的記憶",
-            "幫威嚴的艦長或管事小隊長在雨林尋寶"
-        ],
-        "quests_tomorrow": [
             "和朋友擁抱",
             "抓住霞谷之光",
             "重溫螺旋舞冠在霞谷的記憶",
             "幫焦慮的垂釣者或鳴謝收藏家在聖域群島尋寶"
         ],
+        "quests_tomorrow": [
+            "淨化 10 處黑暗腐植",
+            "重溫一位暮土先靈的記憶",
+            "抓住暮土之光",
+            "幫嘎嘎大笑的炮手或愛睏船工在雲野村莊尋寶"
+        ],
         "candles_today": [
-            "霞谷大蠟燭-2",
-            "雨林季蠟a組-2"
+            "霞谷季蠟a組-2",
+            "暮土大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-05-19",
-        "date_tomorrow": "2026-05-20",
+        "date_today": "2026-05-20",
+        "date_tomorrow": "2026-05-21",
         "quests_today": [
-            "抓住雨林之光",
-            "点亮 20 根蜡烛",
-            "在雨林重温胆小鬼学员的记忆",
-            "帮助威严舰长或管事小队长在雨林寻宝"
-        ],
-        "quests_tomorrow": [
             "和朋友拥抱",
             "抓住霞谷之光",
             "在霞谷重温螺旋舞冠的记忆",
             "帮助焦虑渔夫或鸣谢收藏家在圣域群岛寻宝"
         ],
+        "quests_tomorrow": [
+            "净化 10 处黑暗腐植",
+            "在暮土中重温一位先灵的记忆",
+            "抓住暮土之光",
+            "帮助嬉笑炮手或犯困船工在云野村庄寻宝"
+        ],
         "candles_today": [
-            "霞谷大蜡烛-2",
-            "雨林季蜡a组-2"
+            "霞谷季蜡a组-2",
+            "暮土大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-05-19",
-        "date_tomorrow": "2026-05-20",
+        "date_today": "2026-05-20",
+        "date_tomorrow": "2026-05-21",
         "quests_today": [
-            "抓住雨林之光",
-            "点亮 20 根蜡烛",
-            "在雨林重温胆小鬼学员的记忆",
-            "帮助威严舰长或管事小队长在雨林寻宝"
-        ],
-        "quests_tomorrow": [
             "和朋友拥抱",
             "抓住霞谷之光",
             "在霞谷重温螺旋舞冠的记忆",
             "帮助焦虑渔夫或鸣谢收藏家在圣域群岛寻宝"
         ],
+        "quests_tomorrow": [
+            "净化 10 处黑暗腐植",
+            "在暮土中重温一位先灵的记忆",
+            "抓住暮土之光",
+            "帮助嬉笑炮手或犯困船工在云野村庄寻宝"
+        ],
         "candles_today": [
-            "Valley of Triumph Treasure Candle-2",
-            "Hidden Forest Season Candle group:a-2"
+            "Valley of Triumph Season Candle group:a-2",
+            "Gloden Wasteland Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }

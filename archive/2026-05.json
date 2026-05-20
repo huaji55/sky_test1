@@ -606,5 +606,37 @@
             "Valley of Triumph Treasure Candle-2",
             "Hidden Forest Season Candle group:a-2"
         ]
+    },
+    "2026-05-20": {
+        "tw": [
+            "和朋友擁抱",
+            "抓住霞谷之光",
+            "重溫螺旋舞冠在霞谷的記憶",
+            "幫焦慮的垂釣者或鳴謝收藏家在聖域群島尋寶"
+        ],
+        "candles_tw": [
+            "霞谷季蠟a組-2",
+            "暮土大蠟燭-1"
+        ],
+        "cn": [
+            "和朋友拥抱",
+            "抓住霞谷之光",
+            "在霞谷重温螺旋舞冠的记忆",
+            "帮助焦虑渔夫或鸣谢收藏家在圣域群岛寻宝"
+        ],
+        "candles_cn": [
+            "霞谷季蜡a组-2",
+            "暮土大蜡烛-1"
+        ],
+        "en": [
+            "和朋友拥抱",
+            "抓住霞谷之光",
+            "在霞谷重温螺旋舞冠的记忆",
+            "帮助焦虑渔夫或鸣谢收藏家在圣域群岛寻宝"
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:a-2",
+            "Gloden Wasteland Treasure Candle-1"
+        ]
     }
 }
