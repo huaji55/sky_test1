@@ -638,5 +638,37 @@
             "Valley of Triumph Season Candle group:a-2",
             "Gloden Wasteland Treasure Candle-1"
         ]
+    },
+    "2026-05-21": {
+        "tw": [
+            "淨化 10 處黑暗腐植",
+            "重溫一位暮土先靈的記憶",
+            "抓住暮土之光",
+            "幫嘎嘎大笑的炮手或愛睏船工在雲野村莊尋寶"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-1",
+            "暮土季蠟a組-1"
+        ],
+        "cn": [
+            "净化 10 处黑暗腐植",
+            "在暮土中重温一位先灵的记忆",
+            "抓住暮土之光",
+            "帮助嬉笑炮手或犯困船工在云野村庄寻宝"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-1",
+            "暮土季蜡a组-1"
+        ],
+        "en": [
+            "净化 10 处黑暗腐植",
+            "在暮土中重温一位先灵的记忆",
+            "抓住暮土之光",
+            "帮助嬉笑炮手或犯困船工在云野村庄寻宝"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-1",
+            "Gloden Wasteland Season Candle group:a-1"
+        ]
     }
 }
