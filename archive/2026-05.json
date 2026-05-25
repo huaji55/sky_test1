@@ -766,5 +766,37 @@
             "Hidden Forest Season Candle group:a-1",
             "Valley of Triumph Treasure Candle-1"
         ]
+    },
+    "2026-05-25": {
+        "tw": [
+            "重溫一位霞谷先靈的記憶",
+            "與熊抱雪人欣賞共享空間",
+            "在隱士山谷山頂捕捉四散的光",
+            "用燭光凝聚成一根蠟燭"
+        ],
+        "candles_tw": [
+            "暮土大蠟燭-2",
+            "霞谷季蠟a組-1"
+        ],
+        "cn": [
+            "在霞谷中重温一位先灵的记忆",
+            "与熊抱雪人一起欣赏共享空间",
+            "在隐士山谷顶上捕捉四散的光",
+            "用烛光凝聚成一根蜡烛"
+        ],
+        "candles_cn": [
+            "暮土大蜡烛-2",
+            "霞谷季蜡a组-1"
+        ],
+        "en": [
+            "在霞谷中重温一位先灵的记忆",
+            "与熊抱雪人一起欣赏共享空间",
+            "在隐士山谷顶上捕捉四散的光",
+            "用烛光凝聚成一根蜡烛"
+        ],
+        "candles_en": [
+            "Gloden Wasteland Treasure Candle-2",
+            "Valley of Triumph Season Candle group:a-1"
+        ]
     }
 }
