@@ -862,5 +862,37 @@
             "Vault of Knowledge Season Candle group:a-2",
             "Daylight Prairie Treasure Candle-3"
         ]
+    },
+    "2026-05-28": {
+        "tw": [
+            "向一位玩家鞠躬",
+            "在蝴蝶原野與眾多蝴蝶一同飛翔",
+            "找到雲野的彩虹蠟燭",
+            "在雲野山洞內冥想"
+        ],
+        "candles_tw": [
+            "雲野季蠟a組-2",
+            "雨林大蠟燭-3"
+        ],
+        "cn": [
+            "向一位玩家鞠躬",
+            "在蝴蝶原野与众多蝴蝶一同飞翔",
+            "在云野找到彩虹蜡烛",
+            "在云野山洞中冥想"
+        ],
+        "candles_cn": [
+            "云野季蜡a组-2",
+            "雨林大蜡烛-3"
+        ],
+        "en": [
+            "向一位玩家鞠躬",
+            "在蝴蝶原野与众多蝴蝶一同飞翔",
+            "在云野找到彩虹蜡烛",
+            "在云野山洞中冥想"
+        ],
+        "candles_en": [
+            "Daylight Prairie Season Candle group:a-2",
+            "Hidden Forest Treasure Candle-3"
+        ]
     }
 }
