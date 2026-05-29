@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-05-28 18:59:39 (GMT+8)",
+    "updated_at": "2026-05-29 18:32:40 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-05-28",
-        "date_tomorrow": "2026-05-29",
+        "date_today": "2026-05-29",
+        "date_tomorrow": "2026-05-30",
         "quests_today": [
-            "向一位玩家鞠躬",
-            "在蝴蝶原野與眾多蝴蝶一同飛翔",
-            "找到雲野的彩虹蠟燭",
-            "在雲野山洞內冥想"
-        ],
-        "quests_tomorrow": [
             "對 5 位不同玩家發出叫聲",
             "重溫沮喪獵人在雨林的記憶",
             "透過水母重新恢復能量",
             "在聖池冥想"
         ],
+        "quests_tomorrow": [
+            "點亮一位陌生玩家",
+            "沿著霞谷下層賽道捕捉四散的光",
+            "用燭光凝聚成一根蠟燭",
+            "color_voted_for_kite"
+        ],
         "candles_today": [
-            "雲野季蠟a組-2",
-            "雨林大蠟燭-3"
+            "霞谷大蠟燭-2",
+            "雨林季蠟a組-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-05-28",
-        "date_tomorrow": "2026-05-29",
+        "date_today": "2026-05-29",
+        "date_tomorrow": "2026-05-30",
         "quests_today": [
-            "向一位玩家鞠躬",
-            "在蝴蝶原野与众多蝴蝶一同飞翔",
-            "在云野找到彩虹蜡烛",
-            "在云野山洞中冥想"
-        ],
-        "quests_tomorrow": [
             "呼唤5位不同玩家",
             "在雨林重温沮丧猎人的记忆",
             "用水母重新恢复能量",
             "在圣池边冥想"
         ],
+        "quests_tomorrow": [
+            "交一个新朋友",
+            "在下层霞谷赛道捕捉漫游之光",
+            "用烛光凝聚成一根蜡烛",
+            "color_voted_for_kite"
+        ],
         "candles_today": [
-            "云野季蜡a组-2",
-            "雨林大蜡烛-3"
+            "霞谷大蜡烛-2",
+            "雨林季蜡a组-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-05-28",
-        "date_tomorrow": "2026-05-29",
+        "date_today": "2026-05-29",
+        "date_tomorrow": "2026-05-30",
         "quests_today": [
-            "向一位玩家鞠躬",
-            "在蝴蝶原野与众多蝴蝶一同飞翔",
-            "在云野找到彩虹蜡烛",
-            "在云野山洞中冥想"
-        ],
-        "quests_tomorrow": [
             "呼唤5位不同玩家",
             "在雨林重温沮丧猎人的记忆",
             "用水母重新恢复能量",
             "在圣池边冥想"
         ],
+        "quests_tomorrow": [
+            "交一个新朋友",
+            "在下层霞谷赛道捕捉漫游之光",
+            "用烛光凝聚成一根蜡烛",
+            "color_voted_for_kite"
+        ],
         "candles_today": [
-            "Daylight Prairie Season Candle group:a-2",
-            "Hidden Forest Treasure Candle-3"
+            "Valley of Triumph Treasure Candle-2",
+            "Hidden Forest Season Candle group:a-2"
         ],
         "candles_tomorrow": []
     }
