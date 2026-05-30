@@ -926,5 +926,37 @@
             "Valley of Triumph Treasure Candle-2",
             "Hidden Forest Season Candle group:a-2"
         ]
+    },
+    "2026-05-30": {
+        "tw": [
+            "點亮一位陌生玩家",
+            "沿著霞谷下層賽道捕捉四散的光",
+            "用燭光凝聚成一根蠟燭",
+            "color_voted_for_kite"
+        ],
+        "candles_tw": [
+            "霞谷季蠟a組-2",
+            "暮土大蠟燭-3"
+        ],
+        "cn": [
+            "交一个新朋友",
+            "在下层霞谷赛道捕捉漫游之光",
+            "用烛光凝聚成一根蜡烛",
+            "color_voted_for_kite"
+        ],
+        "candles_cn": [
+            "霞谷季蜡a组-2",
+            "暮土大蜡烛-3"
+        ],
+        "en": [
+            "交一个新朋友",
+            "在下层霞谷赛道捕捉漫游之光",
+            "用烛光凝聚成一根蜡烛",
+            "color_voted_for_kite"
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:a-2",
+            "Gloden Wasteland Treasure Candle-3"
+        ]
     }
 }
