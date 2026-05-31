@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-05-30 17:24:05 (GMT+8)",
+    "updated_at": "2026-05-31 15:02:20 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-05-30",
-        "date_tomorrow": "2026-05-31",
+        "date_today": "2026-05-31",
+        "date_tomorrow": "2026-06-01",
         "quests_today": [
-            "點亮一位陌生玩家",
-            "沿著霞谷下層賽道捕捉四散的光",
-            "用燭光凝聚成一根蠟燭",
-            "color_voted_for_kite"
-        ],
-        "quests_tomorrow": [
             "收集 30 道燭光",
             "抓住暮土之光",
             "重溫一位暮土先靈的記憶",
             "對其他玩家使用表情"
         ],
+        "quests_tomorrow": [
+            "重溫一位禁閣先靈的記憶",
+            "在禁閣的入口處進行冥想。",
+            "收集紫色光芒",
+            "color_voted_for_kite"
+        ],
         "candles_today": [
-            "霞谷季蠟a組-2",
-            "暮土大蠟燭-3"
+            "禁閣大蠟燭-1",
+            "暮土季蠟a組-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-05-30",
-        "date_tomorrow": "2026-05-31",
+        "date_today": "2026-05-31",
+        "date_tomorrow": "2026-06-01",
         "quests_today": [
-            "交一个新朋友",
-            "在下层霞谷赛道捕捉漫游之光",
-            "用烛光凝聚成一根蜡烛",
-            "color_voted_for_kite"
-        ],
-        "quests_tomorrow": [
             "收集 30 道烛光",
             "抓住暮土之光",
             "在暮土中重温一位先灵的记忆",
             "对玩家使用表情"
         ],
+        "quests_tomorrow": [
+            "在禁阁中重温一位先灵的记忆",
+            "在禁阁的入口冥想。",
+            "收集紫色光芒",
+            "color_voted_for_kite"
+        ],
         "candles_today": [
-            "霞谷季蜡a组-2",
-            "暮土大蜡烛-3"
+            "禁阁大蜡烛-1",
+            "暮土季蜡a组-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-05-30",
-        "date_tomorrow": "2026-05-31",
+        "date_today": "2026-05-31",
+        "date_tomorrow": "2026-06-01",
         "quests_today": [
-            "交一个新朋友",
-            "在下层霞谷赛道捕捉漫游之光",
-            "用烛光凝聚成一根蜡烛",
-            "color_voted_for_kite"
-        ],
-        "quests_tomorrow": [
             "收集 30 道烛光",
             "抓住暮土之光",
             "在暮土中重温一位先灵的记忆",
             "对玩家使用表情"
         ],
+        "quests_tomorrow": [
+            "在禁阁中重温一位先灵的记忆",
+            "在禁阁的入口冥想。",
+            "收集紫色光芒",
+            "color_voted_for_kite"
+        ],
         "candles_today": [
-            "Valley of Triumph Season Candle group:a-2",
-            "Gloden Wasteland Treasure Candle-3"
+            "Vault of Knowledge Treasure Candle-1",
+            "Gloden Wasteland Season Candle group:a-1"
         ],
         "candles_tomorrow": []
     }
