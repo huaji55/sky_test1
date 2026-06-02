@@ -44,8 +44,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.name "SkyBot"
-          git config --global user.email "bot@noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           # 注意這裡：同時加入 data.json 和 archive 資料夾
           git add data.json archive/
           git commit -m "Update data & archive" || exit 0
