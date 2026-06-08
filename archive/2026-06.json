@@ -222,5 +222,37 @@
             "Daylight Prairie Season Candle group:a-2",
             "Hidden Forest Treasure Candle-2"
         ]
+    },
+    "2026-06-08": {
+        "tw": [
+            "向一位玩家鞠躬",
+            "抓住雨林之光",
+            "點亮 20 根蠟燭",
+            "在埋骨之地旁冥想"
+        ],
+        "candles_tw": [
+            "霞谷大蠟燭-2",
+            "雨林季蠟a組-2"
+        ],
+        "cn": [
+            "向一位玩家鞠躬",
+            "抓住雨林之光",
+            "点亮 20 根蜡烛",
+            "在雨林的埋骨之地旁冥想"
+        ],
+        "candles_cn": [
+            "霞谷大蜡烛-2",
+            "雨林季蜡a组-2"
+        ],
+        "en": [
+            "Bow at a player",
+            "Catch the light in Hidden Forest",
+            "Light 20 candles",
+            "Meditate by the Forest's Boneyard"
+        ],
+        "candles_en": [
+            "Valley of Triumph Treasure Candle-2",
+            "Hidden Forest Season Candle group:a-2"
+        ]
     }
 }
