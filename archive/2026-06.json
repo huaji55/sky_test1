@@ -254,5 +254,37 @@
             "Valley of Triumph Treasure Candle-2",
             "Hidden Forest Season Candle group:a-2"
         ]
+    },
+    "2026-06-09": {
+        "tw": [
+            "欣賞一下霞谷小樹苗",
+            "抓住霞谷之光",
+            "重溫跳躍舞者在霞谷的記憶",
+            "在雲野高地提案風箏設計"
+        ],
+        "candles_tw": [
+            "暮土大蠟燭-2",
+            "霞谷季蠟a組-2"
+        ],
+        "cn": [
+            "坐赏霞谷小树苗",
+            "抓住霞谷之光",
+            "在霞谷重温跳跃舞者的记忆",
+            "在云野高地提交风筝设计"
+        ],
+        "candles_cn": [
+            "暮土大蜡烛-2",
+            "霞谷季蜡a组-2"
+        ],
+        "en": [
+            "Admire the sapling in Valley of Triumph for a short while",
+            "Catch the light in Valley of Triumph",
+            "Relive Leaping Dancer's memory from Valley of Triumph",
+            "Propose a kite design in Prairie Heights"
+        ],
+        "candles_en": [
+            "Gloden Wasteland Treasure Candle-2",
+            "Valley of Triumph Season Candle group:a-2"
+        ]
     }
 }
