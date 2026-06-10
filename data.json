@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-06-09 18:37:02 (GMT+8)",
+    "updated_at": "2026-06-10 16:23:32 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-06-09",
-        "date_tomorrow": "2026-06-10",
+        "date_today": "2026-06-10",
+        "date_tomorrow": "2026-06-11",
         "quests_today": [
-            "欣賞一下霞谷小樹苗",
-            "抓住霞谷之光",
-            "重溫跳躍舞者在霞谷的記憶",
-            "在雲野高地提案風箏設計"
-        ],
-        "quests_tomorrow": [
             "淨化 10 處黑暗腐植",
             "對 5 位不同玩家發出叫聲",
             "面對冥龍",
             "在暮土墓園捕捉四散的光"
         ],
+        "quests_tomorrow": [
+            "送禮給一位朋友",
+            "欣賞一下禁閣小樹苗",
+            "向一位玩家揮手",
+            "在雲野高地提案風箏設計"
+        ],
         "candles_today": [
-            "暮土大蠟燭-2",
-            "霞谷季蠟a組-2"
+            "禁閣大蠟燭-2",
+            "暮土季蠟a組-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-06-09",
-        "date_tomorrow": "2026-06-10",
+        "date_today": "2026-06-10",
+        "date_tomorrow": "2026-06-11",
         "quests_today": [
-            "坐赏霞谷小树苗",
-            "抓住霞谷之光",
-            "在霞谷重温跳跃舞者的记忆",
-            "在云野高地提交风筝设计"
-        ],
-        "quests_tomorrow": [
             "净化 10 处黑暗腐植",
             "呼唤5位不同玩家",
             "面对冥龙",
             "在暮土墓园中捕捉四散的光"
         ],
+        "quests_tomorrow": [
+            "给一位朋友送礼",
+            "坐赏禁阁小树苗",
+            "向一位玩家挥手",
+            "在云野高地提交风筝设计"
+        ],
         "candles_today": [
-            "暮土大蜡烛-2",
-            "霞谷季蜡a组-2"
+            "禁阁大蜡烛-2",
+            "暮土季蜡a组-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-06-09",
-        "date_tomorrow": "2026-06-10",
+        "date_today": "2026-06-10",
+        "date_tomorrow": "2026-06-11",
         "quests_today": [
-            "Admire the sapling in Valley of Triumph for a short while",
-            "Catch the light in Valley of Triumph",
-            "Relive Leaping Dancer's memory from Valley of Triumph",
-            "Propose a kite design in Prairie Heights"
-        ],
-        "quests_tomorrow": [
             "Melt 10 darkness",
             "Call to 5 different players",
             "Face the Dark Dragon",
             "Catch the wandering lights in the Graveyard"
         ],
+        "quests_tomorrow": [
+            "Send a gift to a friend",
+            "Admire the sapling in the Vault of Knowledge for a short while",
+            "Wave to a player",
+            "Propose a kite design in Prairie Heights"
+        ],
         "candles_today": [
-            "Gloden Wasteland Treasure Candle-2",
-            "Valley of Triumph Season Candle group:a-2"
+            "Vault of Knowledge Treasure Candle-2",
+            "Gloden Wasteland Season Candle group:a-2"
         ],
         "candles_tomorrow": []
     }
