@@ -318,5 +318,37 @@
             "Vault of Knowledge Treasure Candle-2",
             "Gloden Wasteland Season Candle group:a-2"
         ]
+    },
+    "2026-06-11": {
+        "tw": [
+            "送禮給一位朋友",
+            "欣賞一下禁閣小樹苗",
+            "向一位玩家揮手",
+            "在雲野高地提案風箏設計"
+        ],
+        "candles_tw": [
+            "雲野大蠟燭-3",
+            "禁閣季蠟a組-1"
+        ],
+        "cn": [
+            "给一位朋友送礼",
+            "坐赏禁阁小树苗",
+            "向一位玩家挥手",
+            "在云野高地提交风筝设计"
+        ],
+        "candles_cn": [
+            "云野大蜡烛-3",
+            "禁阁季蜡a组-1"
+        ],
+        "en": [
+            "Send a gift to a friend",
+            "Admire the sapling in the Vault of Knowledge for a short while",
+            "Wave to a player",
+            "Propose a kite design in Prairie Heights"
+        ],
+        "candles_en": [
+            "Daylight Prairie Treasure Candle-3",
+            "Vault of Knowledge Season Candle group:a-1"
+        ]
     }
 }

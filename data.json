@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-06-10 18:59:57 (GMT+8)",
+    "updated_at": "2026-06-11 19:15:14 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-06-10",
-        "date_tomorrow": "2026-06-11",
+        "date_today": "2026-06-11",
+        "date_tomorrow": "2026-06-12",
         "quests_today": [
-            "淨化 10 處黑暗腐植",
-            "對 5 位不同玩家發出叫聲",
-            "面對冥龍",
-            "在暮土墓園捕捉四散的光"
-        ],
-        "quests_tomorrow": [
             "送禮給一位朋友",
             "欣賞一下禁閣小樹苗",
             "向一位玩家揮手",
             "在雲野高地提案風箏設計"
         ],
+        "quests_tomorrow": [
+            "欣賞一下雲野小樹苗",
+            "對其他玩家使用表情",
+            "在雲野村莊捕捉四散的光",
+            "與飛行嚮導一同冥想回憶雲野長老"
+        ],
         "candles_today": [
-            "禁閣大蠟燭-2",
-            "暮土季蠟a組-2"
+            "雲野大蠟燭-3",
+            "禁閣季蠟a組-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-06-10",
-        "date_tomorrow": "2026-06-11",
+        "date_today": "2026-06-11",
+        "date_tomorrow": "2026-06-12",
         "quests_today": [
-            "净化 10 处黑暗腐植",
-            "呼唤5位不同玩家",
-            "面对冥龙",
-            "在暮土墓园中捕捉四散的光"
-        ],
-        "quests_tomorrow": [
             "给一位朋友送礼",
             "坐赏禁阁小树苗",
             "向一位玩家挥手",
             "在云野高地提交风筝设计"
         ],
+        "quests_tomorrow": [
+            "坐赏云野小树苗",
+            "对玩家使用表情",
+            "在云野村庄中捕捉四散的光",
+            "与飞行向导一起冥想回忆云野长老"
+        ],
         "candles_today": [
-            "禁阁大蜡烛-2",
-            "暮土季蜡a组-2"
+            "云野大蜡烛-3",
+            "禁阁季蜡a组-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-06-10",
-        "date_tomorrow": "2026-06-11",
+        "date_today": "2026-06-11",
+        "date_tomorrow": "2026-06-12",
         "quests_today": [
-            "Melt 10 darkness",
-            "Call to 5 different players",
-            "Face the Dark Dragon",
-            "Catch the wandering lights in the Graveyard"
-        ],
-        "quests_tomorrow": [
             "Send a gift to a friend",
             "Admire the sapling in the Vault of Knowledge for a short while",
             "Wave to a player",
             "Propose a kite design in Prairie Heights"
         ],
+        "quests_tomorrow": [
+            "Admire the sapling in Daylight Prairie for a short while",
+            "Use expressions with players",
+            "Catch the wandering lights in Prairie Village",
+            "Join Flight Guide and meditate to reminisce the Prairie Elder"
+        ],
         "candles_today": [
-            "Vault of Knowledge Treasure Candle-2",
-            "Gloden Wasteland Season Candle group:a-2"
+            "Daylight Prairie Treasure Candle-3",
+            "Vault of Knowledge Season Candle group:a-1"
         ],
         "candles_tomorrow": []
     }
