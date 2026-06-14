@@ -414,5 +414,37 @@
             "Hidden Forest Season Candle group:a-1",
             "Valley of Triumph Treasure Candle-1"
         ]
+    },
+    "2026-06-14": {
+        "tw": [
+            "向一位玩家鞠躬",
+            "收集 30 道燭光",
+            "收集藍色光芒 ",
+            "重溫自豪冠軍在霞谷的記憶"
+        ],
+        "candles_tw": [
+            "暮土大蠟燭-3",
+            "霞谷季蠟a組-1"
+        ],
+        "cn": [
+            "向一位玩家鞠躬",
+            "收集 30 道烛光",
+            "收集蓝色光芒 ",
+            "在霞谷重温自豪冠军的记忆"
+        ],
+        "candles_cn": [
+            "暮土大蜡烛-3",
+            "霞谷季蜡a组-1"
+        ],
+        "en": [
+            "Bow at a player",
+            "Collect 30 pieces of light",
+            "Collect Blue Light ",
+            "Relive Proud Victor's memory from Valley of Triumph"
+        ],
+        "candles_en": [
+            "Gloden Wasteland Treasure Candle-3",
+            "Valley of Triumph Season Candle group:a-1"
+        ]
     }
 }
