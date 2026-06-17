@@ -510,5 +510,37 @@
             "Vault of Knowledge Season Candle group:a-2",
             "Daylight Prairie Treasure Candle-1"
         ]
+    },
+    "2026-06-17": {
+        "tw": [
+            "抓住雲野之光",
+            "在蝴蝶原野與眾多蝴蝶一同飛翔",
+            "向一位玩家揮手",
+            "在雲野高地提案風箏設計"
+        ],
+        "candles_tw": [
+            "雲野季蠟a組-2",
+            "雨林大蠟燭-1"
+        ],
+        "cn": [
+            "抓住云野之光",
+            "在蝴蝶原野与众多蝴蝶一同飞翔",
+            "向一位玩家挥手",
+            "在云野高地提交风筝设计"
+        ],
+        "candles_cn": [
+            "云野季蜡a组-2",
+            "雨林大蜡烛-1"
+        ],
+        "en": [
+            "Catch the light in Daylight Prairie",
+            "Fly with many butterflies in Butterfly Fields",
+            "Wave to a player",
+            "Propose a kite design in Prairie Heights"
+        ],
+        "candles_en": [
+            "Daylight Prairie Season Candle group:a-2",
+            "Hidden Forest Treasure Candle-1"
+        ]
     }
 }
