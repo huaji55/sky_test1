@@ -1,68 +1,74 @@
 {
-    "updated_at": "2026-06-18 19:15:14 (GMT+8)",
+    "updated_at": "2026-06-19 19:07:33 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-06-18",
-        "date_tomorrow": "2026-06-19",
+        "date_today": "2026-06-19",
+        "date_tomorrow": "2026-06-20",
         "quests_today": [
-            "在雨林小溪捕捉四散的光",
-            "透過光菇重新恢復能量",
-            "抱起一隻暗蟹",
-            "重溫傻笑童子軍在雨林的記憶"
-        ],
-        "quests_tomorrow": [
             "和朋友擁抱",
             "找到霞谷的彩虹蠟燭",
             "點亮 20 根蠟燭",
             "重溫空翻亞軍在霞谷的記憶"
         ],
+        "quests_tomorrow": [
+            "抓住暮土之光",
+            "前往暮土的墓園找到篝火",
+            "把嘎嘎大笑的炮手發射出去",
+            "向一位玩家鞠躬"
+        ],
         "candles_today": [
-            "霞谷大蠟燭-2",
-            "雨林季蠟a組-2"
+            "暮土大蠟燭-2",
+            "霞谷季蠟a組-2",
+            "霞谷季蠟a組-1",
+            "暮土大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-06-18",
-        "date_tomorrow": "2026-06-19",
+        "date_today": "2026-06-19",
+        "date_tomorrow": "2026-06-20",
         "quests_today": [
-            "在雨林小溪捕捉四散的光",
-            "用光菇重新恢复能量",
-            "抱起一只暗蟹",
-            "在雨林重温傻笑童子军的记忆"
-        ],
-        "quests_tomorrow": [
             "和朋友拥抱",
             "在霞谷找到彩虹蜡烛",
             "点亮 20 根蜡烛",
             "在霞谷重温空翻亚军的记忆"
         ],
+        "quests_tomorrow": [
+            "抓住暮土之光",
+            "前往暮土的墓园找到篝火",
+            "发射嬉笑炮手",
+            "向一位玩家鞠躬"
+        ],
         "candles_today": [
-            "霞谷大蜡烛-2",
-            "雨林季蜡a组-2"
+            "暮土大蜡烛-2",
+            "霞谷季蜡a组-2",
+            "霞谷季蜡a组-1",
+            "暮土大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-06-18",
-        "date_tomorrow": "2026-06-19",
+        "date_today": "2026-06-19",
+        "date_tomorrow": "2026-06-20",
         "quests_today": [
-            "Catch the wandering lights in the Forest Brook",
-            "Recharge your light from a light bloom",
-            "Pick up a Crab",
-            "Relive Chuckling Scout's memory from Hidden Forest"
-        ],
-        "quests_tomorrow": [
             "Hug a friend",
             "Find the candles at the end of the rainbow in the Valley of Triumph",
             "Light 20 candles",
             "Relive Backflipping Champion's memory from Valley of Triumph"
         ],
+        "quests_tomorrow": [
+            "Catch the light in Golden Wasteland",
+            "Visit the bonfire at the Wasteland's Graveyard",
+            "Launch Cackling Cannoneer",
+            "Bow at a player"
+        ],
         "candles_today": [
-            "Valley of Triumph Treasure Candle-2",
-            "Hidden Forest Season Candle group:a-2"
+            "Gloden Wasteland Treasure Candle-2",
+            "Valley of Triumph Season Candle group:a-2",
+            "Valley of Triumph Season Candle group:a-1",
+            "Gloden Wasteland Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }
