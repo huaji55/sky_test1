@@ -612,5 +612,43 @@
             "Valley of Triumph Season Candle group:a-1",
             "Gloden Wasteland Treasure Candle-1"
         ]
+    },
+    "2026-06-20": {
+        "tw": [
+            "抓住暮土之光",
+            "前往暮土的墓園找到篝火",
+            "把嘎嘎大笑的炮手發射出去",
+            "向一位玩家鞠躬"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-1",
+            "禁閣大蠟燭-2",
+            "暮土季蠟a組-1",
+            "暮土季蠟a組-2"
+        ],
+        "cn": [
+            "抓住暮土之光",
+            "前往暮土的墓园找到篝火",
+            "发射嬉笑炮手",
+            "向一位玩家鞠躬"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-1",
+            "禁阁大蜡烛-2",
+            "暮土季蜡a组-1",
+            "暮土季蜡a组-2"
+        ],
+        "en": [
+            "Catch the light in Golden Wasteland",
+            "Visit the bonfire at the Wasteland's Graveyard",
+            "Launch Cackling Cannoneer",
+            "Bow at a player"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-1",
+            "Vault of Knowledge Treasure Candle-2",
+            "Gloden Wasteland Season Candle group:a-1",
+            "Gloden Wasteland Season Candle group:a-2"
+        ]
     }
 }

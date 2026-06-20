@@ -1,74 +1,74 @@
 {
-    "updated_at": "2026-06-19 19:39:34 (GMT+8)",
+    "updated_at": "2026-06-20 17:52:49 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-06-19",
-        "date_tomorrow": "2026-06-20",
+        "date_today": "2026-06-20",
+        "date_tomorrow": "2026-06-21",
         "quests_today": [
-            "和朋友擁抱",
-            "找到霞谷的彩虹蠟燭",
-            "點亮 20 根蠟燭",
-            "重溫空翻亞軍在霞谷的記憶"
-        ],
-        "quests_tomorrow": [
             "抓住暮土之光",
             "前往暮土的墓園找到篝火",
             "把嘎嘎大笑的炮手發射出去",
             "向一位玩家鞠躬"
         ],
+        "quests_tomorrow": [
+            "重溫一位禁閣先靈的記憶",
+            "收集 30 道燭光",
+            "對其他玩家使用表情",
+            "在知識庫避難所捕捉四散的光"
+        ],
         "candles_today": [
-            "暮土大蠟燭-2",
-            "霞谷季蠟a組-2",
-            "霞谷季蠟a組-1",
-            "暮土大蠟燭-1"
+            "禁閣大蠟燭-1",
+            "禁閣大蠟燭-2",
+            "暮土季蠟a組-1",
+            "暮土季蠟a組-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-06-19",
-        "date_tomorrow": "2026-06-20",
+        "date_today": "2026-06-20",
+        "date_tomorrow": "2026-06-21",
         "quests_today": [
-            "和朋友拥抱",
-            "在霞谷找到彩虹蜡烛",
-            "点亮 20 根蜡烛",
-            "在霞谷重温空翻亚军的记忆"
-        ],
-        "quests_tomorrow": [
             "抓住暮土之光",
             "前往暮土的墓园找到篝火",
             "发射嬉笑炮手",
             "向一位玩家鞠躬"
         ],
+        "quests_tomorrow": [
+            "在禁阁中重温一位先灵的记忆",
+            "收集 30 道烛光",
+            "对玩家使用表情",
+            "在禁阁的知识库避难所捕捉四散的光"
+        ],
         "candles_today": [
-            "暮土大蜡烛-2",
-            "霞谷季蜡a组-2",
-            "霞谷季蜡a组-1",
-            "暮土大蜡烛-1"
+            "禁阁大蜡烛-1",
+            "禁阁大蜡烛-2",
+            "暮土季蜡a组-1",
+            "暮土季蜡a组-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-06-19",
-        "date_tomorrow": "2026-06-20",
+        "date_today": "2026-06-20",
+        "date_tomorrow": "2026-06-21",
         "quests_today": [
-            "Hug a friend",
-            "Find the candles at the end of the rainbow in the Valley of Triumph",
-            "Light 20 candles",
-            "Relive Backflipping Champion's memory from Valley of Triumph"
-        ],
-        "quests_tomorrow": [
             "Catch the light in Golden Wasteland",
             "Visit the bonfire at the Wasteland's Graveyard",
             "Launch Cackling Cannoneer",
             "Bow at a player"
         ],
+        "quests_tomorrow": [
+            "Relive a Spirit's memories in Vault of Knowledge",
+            "Collect 30 pieces of light",
+            "Use expressions with players",
+            "Catch the wandering lights in the Vault's Repository"
+        ],
         "candles_today": [
-            "Gloden Wasteland Treasure Candle-2",
-            "Valley of Triumph Season Candle group:a-2",
-            "Valley of Triumph Season Candle group:a-1",
-            "Gloden Wasteland Treasure Candle-1"
+            "Vault of Knowledge Treasure Candle-1",
+            "Vault of Knowledge Treasure Candle-2",
+            "Gloden Wasteland Season Candle group:a-1",
+            "Gloden Wasteland Season Candle group:a-2"
         ],
         "candles_tomorrow": []
     }
