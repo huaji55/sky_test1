@@ -688,5 +688,43 @@
             "Daylight Prairie Treasure Candle-3",
             "Vault of Knowledge Season Candle group:a-1"
         ]
+    },
+    "2026-06-22": {
+        "tw": [
+            "對 5 位不同玩家發出叫聲",
+            "在浮石鳥巢捕捉四散的光",
+            "重溫含蓄書蟲在雲野的記憶",
+            "拜訪聖域群島上遭受汙染的間歇泉"
+        ],
+        "candles_tw": [
+            "雲野季蠟a組-2",
+            "雨林大蠟燭-2",
+            "雨林大蠟燭-3",
+            "雲野季蠟a組-1"
+        ],
+        "cn": [
+            "呼唤5位不同玩家",
+            "在浮石鸟巢周围捕捉四散的光",
+            "在云野重温内秀书虫的记忆",
+            "拜访圣域群岛上遭受污染的间歇泉"
+        ],
+        "candles_cn": [
+            "云野季蜡a组-2",
+            "雨林大蜡烛-2",
+            "雨林大蜡烛-3",
+            "云野季蜡a组-1"
+        ],
+        "en": [
+            "Call to 5 different players",
+            "Catch the wandering lights around the Bird Nest",
+            "Relive Timid Bookworm's memory from Daylight Prairie",
+            "Visit the polluted geyser in Sanctuary Islands"
+        ],
+        "candles_en": [
+            "Daylight Prairie Season Candle group:a-2",
+            "Hidden Forest Treasure Candle-2",
+            "Hidden Forest Treasure Candle-3",
+            "Daylight Prairie Season Candle group:a-1"
+        ]
     }
 }
