@@ -1,74 +1,74 @@
 {
-    "updated_at": "2026-06-22 20:54:19 (GMT+8)",
+    "updated_at": "2026-06-23 18:23:17 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-06-22",
-        "date_tomorrow": "2026-06-23",
+        "date_today": "2026-06-23",
+        "date_tomorrow": "2026-06-24",
         "quests_today": [
-            "對 5 位不同玩家發出叫聲",
-            "在浮石鳥巢捕捉四散的光",
-            "重溫含蓄書蟲在雲野的記憶",
-            "拜訪聖域群島上遭受汙染的間歇泉"
-        ],
-        "quests_tomorrow": [
             "欣賞一下雨林小樹苗",
             "向一位玩家揮手",
             "淨化 10 處黑暗腐植",
             "整理樹林高處的先祖團聚長桌"
         ],
+        "quests_tomorrow": [
+            "和朋友牽手",
+            "用燭光凝聚成一根蠟燭",
+            "沿著霞谷下層賽道捕捉四散的光",
+            "重溫叫好觀眾在霞谷的記憶"
+        ],
         "candles_today": [
-            "雲野季蠟a組-2",
-            "雨林大蠟燭-2",
-            "雨林大蠟燭-3",
-            "雲野季蠟a組-1"
+            "雨林季蠟a組-1",
+            "霞谷大蠟燭-1",
+            "霞谷大蠟燭-2",
+            "雨林季蠟a組-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-06-22",
-        "date_tomorrow": "2026-06-23",
+        "date_today": "2026-06-23",
+        "date_tomorrow": "2026-06-24",
         "quests_today": [
-            "呼唤5位不同玩家",
-            "在浮石鸟巢周围捕捉四散的光",
-            "在云野重温内秀书虫的记忆",
-            "拜访圣域群岛上遭受污染的间歇泉"
-        ],
-        "quests_tomorrow": [
             "坐赏雨林小树苗",
             "向一位玩家挥手",
             "净化 10 处黑暗腐植",
             "整理树林高处的先祖团聚长桌"
         ],
+        "quests_tomorrow": [
+            "和朋友牵手",
+            "用烛光凝聚成一根蜡烛",
+            "在下层霞谷赛道捕捉漫游之光",
+            "在霞谷重温叫好观众的记忆"
+        ],
         "candles_today": [
-            "云野季蜡a组-2",
-            "雨林大蜡烛-2",
-            "雨林大蜡烛-3",
-            "云野季蜡a组-1"
+            "雨林季蜡a组-1",
+            "霞谷大蜡烛-1",
+            "霞谷大蜡烛-2",
+            "雨林季蜡a组-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-06-22",
-        "date_tomorrow": "2026-06-23",
+        "date_today": "2026-06-23",
+        "date_tomorrow": "2026-06-24",
         "quests_today": [
-            "Call to 5 different players",
-            "Catch the wandering lights around the Bird Nest",
-            "Relive Timid Bookworm's memory from Daylight Prairie",
-            "Visit the polluted geyser in Sanctuary Islands"
-        ],
-        "quests_tomorrow": [
             "Admire the sapling in the Hidden Forest for a short while",
             "Wave to a player",
             "Melt 10 darkness",
             "Tidy up the Ancestor's table in the Elevated Clearing"
         ],
+        "quests_tomorrow": [
+            "Hold a friend's hand",
+            "Forge a candle",
+            "Catch the wandering lights along the Lower Valley Track",
+            "Relive Cheerful Spectator's memory from Valley of Triumph"
+        ],
         "candles_today": [
-            "Daylight Prairie Season Candle group:a-2",
-            "Hidden Forest Treasure Candle-2",
-            "Hidden Forest Treasure Candle-3",
-            "Daylight Prairie Season Candle group:a-1"
+            "Hidden Forest Season Candle group:a-1",
+            "Valley of Triumph Treasure Candle-1",
+            "Valley of Triumph Treasure Candle-2",
+            "Hidden Forest Season Candle group:a-2"
         ],
         "candles_tomorrow": []
     }
