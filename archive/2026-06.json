@@ -764,5 +764,43 @@
             "Valley of Triumph Treasure Candle-2",
             "Hidden Forest Season Candle group:a-2"
         ]
+    },
+    "2026-06-24": {
+        "tw": [
+            "和朋友牽手",
+            "用燭光凝聚成一根蠟燭",
+            "沿著霞谷下層賽道捕捉四散的光",
+            "重溫叫好觀眾在霞谷的記憶"
+        ],
+        "candles_tw": [
+            "暮土大蠟燭-2",
+            "霞谷季蠟a組-2",
+            "暮土大蠟燭-3",
+            "霞谷季蠟a組-1"
+        ],
+        "cn": [
+            "和朋友牵手",
+            "用烛光凝聚成一根蜡烛",
+            "在下层霞谷赛道捕捉漫游之光",
+            "在霞谷重温叫好观众的记忆"
+        ],
+        "candles_cn": [
+            "暮土大蜡烛-2",
+            "霞谷季蜡a组-2",
+            "暮土大蜡烛-3",
+            "霞谷季蜡a组-1"
+        ],
+        "en": [
+            "Hold a friend's hand",
+            "Forge a candle",
+            "Catch the wandering lights along the Lower Valley Track",
+            "Relive Cheerful Spectator's memory from Valley of Triumph"
+        ],
+        "candles_en": [
+            "Gloden Wasteland Treasure Candle-2",
+            "Valley of Triumph Season Candle group:a-2",
+            "Gloden Wasteland Treasure Candle-3",
+            "Valley of Triumph Season Candle group:a-1"
+        ]
     }
 }
