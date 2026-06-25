@@ -802,5 +802,43 @@
             "Gloden Wasteland Treasure Candle-3",
             "Valley of Triumph Season Candle group:a-1"
         ]
+    },
+    "2026-06-25": {
+        "tw": [
+            "抱起一隻暗蟹",
+            "重溫一位暮土先靈的記憶",
+            "請至發射位置預備",
+            "在暮土墓園捕捉四散的光"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-1",
+            "禁閣大蠟燭-2",
+            "暮土季蠟a組-1",
+            "暮土季蠟a組-2"
+        ],
+        "cn": [
+            "抱起一只暗蟹",
+            "在暮土中重温一位先灵的记忆",
+            "进入发射位置",
+            "在暮土墓园中捕捉四散的光"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-1",
+            "禁阁大蜡烛-2",
+            "暮土季蜡a组-1",
+            "暮土季蜡a组-2"
+        ],
+        "en": [
+            "Pick up a Crab",
+            "Relive a Spirit's memories in Golden Wasteland",
+            "Get in launch position",
+            "Catch the wandering lights in the Graveyard"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-1",
+            "Vault of Knowledge Treasure Candle-2",
+            "Gloden Wasteland Season Candle group:a-1",
+            "Gloden Wasteland Season Candle group:a-2"
+        ]
     }
 }

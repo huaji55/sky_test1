@@ -1,74 +1,74 @@
 {
-    "updated_at": "2026-06-24 18:25:41 (GMT+8)",
+    "updated_at": "2026-06-25 17:57:43 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-06-24",
-        "date_tomorrow": "2026-06-25",
+        "date_today": "2026-06-25",
+        "date_tomorrow": "2026-06-26",
         "quests_today": [
-            "和朋友牽手",
-            "用燭光凝聚成一根蠟燭",
-            "沿著霞谷下層賽道捕捉四散的光",
-            "重溫叫好觀眾在霞谷的記憶"
-        ],
-        "quests_tomorrow": [
             "抱起一隻暗蟹",
             "重溫一位暮土先靈的記憶",
             "請至發射位置預備",
             "在暮土墓園捕捉四散的光"
         ],
+        "quests_tomorrow": [
+            "向一位玩家鞠躬",
+            "抓住禁閣之光",
+            "收集紫色光芒",
+            "點亮 20 根蠟燭"
+        ],
         "candles_today": [
-            "暮土大蠟燭-2",
-            "霞谷季蠟a組-2",
-            "暮土大蠟燭-3",
-            "霞谷季蠟a組-1"
+            "禁閣大蠟燭-1",
+            "禁閣大蠟燭-2",
+            "暮土季蠟a組-1",
+            "暮土季蠟a組-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-06-24",
-        "date_tomorrow": "2026-06-25",
+        "date_today": "2026-06-25",
+        "date_tomorrow": "2026-06-26",
         "quests_today": [
-            "和朋友牵手",
-            "用烛光凝聚成一根蜡烛",
-            "在下层霞谷赛道捕捉漫游之光",
-            "在霞谷重温叫好观众的记忆"
-        ],
-        "quests_tomorrow": [
             "抱起一只暗蟹",
             "在暮土中重温一位先灵的记忆",
             "进入发射位置",
             "在暮土墓园中捕捉四散的光"
         ],
+        "quests_tomorrow": [
+            "向一位玩家鞠躬",
+            "抓住禁阁之光",
+            "收集紫色光芒",
+            "点亮 20 根蜡烛"
+        ],
         "candles_today": [
-            "暮土大蜡烛-2",
-            "霞谷季蜡a组-2",
-            "暮土大蜡烛-3",
-            "霞谷季蜡a组-1"
+            "禁阁大蜡烛-1",
+            "禁阁大蜡烛-2",
+            "暮土季蜡a组-1",
+            "暮土季蜡a组-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-06-24",
-        "date_tomorrow": "2026-06-25",
+        "date_today": "2026-06-25",
+        "date_tomorrow": "2026-06-26",
         "quests_today": [
-            "Hold a friend's hand",
-            "Forge a candle",
-            "Catch the wandering lights along the Lower Valley Track",
-            "Relive Cheerful Spectator's memory from Valley of Triumph"
-        ],
-        "quests_tomorrow": [
             "Pick up a Crab",
             "Relive a Spirit's memories in Golden Wasteland",
             "Get in launch position",
             "Catch the wandering lights in the Graveyard"
         ],
+        "quests_tomorrow": [
+            "Bow at a player",
+            "Catch the light in the Vault of Knowledge",
+            "Collect Purple Light",
+            "Light 20 candles"
+        ],
         "candles_today": [
-            "Gloden Wasteland Treasure Candle-2",
-            "Valley of Triumph Season Candle group:a-2",
-            "Gloden Wasteland Treasure Candle-3",
-            "Valley of Triumph Season Candle group:a-1"
+            "Vault of Knowledge Treasure Candle-1",
+            "Vault of Knowledge Treasure Candle-2",
+            "Gloden Wasteland Season Candle group:a-1",
+            "Gloden Wasteland Season Candle group:a-2"
         ],
         "candles_tomorrow": []
     }
