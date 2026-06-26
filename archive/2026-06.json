@@ -840,5 +840,43 @@
             "Gloden Wasteland Season Candle group:a-1",
             "Gloden Wasteland Season Candle group:a-2"
         ]
+    },
+    "2026-06-26": {
+        "tw": [
+            "向一位玩家鞠躬",
+            "抓住禁閣之光",
+            "收集紫色光芒",
+            "點亮 20 根蠟燭"
+        ],
+        "candles_tw": [
+            "禁閣季蠟a組-2",
+            "雲野大蠟燭-3",
+            "禁閣季蠟a組-1",
+            "雲野大蠟燭-1"
+        ],
+        "cn": [
+            "向一位玩家鞠躬",
+            "抓住禁阁之光",
+            "收集紫色光芒",
+            "点亮 20 根蜡烛"
+        ],
+        "candles_cn": [
+            "禁阁季蜡a组-2",
+            "云野大蜡烛-3",
+            "禁阁季蜡a组-1",
+            "云野大蜡烛-1"
+        ],
+        "en": [
+            "Bow at a player",
+            "Catch the light in the Vault of Knowledge",
+            "Collect Purple Light",
+            "Light 20 candles"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Season Candle group:a-2",
+            "Daylight Prairie Treasure Candle-3",
+            "Vault of Knowledge Season Candle group:a-1",
+            "Daylight Prairie Treasure Candle-1"
+        ]
     }
 }

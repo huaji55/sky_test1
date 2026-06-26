@@ -1,74 +1,74 @@
 {
-    "updated_at": "2026-06-25 18:18:05 (GMT+8)",
+    "updated_at": "2026-06-26 18:01:29 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-06-25",
-        "date_tomorrow": "2026-06-26",
+        "date_today": "2026-06-26",
+        "date_tomorrow": "2026-06-27",
         "quests_today": [
-            "抱起一隻暗蟹",
-            "重溫一位暮土先靈的記憶",
-            "請至發射位置預備",
-            "在暮土墓園捕捉四散的光"
-        ],
-        "quests_tomorrow": [
             "向一位玩家鞠躬",
             "抓住禁閣之光",
             "收集紫色光芒",
             "點亮 20 根蠟燭"
         ],
+        "quests_tomorrow": [
+            "點亮一位陌生玩家",
+            "找到雲野的彩虹蠟燭",
+            "收集 30 道燭光",
+            "重溫舒展大師在雲野的記憶"
+        ],
         "candles_today": [
-            "禁閣大蠟燭-1",
-            "禁閣大蠟燭-2",
-            "暮土季蠟a組-1",
-            "暮土季蠟a組-2"
+            "禁閣季蠟a組-2",
+            "雲野大蠟燭-3",
+            "禁閣季蠟a組-1",
+            "雲野大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-06-25",
-        "date_tomorrow": "2026-06-26",
+        "date_today": "2026-06-26",
+        "date_tomorrow": "2026-06-27",
         "quests_today": [
-            "抱起一只暗蟹",
-            "在暮土中重温一位先灵的记忆",
-            "进入发射位置",
-            "在暮土墓园中捕捉四散的光"
-        ],
-        "quests_tomorrow": [
             "向一位玩家鞠躬",
             "抓住禁阁之光",
             "收集紫色光芒",
             "点亮 20 根蜡烛"
         ],
+        "quests_tomorrow": [
+            "交一个新朋友",
+            "在云野找到彩虹蜡烛",
+            "收集 30 道烛光",
+            "在云野重温舒展大师的记忆"
+        ],
         "candles_today": [
-            "禁阁大蜡烛-1",
-            "禁阁大蜡烛-2",
-            "暮土季蜡a组-1",
-            "暮土季蜡a组-2"
+            "禁阁季蜡a组-2",
+            "云野大蜡烛-3",
+            "禁阁季蜡a组-1",
+            "云野大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-06-25",
-        "date_tomorrow": "2026-06-26",
+        "date_today": "2026-06-26",
+        "date_tomorrow": "2026-06-27",
         "quests_today": [
-            "Pick up a Crab",
-            "Relive a Spirit's memories in Golden Wasteland",
-            "Get in launch position",
-            "Catch the wandering lights in the Graveyard"
-        ],
-        "quests_tomorrow": [
             "Bow at a player",
             "Catch the light in the Vault of Knowledge",
             "Collect Purple Light",
             "Light 20 candles"
         ],
+        "quests_tomorrow": [
+            "Make a new acquaintance",
+            "Find the candles at the end of the rainbow in Daylight Prairie",
+            "Collect 30 pieces of light",
+            "Relive Stretching Guru's memory from Daylight Prairie"
+        ],
         "candles_today": [
-            "Vault of Knowledge Treasure Candle-1",
-            "Vault of Knowledge Treasure Candle-2",
-            "Gloden Wasteland Season Candle group:a-1",
-            "Gloden Wasteland Season Candle group:a-2"
+            "Vault of Knowledge Season Candle group:a-2",
+            "Daylight Prairie Treasure Candle-3",
+            "Vault of Knowledge Season Candle group:a-1",
+            "Daylight Prairie Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }
