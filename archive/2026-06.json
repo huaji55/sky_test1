@@ -954,5 +954,43 @@
             "Valley of Triumph Treasure Candle-2",
             "Hidden Forest Season Candle group:a-2"
         ]
+    },
+    "2026-06-29": {
+        "tw": [
+            "向一位玩家揮手",
+            "抓住霞谷之光",
+            "重溫跳舞藝人在霞谷的記憶",
+            "拜訪圓夢村的溫泉"
+        ],
+        "candles_tw": [
+            "霞谷季蠟a組-2",
+            "暮土大蠟燭-3",
+            "霞谷季蠟a組-1",
+            "暮土大蠟燭-1"
+        ],
+        "cn": [
+            "向一位玩家挥手",
+            "抓住霞谷之光",
+            "在霞谷重温跳舞艺人的记忆",
+            "拜访园梦村的温泉"
+        ],
+        "candles_cn": [
+            "霞谷季蜡a组-2",
+            "暮土大蜡烛-3",
+            "霞谷季蜡a组-1",
+            "暮土大蜡烛-1"
+        ],
+        "en": [
+            "Wave to a player",
+            "Catch the light in Valley of Triumph",
+            "Relive Dancing Performer's memory from Valley of Triumph",
+            "Visit the Hotspring in the Village of Dreams"
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:a-2",
+            "Gloden Wasteland Treasure Candle-3",
+            "Valley of Triumph Season Candle group:a-1",
+            "Gloden Wasteland Treasure Candle-1"
+        ]
     }
 }

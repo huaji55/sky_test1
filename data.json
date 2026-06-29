@@ -1,74 +1,74 @@
 {
-    "updated_at": "2026-06-28 18:07:00 (GMT+8)",
+    "updated_at": "2026-06-29 15:04:51 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-06-28",
-        "date_tomorrow": "2026-06-29",
+        "date_today": "2026-06-29",
+        "date_tomorrow": "2026-06-30",
         "quests_today": [
-            "在雨林庭院外冥想",
-            "對 5 位不同玩家發出叫聲",
-            "在風之大道捕捉四散的光",
-            "在風之大道欣賞一下彩虹"
-        ],
-        "quests_tomorrow": [
             "向一位玩家揮手",
             "抓住霞谷之光",
             "重溫跳舞藝人在霞谷的記憶",
             "拜訪圓夢村的溫泉"
         ],
+        "quests_tomorrow": [
+            "淨化 10 處黑暗腐植",
+            "面對冥龍",
+            "捉弄一下威嚴的艦長",
+            "和朋友擊掌"
+        ],
         "candles_today": [
-            "雨林季蠟a組-1",
-            "霞谷大蠟燭-1",
-            "霞谷大蠟燭-2",
-            "雨林季蠟a組-2"
+            "霞谷季蠟a組-2",
+            "暮土大蠟燭-3",
+            "霞谷季蠟a組-1",
+            "暮土大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-06-28",
-        "date_tomorrow": "2026-06-29",
+        "date_today": "2026-06-29",
+        "date_tomorrow": "2026-06-30",
         "quests_today": [
-            "在雨林庭院外冥想",
-            "呼唤5位不同玩家",
-            "在风之大道捕捉漫游之光",
-            "在风之大道欣赏一下彩虹"
-        ],
-        "quests_tomorrow": [
             "向一位玩家挥手",
             "抓住霞谷之光",
             "在霞谷重温跳舞艺人的记忆",
             "拜访园梦村的温泉"
         ],
+        "quests_tomorrow": [
+            "净化 10 处黑暗腐植",
+            "面对冥龙",
+            "捉弄一下威严舰长",
+            "和朋友击掌"
+        ],
         "candles_today": [
-            "雨林季蜡a组-1",
-            "霞谷大蜡烛-1",
-            "霞谷大蜡烛-2",
-            "雨林季蜡a组-2"
+            "霞谷季蜡a组-2",
+            "暮土大蜡烛-3",
+            "霞谷季蜡a组-1",
+            "暮土大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-06-28",
-        "date_tomorrow": "2026-06-29",
+        "date_today": "2026-06-29",
+        "date_tomorrow": "2026-06-30",
         "quests_today": [
-            "Meditate outside the Forest Courtyard",
-            "Call to 5 different players",
-            "Catch the wandering lights in The Wind Paths",
-            "Admire the rainbow in the Wind Paths for a short while"
-        ],
-        "quests_tomorrow": [
             "Wave to a player",
             "Catch the light in Valley of Triumph",
             "Relive Dancing Performer's memory from Valley of Triumph",
             "Visit the Hotspring in the Village of Dreams"
         ],
+        "quests_tomorrow": [
+            "Melt 10 darkness",
+            "Face the Dark Dragon",
+            "Play a prank on Ceasing Commodore",
+            "High-Five a friend"
+        ],
         "candles_today": [
-            "Hidden Forest Season Candle group:a-1",
-            "Valley of Triumph Treasure Candle-1",
-            "Valley of Triumph Treasure Candle-2",
-            "Hidden Forest Season Candle group:a-2"
+            "Valley of Triumph Season Candle group:a-2",
+            "Gloden Wasteland Treasure Candle-3",
+            "Valley of Triumph Season Candle group:a-1",
+            "Gloden Wasteland Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }
