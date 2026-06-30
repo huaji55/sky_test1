@@ -992,5 +992,43 @@
             "Valley of Triumph Season Candle group:a-1",
             "Gloden Wasteland Treasure Candle-1"
         ]
+    },
+    "2026-06-30": {
+        "tw": [
+            "淨化 10 處黑暗腐植",
+            "面對冥龍",
+            "捉弄一下威嚴的艦長",
+            "和朋友擊掌"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-1",
+            "禁閣大蠟燭-2",
+            "暮土季蠟a組-1",
+            "暮土季蠟a組-2"
+        ],
+        "cn": [
+            "净化 10 处黑暗腐植",
+            "面对冥龙",
+            "捉弄一下威严舰长",
+            "和朋友击掌"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-1",
+            "禁阁大蜡烛-2",
+            "暮土季蜡a组-1",
+            "暮土季蜡a组-2"
+        ],
+        "en": [
+            "Melt 10 darkness",
+            "Face the Dark Dragon",
+            "Play a prank on Ceasing Commodore",
+            "High-Five a friend"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-1",
+            "Vault of Knowledge Treasure Candle-2",
+            "Gloden Wasteland Season Candle group:a-1",
+            "Gloden Wasteland Season Candle group:a-2"
+        ]
     }
 }
