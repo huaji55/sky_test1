@@ -1,74 +1,74 @@
 {
-    "updated_at": "2026-07-01 11:45:08 (GMT+8)",
+    "updated_at": "2026-07-01 18:32:49 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-06-30",
-        "date_tomorrow": "2026-07-01",
+        "date_today": "2026-07-01",
+        "date_tomorrow": "2026-07-02",
         "quests_today": [
-            "淨化 10 處黑暗腐植",
-            "面對冥龍",
-            "捉弄一下威嚴的艦長",
-            "和朋友擊掌"
-        ],
-        "quests_tomorrow": [
             "欣賞一下禁閣小樹苗",
             "重溫禮貌學者在禁閣的記憶",
             "在禁閣上層捕捉四散的光",
             "在禁閣神廟冥想"
         ],
+        "quests_tomorrow": [
+            "收集 綠色光芒",
+            "點亮 20 根蠟燭",
+            "對其他玩家使用表情",
+            "在雲野神廟外的錦鯉池旁冥想"
+        ],
         "candles_today": [
-            "禁閣大蠟燭-1",
-            "禁閣大蠟燭-2",
-            "暮土季蠟a組-1",
-            "暮土季蠟a組-2"
+            "禁閣季蠟a組-2",
+            "雲野大蠟燭-2",
+            "禁閣季蠟a組-1",
+            "雲野大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-06-30",
-        "date_tomorrow": "2026-07-01",
+        "date_today": "2026-07-01",
+        "date_tomorrow": "2026-07-02",
         "quests_today": [
-            "净化 10 处黑暗腐植",
-            "面对冥龙",
-            "捉弄一下威严舰长",
-            "和朋友击掌"
-        ],
-        "quests_tomorrow": [
             "坐赏禁阁小树苗",
             "在禁阁重温礼貌学者的记忆",
             "在禁阁上层捕捉四散的光",
             "在禁阁神庙冥想"
         ],
+        "quests_tomorrow": [
+            "收集 绿色光芒",
+            "点亮 20 根蜡烛",
+            "对玩家使用表情",
+            "在云野神庙外的锦鲤池旁冥想"
+        ],
         "candles_today": [
-            "禁阁大蜡烛-1",
-            "禁阁大蜡烛-2",
-            "暮土季蜡a组-1",
-            "暮土季蜡a组-2"
+            "禁阁季蜡a组-2",
+            "云野大蜡烛-2",
+            "禁阁季蜡a组-1",
+            "云野大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-06-30",
-        "date_tomorrow": "2026-07-01",
+        "date_today": "2026-07-01",
+        "date_tomorrow": "2026-07-02",
         "quests_today": [
-            "Melt 10 darkness",
-            "Face the Dark Dragon",
-            "Play a prank on Ceasing Commodore",
-            "High-Five a friend"
-        ],
-        "quests_tomorrow": [
             "Admire the sapling in the Vault of Knowledge for a short while",
             "Relive Polite Scholar's memory from Vault of Knowledge",
             "Catch the wandering lights in the Upper Vault",
             "Meditate at the Temple of the Vault"
         ],
+        "quests_tomorrow": [
+            "Collect Green Light",
+            "Light 20 candles",
+            "Use expressions with players",
+            "Meditate by the koi pond outside the Temple of the Prairie"
+        ],
         "candles_today": [
-            "Vault of Knowledge Treasure Candle-1",
-            "Vault of Knowledge Treasure Candle-2",
-            "Gloden Wasteland Season Candle group:a-1",
-            "Gloden Wasteland Season Candle group:a-2"
+            "Vault of Knowledge Season Candle group:a-2",
+            "Daylight Prairie Treasure Candle-2",
+            "Vault of Knowledge Season Candle group:a-1",
+            "Daylight Prairie Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }
