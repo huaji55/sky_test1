@@ -36,5 +36,43 @@
             "Vault of Knowledge Season Candle group:a-1",
             "Daylight Prairie Treasure Candle-1"
         ]
+    },
+    "2026-07-02": {
+        "tw": [
+            "收集 綠色光芒",
+            "點亮 20 根蠟燭",
+            "對其他玩家使用表情",
+            "在雲野神廟外的錦鯉池旁冥想"
+        ],
+        "candles_tw": [
+            "雲野季蠟a組-2",
+            "雨林大蠟燭-2",
+            "雲野季蠟a組-1",
+            "雨林大蠟燭-1"
+        ],
+        "cn": [
+            "收集 绿色光芒",
+            "点亮 20 根蜡烛",
+            "对玩家使用表情",
+            "在云野神庙外的锦鲤池旁冥想"
+        ],
+        "candles_cn": [
+            "云野季蜡a组-2",
+            "雨林大蜡烛-2",
+            "云野季蜡a组-1",
+            "雨林大蜡烛-1"
+        ],
+        "en": [
+            "Collect Green Light",
+            "Light 20 candles",
+            "Use expressions with players",
+            "Meditate by the koi pond outside the Temple of the Prairie"
+        ],
+        "candles_en": [
+            "Daylight Prairie Season Candle group:a-2",
+            "Hidden Forest Treasure Candle-2",
+            "Daylight Prairie Season Candle group:a-1",
+            "Hidden Forest Treasure Candle-1"
+        ]
     }
 }
